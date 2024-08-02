@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Reng Galvalum - Baja Ringan Besi.co.id</title>
-	<atom:link href="/category/reng-galvalum/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/reng-galvalum/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 11 Jul 2024 04:52:22 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Jual Reng Galvalum Kirim ke Toba Samosir</title>
-		<link>/jual-reng-galvalum-toba-samosir/</link>
+		<link>/jual-reng-galvalum-toba-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:22 +0000</pubDate>
@@ -110,7 +110,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Tebing Tinggi</title>
-		<link>/jual-reng-galvalum-tebing-tinggi/</link>
+		<link>/jual-reng-galvalum-tebing-tinggi.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:21 +0000</pubDate>
@@ -191,7 +191,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Tapanuli Utara</title>
-		<link>/jual-reng-galvalum-tapanuli-utara/</link>
+		<link>/jual-reng-galvalum-tapanuli-utara.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:20 +0000</pubDate>
@@ -272,7 +272,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Tapanuli Tengah</title>
-		<link>/jual-reng-galvalum-tapanuli-tengah/</link>
+		<link>/jual-reng-galvalum-tapanuli-tengah.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:19 +0000</pubDate>
@@ -353,7 +353,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Tapanuli Selatan</title>
-		<link>/jual-reng-galvalum-tapanuli-selatan/</link>
+		<link>/jual-reng-galvalum-tapanuli-selatan.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:18 +0000</pubDate>
@@ -434,7 +434,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Tanjung Balai</title>
-		<link>/jual-reng-galvalum-tanjung-balai/</link>
+		<link>/jual-reng-galvalum-tanjung-balai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:17 +0000</pubDate>
@@ -515,7 +515,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Simalungun</title>
-		<link>/jual-reng-galvalum-simalungun/</link>
+		<link>/jual-reng-galvalum-simalungun.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:15 +0000</pubDate>
@@ -596,7 +596,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Sibolga</title>
-		<link>/jual-reng-galvalum-sibolga/</link>
+		<link>/jual-reng-galvalum-sibolga.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:14 +0000</pubDate>
@@ -677,7 +677,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Serdang Bedagai</title>
-		<link>/jual-reng-galvalum-serdang-bedagai/</link>
+		<link>/jual-reng-galvalum-serdang-bedagai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:13 +0000</pubDate>
@@ -758,7 +758,7 @@
 			</item>
 		<item>
 		<title>Jual Reng Galvalum Kirim ke Pematang Siantar</title>
-		<link>/jual-reng-galvalum-pematang-siantar/</link>
+		<link>/jual-reng-galvalum-pematang-siantar.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 04:52:12 +0000</pubDate>

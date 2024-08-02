@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Baja Ringan Besi.co.id</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 11 Jul 2024 05:16:05 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Jual Hollow Galvalum Kirim ke Toba Samosir</title>
-		<link>/jual-hollow-galvalum-toba-samosir/</link>
+		<link>/jual-hollow-galvalum-toba-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:05 +0000</pubDate>
@@ -118,7 +118,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Tebing Tinggi</title>
-		<link>/jual-hollow-galvalum-tebing-tinggi/</link>
+		<link>/jual-hollow-galvalum-tebing-tinggi.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:05 +0000</pubDate>
@@ -207,7 +207,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Tapanuli Utara</title>
-		<link>/jual-hollow-galvalum-tapanuli-utara/</link>
+		<link>/jual-hollow-galvalum-tapanuli-utara.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:04 +0000</pubDate>
@@ -296,7 +296,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Tapanuli Tengah</title>
-		<link>/jual-hollow-galvalum-tapanuli-tengah/</link>
+		<link>/jual-hollow-galvalum-tapanuli-tengah.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:03 +0000</pubDate>
@@ -385,7 +385,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Tapanuli Selatan</title>
-		<link>/jual-hollow-galvalum-tapanuli-selatan/</link>
+		<link>/jual-hollow-galvalum-tapanuli-selatan.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:02 +0000</pubDate>
@@ -474,7 +474,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Tanjung Balai</title>
-		<link>/jual-hollow-galvalum-tanjung-balai/</link>
+		<link>/jual-hollow-galvalum-tanjung-balai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:01 +0000</pubDate>
@@ -563,7 +563,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Simalungun</title>
-		<link>/jual-hollow-galvalum-simalungun/</link>
+		<link>/jual-hollow-galvalum-simalungun.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:00 +0000</pubDate>
@@ -652,7 +652,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Sibolga</title>
-		<link>/jual-hollow-galvalum-sibolga/</link>
+		<link>/jual-hollow-galvalum-sibolga.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:16:00 +0000</pubDate>
@@ -741,7 +741,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Serdang Bedagai</title>
-		<link>/jual-hollow-galvalum-serdang-bedagai/</link>
+		<link>/jual-hollow-galvalum-serdang-bedagai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:15:59 +0000</pubDate>
@@ -830,7 +830,7 @@
 			</item>
 		<item>
 		<title>Jual Hollow Galvalum Kirim ke Samosir</title>
-		<link>/jual-hollow-galvalum-samosir/</link>
+		<link>/jual-hollow-galvalum-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2024 05:15:58 +0000</pubDate>

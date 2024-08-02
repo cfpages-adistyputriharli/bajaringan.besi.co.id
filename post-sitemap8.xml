@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/hello-world/</loc>
+		<loc>/hello-world.html</loc>
 		<lastmod>2017-03-09T03:18:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-bangkalan/</loc>
+		<loc>/jual-reng-galvalum-bangkalan.html</loc>
 		<lastmod>2024-07-11T04:44:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -24,7 +24,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-banyuwangi/</loc>
+		<loc>/jual-reng-galvalum-banyuwangi.html</loc>
 		<lastmod>2024-07-11T04:44:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -43,7 +43,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-batu/</loc>
+		<loc>/jual-reng-galvalum-batu.html</loc>
 		<lastmod>2024-07-11T04:44:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -62,7 +62,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-blitar/</loc>
+		<loc>/jual-reng-galvalum-blitar.html</loc>
 		<lastmod>2024-07-11T04:44:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -81,7 +81,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-bojonegoro/</loc>
+		<loc>/jual-reng-galvalum-bojonegoro.html</loc>
 		<lastmod>2024-07-11T04:44:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -100,7 +100,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-bondowoso/</loc>
+		<loc>/jual-reng-galvalum-bondowoso.html</loc>
 		<lastmod>2024-07-11T04:44:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -119,7 +119,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-gresik/</loc>
+		<loc>/jual-reng-galvalum-gresik.html</loc>
 		<lastmod>2024-07-11T04:44:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -138,7 +138,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-jember/</loc>
+		<loc>/jual-reng-galvalum-jember.html</loc>
 		<lastmod>2024-07-11T04:44:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -157,7 +157,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-jombang/</loc>
+		<loc>/jual-reng-galvalum-jombang.html</loc>
 		<lastmod>2024-07-11T04:44:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -176,7 +176,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-kediri/</loc>
+		<loc>/jual-reng-galvalum-kediri.html</loc>
 		<lastmod>2024-07-11T04:44:36+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -195,7 +195,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-lamongan/</loc>
+		<loc>/jual-reng-galvalum-lamongan.html</loc>
 		<lastmod>2024-07-11T04:44:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -214,7 +214,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-lumajang/</loc>
+		<loc>/jual-reng-galvalum-lumajang.html</loc>
 		<lastmod>2024-07-11T04:44:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -233,7 +233,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-madiun/</loc>
+		<loc>/jual-reng-galvalum-madiun.html</loc>
 		<lastmod>2024-07-11T04:44:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -252,7 +252,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-magetan/</loc>
+		<loc>/jual-reng-galvalum-magetan.html</loc>
 		<lastmod>2024-07-11T04:44:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -271,7 +271,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-malang/</loc>
+		<loc>/jual-reng-galvalum-malang.html</loc>
 		<lastmod>2024-07-11T04:44:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -290,7 +290,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-mojokerto/</loc>
+		<loc>/jual-reng-galvalum-mojokerto.html</loc>
 		<lastmod>2024-07-11T04:44:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -309,7 +309,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-nganjuk/</loc>
+		<loc>/jual-reng-galvalum-nganjuk.html</loc>
 		<lastmod>2024-07-11T04:44:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -328,7 +328,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-ngawi/</loc>
+		<loc>/jual-reng-galvalum-ngawi.html</loc>
 		<lastmod>2024-07-11T04:44:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -347,7 +347,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-pacitan/</loc>
+		<loc>/jual-reng-galvalum-pacitan.html</loc>
 		<lastmod>2024-07-11T04:44:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -366,7 +366,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-pamekasan/</loc>
+		<loc>/jual-reng-galvalum-pamekasan.html</loc>
 		<lastmod>2024-07-11T04:44:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -385,7 +385,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-pasuruan/</loc>
+		<loc>/jual-reng-galvalum-pasuruan.html</loc>
 		<lastmod>2024-07-11T04:44:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -404,7 +404,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-ponorogo/</loc>
+		<loc>/jual-reng-galvalum-ponorogo.html</loc>
 		<lastmod>2024-07-11T04:44:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -423,7 +423,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-probolinggo/</loc>
+		<loc>/jual-reng-galvalum-probolinggo.html</loc>
 		<lastmod>2024-07-11T04:44:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -442,7 +442,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-sampang/</loc>
+		<loc>/jual-reng-galvalum-sampang.html</loc>
 		<lastmod>2024-07-11T04:44:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -461,7 +461,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-sidoarjo/</loc>
+		<loc>/jual-reng-galvalum-sidoarjo.html</loc>
 		<lastmod>2024-07-11T04:44:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -480,7 +480,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-situbondo/</loc>
+		<loc>/jual-reng-galvalum-situbondo.html</loc>
 		<lastmod>2024-07-11T04:44:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -499,7 +499,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-sumenep/</loc>
+		<loc>/jual-reng-galvalum-sumenep.html</loc>
 		<lastmod>2024-07-11T04:44:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -518,7 +518,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-surabaya/</loc>
+		<loc>/jual-reng-galvalum-surabaya.html</loc>
 		<lastmod>2024-07-11T04:44:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -537,7 +537,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-trenggalek/</loc>
+		<loc>/jual-reng-galvalum-trenggalek.html</loc>
 		<lastmod>2024-07-11T04:44:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -556,7 +556,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-tuban/</loc>
+		<loc>/jual-reng-galvalum-tuban.html</loc>
 		<lastmod>2024-07-11T04:44:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -575,7 +575,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-tulungagung/</loc>
+		<loc>/jual-reng-galvalum-tulungagung.html</loc>
 		<lastmod>2024-07-11T04:45:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -594,7 +594,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-banjarnegara/</loc>
+		<loc>/jual-reng-galvalum-banjarnegara.html</loc>
 		<lastmod>2024-07-11T04:45:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -613,7 +613,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-banyumas/</loc>
+		<loc>/jual-reng-galvalum-banyumas.html</loc>
 		<lastmod>2024-07-11T04:45:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -632,7 +632,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-batang/</loc>
+		<loc>/jual-reng-galvalum-batang.html</loc>
 		<lastmod>2024-07-11T04:45:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -651,7 +651,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-blora/</loc>
+		<loc>/jual-reng-galvalum-blora.html</loc>
 		<lastmod>2024-07-11T04:45:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -670,7 +670,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-boyolali/</loc>
+		<loc>/jual-reng-galvalum-boyolali.html</loc>
 		<lastmod>2024-07-11T04:45:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -689,7 +689,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-brebes/</loc>
+		<loc>/jual-reng-galvalum-brebes.html</loc>
 		<lastmod>2024-07-11T04:45:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -708,7 +708,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-cilacap/</loc>
+		<loc>/jual-reng-galvalum-cilacap.html</loc>
 		<lastmod>2024-07-11T04:45:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -727,7 +727,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-demak/</loc>
+		<loc>/jual-reng-galvalum-demak.html</loc>
 		<lastmod>2024-07-11T04:45:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -746,7 +746,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-grobogan/</loc>
+		<loc>/jual-reng-galvalum-grobogan.html</loc>
 		<lastmod>2024-07-11T04:45:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -765,7 +765,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-jepara/</loc>
+		<loc>/jual-reng-galvalum-jepara.html</loc>
 		<lastmod>2024-07-11T04:45:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -784,7 +784,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-karanganyar/</loc>
+		<loc>/jual-reng-galvalum-karanganyar.html</loc>
 		<lastmod>2024-07-11T04:45:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -803,7 +803,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-kebumen/</loc>
+		<loc>/jual-reng-galvalum-kebumen.html</loc>
 		<lastmod>2024-07-11T04:45:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -822,7 +822,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-kendal/</loc>
+		<loc>/jual-reng-galvalum-kendal.html</loc>
 		<lastmod>2024-07-11T04:45:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -841,7 +841,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-klaten/</loc>
+		<loc>/jual-reng-galvalum-klaten.html</loc>
 		<lastmod>2024-07-11T04:45:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -860,7 +860,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-kudus/</loc>
+		<loc>/jual-reng-galvalum-kudus.html</loc>
 		<lastmod>2024-07-11T04:45:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -879,7 +879,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-magelang/</loc>
+		<loc>/jual-reng-galvalum-magelang.html</loc>
 		<lastmod>2024-07-11T04:45:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -898,7 +898,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-pati/</loc>
+		<loc>/jual-reng-galvalum-pati.html</loc>
 		<lastmod>2024-07-11T04:45:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -917,7 +917,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-pekalongan/</loc>
+		<loc>/jual-reng-galvalum-pekalongan.html</loc>
 		<lastmod>2024-07-11T04:45:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -936,7 +936,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-pemalang/</loc>
+		<loc>/jual-reng-galvalum-pemalang.html</loc>
 		<lastmod>2024-07-11T04:45:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -955,7 +955,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-purbalingga/</loc>
+		<loc>/jual-reng-galvalum-purbalingga.html</loc>
 		<lastmod>2024-07-11T04:45:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -974,7 +974,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-purworejo/</loc>
+		<loc>/jual-reng-galvalum-purworejo.html</loc>
 		<lastmod>2024-07-11T04:45:36+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -993,7 +993,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-rembang/</loc>
+		<loc>/jual-reng-galvalum-rembang.html</loc>
 		<lastmod>2024-07-11T04:45:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1012,7 +1012,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-salatiga/</loc>
+		<loc>/jual-reng-galvalum-salatiga.html</loc>
 		<lastmod>2024-07-11T04:45:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1031,7 +1031,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-semarang/</loc>
+		<loc>/jual-reng-galvalum-semarang.html</loc>
 		<lastmod>2024-07-11T04:45:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1050,7 +1050,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-sragen/</loc>
+		<loc>/jual-reng-galvalum-sragen.html</loc>
 		<lastmod>2024-07-11T04:45:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1069,7 +1069,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-sukoharjo/</loc>
+		<loc>/jual-reng-galvalum-sukoharjo.html</loc>
 		<lastmod>2024-07-11T04:45:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1088,7 +1088,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-surakarta/</loc>
+		<loc>/jual-reng-galvalum-surakarta.html</loc>
 		<lastmod>2024-07-11T04:45:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1107,7 +1107,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-tegal/</loc>
+		<loc>/jual-reng-galvalum-tegal.html</loc>
 		<lastmod>2024-07-11T04:45:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1126,7 +1126,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-temanggung/</loc>
+		<loc>/jual-reng-galvalum-temanggung.html</loc>
 		<lastmod>2024-07-11T04:45:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1145,7 +1145,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-wonogiri/</loc>
+		<loc>/jual-reng-galvalum-wonogiri.html</loc>
 		<lastmod>2024-07-11T04:45:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1164,7 +1164,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-wonosobo/</loc>
+		<loc>/jual-reng-galvalum-wonosobo.html</loc>
 		<lastmod>2024-07-11T04:45:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1183,7 +1183,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-bantul/</loc>
+		<loc>/jual-reng-galvalum-bantul.html</loc>
 		<lastmod>2024-07-11T04:45:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
@@ -1202,7 +1202,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-reng-galvalum-gunungkidul/</loc>
+		<loc>/jual-reng-galvalum-gunungkidul.html</loc>
 		<lastmod>2024-07-11T04:45:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-reng-galvalum.jpg</image:loc>
