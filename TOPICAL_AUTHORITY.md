@@ -143,4 +143,3 @@ This cluster creates a coherent path from terminology and product evidence throu
 - First-wave pages receive qualified technical/editorial review before publication.
 - Canonicals, redirects/noindex, sitemap membership, internal links, and live HTTP behavior agree.
 - Search Console and lead-quality monitoring confirms useful intent coverage without same-domain cannibalization.
-

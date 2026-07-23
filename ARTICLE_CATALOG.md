@@ -149,4 +149,3 @@ Statistics: 17 parent topics; 6 briefs each; 102 unique planned articles; 0 city
 | LGS-16 | 6 | 6 | 0 | 0 | 0 | K3 cluster |
 | LGS-17 | 6 | 4 | 1 | 1 | 0 | No remote diagnosis |
 | **Total** | **102** | **67** | **31** | **4** | **0** | **Six briefs per topic; zero geographic briefs** |
-
