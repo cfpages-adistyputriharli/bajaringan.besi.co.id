@@ -1,0 +1,197 @@
+---
+article_id: LGS-11-06
+title: "Inspeksi Penerimaan Baja Ringan di Proyek"
+slug: "inspeksi-penerimaan-baja-ringan"
+description: "Verify quantities, identity, documents, coating, deformation, wetness, fasteners, and quarantine"
+status: outline
+publication_date: "2026-03-06"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: LGS-11
+primary_intent: "Accept delivery"
+reader_community: "Besi.co.id"
+reader_address: "Sobat Besi.co.id"
+final_route: "/artikel/inspeksi-penerimaan-baja-ringan.html"
+technical_review: required
+sources:
+  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
+  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
+  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
+  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
+  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
+  - "https://www.iso.org/standard/72532.html"
+  - "https://www.iso.org/standard/90678.html"
+  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Inspeksi Penerimaan Baja Ringan di Proyek
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Inspeksi Penerimaan Baja Ringan di Proyek”
+- **Reader and situation:** Site receiver/QA
+- **Reader outcome:** Verify quantities, identity, documents, coating, deformation, wetness, fasteners, and quarantine
+- **Primary intent:** Accept delivery
+- **Reader community:** `Besi.co.id`
+- **Primary friendly address:** `Sobat Besi.co.id`
+- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Final acceptance belongs to LGS-13-03
+- **Final public route:** `/artikel/inspeksi-penerimaan-baja-ringan.html`
+- **Appointed CMS date:** `2026-03-06` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspeksi Penerimaan Baja Ringan di Proyek**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
+- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+
+### KR-18
+
+- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
+- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
+- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
+- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
+
+### KR-19
+
+- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
+- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
+- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
+- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+
+### KR-21
+
+- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
+- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
+- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
+- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+
+### KR-22
+
+- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
+- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
+- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
+- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
+
+## Evidence gates
+
+- **GATE-01:** Resolve the gate from current project evidence and competent review.
+- **GATE-02:** Resolve the gate from current project evidence and competent review.
+- **GATE-03:** Resolve the gate from current project evidence and competent review.
+- **GATE-04:** Resolve the gate from current project evidence and competent review.
+- **GATE-08:** Resolve the gate from current project evidence and competent review.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `LGS-11-04` → `/artikel/transport-baja-ringan.html` — Rencana Muat dan Transport Komponen Baja Ringan
+- `LGS-11-05` → `/artikel/unloading-baja-ringan.html` — Unloading Baja Ringan: Area, Urutan, dan Serah Terima
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Tentukan objek, kondisi, dan tahap siklus hidup
+
+- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
+- **Tie back to this article:** Keep the explanation specific to “Inspeksi Penerimaan Baja Ringan di Proyek”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Mekanisme perubahan atau penurunan kinerja
+
+- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
+- **Tie back to this article:** Keep the explanation specific to “Inspeksi Penerimaan Baja Ringan di Proyek”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Inspeksi dan data yang perlu dicatat
+
+- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
+- **Tie back to this article:** Keep the explanation specific to “Inspeksi Penerimaan Baja Ringan di Proyek”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pilihan perawatan atau intervensi
+
+- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
+- **Tie back to this article:** Keep the explanation specific to “Inspeksi Penerimaan Baja Ringan di Proyek”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Cara menentukan prioritas
+
+- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
+- **Tie back to this article:** Keep the explanation specific to “Inspeksi Penerimaan Baja Ringan di Proyek”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Rekaman, handover, dan pemicu pemeriksaan ulang
+
+- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
+- **Tie back to this article:** Keep the explanation specific to “Inspeksi Penerimaan Baja Ringan di Proyek”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
