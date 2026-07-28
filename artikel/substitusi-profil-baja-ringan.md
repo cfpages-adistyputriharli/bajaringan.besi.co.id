@@ -2,8 +2,8 @@
 article_id: LGS-04-05
 title: "Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau"
 slug: "substitusi-profil-baja-ringan"
-description: "Compare material, coating, geometry, properties, connections, system approval, and traceability"
-status: outline
+description: "Panduan membandingkan material, lapisan, geometri, sifat, sambungan, persetujuan sistem, dan ketertelusuran saat profil baja ringan diganti"
+status: draft
 publication_date: "2025-09-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,200 +13,91 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/substitusi-profil-baja-ringan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.aisc.org/aisc/solutions-center/hss/"
-  - "https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf"
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Profil pengganti tidak menjadi setara hanya karena namanya sama atau ukuran luarnya terlihat mirip. Kesetaraan harus dibuktikan pada bentuk penampang, ketebalan, material dasar, lapisan, sifat mekanik, sambungan, fungsi sistem, dan jejak dokumen. Bila satu bagian belum terjawab, status yang jujur adalah “belum disetujui”, bukan “bisa dipakai”.
 
-- **Writer task:** Expand this file into one complete article answering: “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”
-- **Reader and situation:** Contractor/designer
-- **Reader outcome:** Compare material, coating, geometry, properties, connections, system approval, and traceability
-- **Primary intent:** Review alternate
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No automatic equivalence; LGS-05-06 owns change process
-- **Final public route:** `/artikel/substitusi-profil-baja-ringan.html`
-- **Appointed CMS date:** `2025-09-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, bekukan pemasangan, bandingkan profil lama dan calon pengganti dalam tabel, lalu minta persetujuan perubahan dari peninjau proyek. Kebutuhan, beban, gambar, kondisi lokasi, serta cara pengujian dapat mengubah hasil. Artikel ini memberi kerangka bukti; bukan izin otomatis atau keputusan desain.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-09
-
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-04-03` → `/artikel/fungsi-reng-baja-ringan.html` — Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak
-- `LGS-04-04` → `/artikel/fungsi-hollow-galvalum.html` — Hollow Galvalum: Kapan Struktural dan Non-Struktural Tidak Boleh Disamakan
-- `LGS-04-06` → `/artikel/profil-standar-vs-kustom.html` — Produk Standar atau Kustom: Dampak pada Desain, Produksi, dan Jadwal
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<p><em>Aset lokal proyek; bukan dokumentasi proyek tertentu.</em></p>
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesamaan tinggi dan lebar belum berarti luas penampang, momen inersia, sumbu lemah, bibir, radius, atau ketebalan efektifnya sama. Perubahan kecil pada lip atau lubang dapat mengubah cara profil menekuk dan menerima sambungan. Lapisan yang berbeda juga dapat memengaruhi perlindungan serta kecocokan pengikat.
+
+Katalog BSN membedakan keluarga profil dan produk baja datar; sebuah rekaman atau label dagang tidak menetapkan semua karakteristik produk ([katalog profil BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=); [katalog baja datar BSN](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=)). [NEEDS GATE-01: pastikan dokumen pengadaan, gambar, dan spesifikasi awal yang menjadi dasar perbandingan.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Substitusi berarti mengusulkan produk lain untuk fungsi yang semula ditetapkan. “Setara” berarti bukti produk dan sistem memenuhi persyaratan yang sama pada kondisi proyek tertentu; bukan berarti semua angkanya harus identik. ISO 6929 membantu membedakan istilah bentuk dan tahap pembuatan baja, tetapi kosakata tidak membuktikan mutu, toleransi, lapisan, atau kesesuaian ([ISO 6929](https://www.iso.org/standard/52949.html)).
+
+Artikel ini tidak memilih profil pengganti, menghitung kapasitas, atau menggantikan proses perubahan resmi. Jika konteksnya kanal rangka, [hub Kanal C Galvalum](/kanal-c-galvalum) dapat membantu mengenali jenis profil; persetujuan tetap berasal dari dokumen proyek dan peninjau berwenang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun tabel dengan baris: identitas produk, bentuk penampang, dimensi, ketebalan dasar dan lapisan, mutu, sifat mekanik, lubang atau detail fabrikasi, pengikat, sambungan, perlindungan, pemasangan, dan dokumen. Isi kolom “persyaratan awal”, “calon pengganti”, “bukti”, dan “status”. Jangan mengisi status cocok sebelum bukti benar-benar terhubung ke barang.
+
+Unpack label profil menjadi ukuran aktual, sumbu, massa, material, dan standar produk. Sumber AISC tentang HSS (profil berongga struktural) berguna sebagai contoh bahwa label harus dibaca bersama geometri dan identitas material, bukan diambil sebagai aturan pasokan Indonesia ([AISC HSS](https://www.aisc.org/aisc/solutions-center/hss/)).
+
+Bandingkan sistem, bukan batang sendirian. Tanyakan apakah pengikat, jarak, pengaku, penutup, dan detail ujung masih cocok. Rekaman SNI 1729:2020, SNI 8369:2020, dan SNI 7971:2013 menunjukkan adanya lapisan aturan dan desain yang berbeda; halaman publik tidak menyediakan perhitungan proyek ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020); [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Faktor pertama adalah geometri: lebar, tinggi, bibir, radius, lubang, dan arah pembentukan. Kedua adalah material: grade, ketebalan dasar, lapisan, dan sertifikat batch. Ketiga adalah mekanisme: tekuk lokal, distorsi, gaya sambungan, dan stabilitas. Keempat adalah lingkungan: kelembapan, garam, bahan kimia, serta kontak logam berbeda. Kelima adalah pelaksanaan: alat, toleransi, penyimpanan, dan kemampuan pemasang.
+
+Jika satu faktor berubah, konsekuensinya mungkin menjalar ke gambar, jumlah, jadwal, atau garansi. [NEEDS GATE-02: minta penilaian desain terhadap kapasitas, stabilitas, sambungan, dan perubahan jalur beban.] [NEEDS GATE-03: verifikasi bahwa sertifikat dan penandaan calon pengganti dapat ditelusuri ke lot yang diterima.]
+
+Pisahkan bukti produk dari bukti sistem. Lembar data dan sertifikat menjelaskan barang; gambar, perhitungan, dan catatan inspeksi menjelaskan bagaimana barang bekerja dalam proyek. Pernyataan pemasok bahwa profil “biasa dipakai” tidak menggantikan pembuktian untuk lokasi, beban, sambungan, dan kondisi pemasangan Anda. Bila perubahan menyentuh jalur beban atau fungsi kebakaran, libatkan peninjau yang berwenang lebih awal agar tim tidak mengerjakan ulang setelah material tiba.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya profil pengganti memiliki tinggi sama tetapi sayap lebih lebar dan lapisan berbeda. Jangan langsung menyimpulkan lebih kuat. Catat perbedaan, minta tabel sifat penampang dan sertifikat, periksa ruang pemasangan serta pengikat, lalu minta peninjau menilai gambar revisi. Selama langkah itu belum selesai, simpan material sebagai usulan, bukan stok terpasang.
+
+Jika profil awal tidak tersedia, bandingkan juga dampak pengadaan: waktu tunggu, panjang standar, sambungan tambahan, dan inspeksi. Harga atau ketersediaan hanya menjadi pertimbangan setelah kesetaraan teknis terbukti.
+
+Tuliskan hasil sementara secara eksplisit: “cocok”, “tidak cocok”, atau “menunggu bukti”. Sertakan siapa yang diminta menjawab dan tanggal jatuh tempo. Status sementara mencegah pembelian berjalan seolah-olah sudah disetujui, sekaligus memberi pemasok daftar kekurangan yang dapat ditutup dengan dokumen yang tepat.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan umum adalah memakai katalog penjual sebagai satu-satunya bukti, menyamakan merek dengan grade, mengabaikan lapisan, dan menguji satu potong lalu menganggap seluruh lot sama. Kesalahan lain adalah mengubah gambar di lapangan tanpa nomor revisi atau persetujuan.
 
-## Objection or shortcut to address
+Gunakan daftar periksa: gambar awal, gambar usulan, kode produk, dimensi lengkap, ketebalan, lapisan, mutu, sertifikat, sambungan, pengaku, lingkungan, metode pemasangan, inspeksi, dan rekaman lot. Tandai setiap kekurangan sebagai “perlu klarifikasi”. [NEEDS GATE-04: proses persetujuan perubahan harus selesai sebelum fabrikasi atau pemasangan.] [NEEDS GATE-05: tetapkan kriteria penerimaan dan siapa yang menandatangani serah terima.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dicoba
 
-## Required conclusion
+Jalan pintasnya adalah memilih profil yang tersedia dengan ukuran luar paling dekat. Cara ini gagal karena karakteristik penting bisa berbeda pada sumbu lemah, bibir, lubang, sambungan, atau lapisan. Penghematan waktu di awal dapat berubah menjadi potong ulang, penguatan tambahan, atau sengketa tanggung jawab.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatifnya, minta penyedia mengisi tabel kesetaraan dan melampirkan bukti per baris. Sobat Besi.co.id, bila jawaban “setara” hanya berupa kalimat tanpa geometri, sertifikat, dan persetujuan, anggap proses belum selesai. Untuk klarifikasi kode dan ketersediaan, gunakan [halaman kontak](/kontak) dengan membawa gambar serta dokumen, bukan nama dagang saja.
 
-## Draft completion checklist
+## Kesimpulan: kesetaraan harus dibuktikan per lapisan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Substitusi profil baja ringan aman dibahas hanya setelah material, lapisan, geometri, sifat, sambungan, fungsi sistem, dan ketertelusuran dibandingkan pada dasar yang sama. Kemiripan visual atau harga lebih rendah tidak membuktikan kesetaraan.
+
+Langkah berikutnya, bekukan usulan, lengkapi matriks bukti, dan kirim untuk review perubahan resmi. Teman Besi.co.id, pegang aturan ini: profil pengganti belum setara sampai persyaratan proyek, bukti produk, dan persetujuan sistem bertemu dalam satu rekaman yang dapat diaudit.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+Tuliskan hasil sementara secara eksplisit: “cocok”, “tidak cocok”, atau “menunggu bukti”. Sertakan siapa yang diminta menjawab dan tanggal jatuh tempo. Status sementara mencegah pembelian berjalan seolah-olah sudah disetujui, sekaligus memberi pemasok daftar kekurangan yang dapat ditutup dengan dokumen yang tepat.
+
+Catatan ini juga menjaga jejak saat anggota tim berganti. Orang berikutnya dapat melihat asumsi yang belum terbukti, bukan mengulang perbandingan dari awal atau mengandalkan percakapan lisan.

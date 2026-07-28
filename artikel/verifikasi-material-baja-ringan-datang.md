@@ -2,8 +2,9 @@
 article_id: LGS-13-03
 title: "Verifikasi Dokumen dan Produk saat Material Datang"
 slug: "verifikasi-material-baja-ringan-datang"
-description: "Compare order, identity, dimensions, coating evidence, quantity, condition, and status"
-status: outline
+description: "Panduan mencocokkan pesanan, identitas, ukuran, bukti lapisan, jumlah, kondisi, dan status material baja ringan saat tiba."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,191 +21,79 @@ sources:
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/72532.html"
   - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Verifikasi Dokumen dan Produk saat Material Datang
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Material yang turun dari truk belum otomatis menjadi material yang diterima. Langkah pertama adalah mencocokkan pesanan, identitas pada label, dokumen mutu, ukuran, jumlah, dan kondisi fisiknya. Jika satu bagian berbeda atau tidak terbukti, beri status tertahan atau perlu klarifikasi sebelum material bercampur dengan stok lain.
 
-- **Writer task:** Expand this file into one complete article answering: “Verifikasi Dokumen dan Produk saat Material Datang”
-- **Reader and situation:** Receiver/QA
-- **Reader outcome:** Compare order, identity, dimensions, coating evidence, quantity, condition, and status
-- **Primary intent:** Inspect incoming product
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No acceptance values; LGS-02-03 owns measurement method
-- **Final public route:** `/artikel/verifikasi-material-baja-ringan-datang.html`
-- **Appointed CMS date:** `2026-04-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, buat pemeriksaan berlapis: dokumen dulu, identitas lot berikutnya, lalu kondisi dan jumlah. ISO 10474 menempatkan dokumen inspeksi dalam hubungan dengan pesanan, produsen, produk, heat atau batch, dimensi, dan hasil uji; ISO/IEC 17025 membantu menilai kompetensi laboratorium, tetapi akreditasi tidak sendirian membuktikan barang tertentu sesuai ([ISO 10474](https://www.iso.org/standard/53736.html); [ISO/IEC 17025](https://www.iso.org/standard/66912.html)).
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Verifikasi Dokumen dan Produk saat Material Datang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<p><em>Aset lokal proyek; bukan dokumentasi proyek tertentu.</em></p>
 
+## Definisikan kebutuhan sebelum pemeriksaan
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Siapkan pesanan pembelian, gambar dan revisi yang berlaku, daftar material, spesifikasi, rencana pemeriksaan, serta petunjuk pemasok. Tuliskan bentuk produk, kode, ukuran nominal, lapisan, jumlah, dan batas kondisi yang harus diperiksa. Tanpa dasar ini, penerima hanya dapat mencatat fakta kedatangan, bukan menyatakan sesuai.
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Jika material untuk rangka, kenali konteks produknya di [hub Kanal C Galvalum](/kanal-c-galvalum) atau [hub Reng Galvalum](/reng-galvalum), lalu kembali ke kode dan dokumen pesanan. Halaman produk membantu orientasi, bukan menggantikan identitas batch atau kriteria penerimaan.
 
-## Evidence packet
+## Buat pemeriksaan benar-benar sebanding
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Gunakan satu lembar dengan kolom “persyaratan”, “dokumen”, “fisik”, “status”, dan “tindak lanjut”. Cocokkan nama produsen, kode produk, nomor heat atau batch, tanggal, dan tanda pada bundel. Pastikan jumlah bundel serta panjang atau jumlah batang dihitung dengan satuan yang sama dengan pesanan.
 
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-13-01` → `/artikel/itp-baja-ringan.html` — ITP Baja Ringan: Hold, Witness, Review, dan Record Point
-- `LGS-13-02` → `/artikel/traceability-rangka-baja-ringan.html` — Traceability dari Sertifikat Material ke Posisi Terpasang
-- `LGS-13-04` → `/artikel/inspeksi-rangka-baja-ringan-terpasang.html` — Inspeksi Rangka Terpasang: Member, Fastener, Bracing, dan Interface
-- `LGS-13-05` → `/artikel/pengujian-sertifikat-baja-ringan.html` — Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Definisikan kebutuhan sebelum meminta harga
-
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi Dokumen dan Produk saat Material Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Buat penawaran benar-benar sebanding
-
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi Dokumen dan Produk saat Material Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Periksa dokumen sebelum membongkar seluruh muatan. Cari hubungan jelas antara sertifikat dan barang: nomor lot, ukuran, metode uji, nilai yang dilaporkan, serta otorisasi penerbit. Dokumen tanpa nomor lot atau dengan deskripsi umum “baja ringan” belum cukup untuk telusur.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi Dokumen dan Produk saat Material Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lembar data menjelaskan karakteristik yang diklaim; sertifikat menghubungkan hasil ke produk; laporan uji menunjukkan metode, benda uji, dan hasil; gambar menunjukkan kebutuhan proyek. Dokumen rantai pasok juga memiliki jenis klaim berbeda. ISO 22095 membedakan identitas fisik, neraca massa, dan klaim administratif; perubahan atau bagian baru perlu diperiksa pada dokumen yang berlaku ([ISO 22095](https://www.iso.org/standard/72532.html); [Amd 1:2026](https://www.iso.org/standard/90678.html)). Jangan menyamakan logo keberlanjutan dengan bukti bahwa setiap bundel terpisah dan terlacak.
+
+Jika ada laporan pemeriksaan tak merusak (NDT), periksa objek, sambungan, metode, prosedur, personel, peralatan, cakupan, temuan, kriteria, dan disposisi. ISO 17635 dan ISO 9712 menekankan unsur-unsur tersebut; tulisan “NDT passed” tanpa rincian bukan keputusan penerimaan ([ISO 17635](https://www.iso.org/standard/85705.html); [ISO 9712](https://www.iso.org/standard/75614.html)).
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi Dokumen dan Produk saat Material Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tanyakan: dokumen ini untuk lot mana; siapa penerbit dan laboratoriumnya; metode dan edisi apa yang dipakai; bagaimana sampel dipilih; apakah ukuran pada sertifikat cocok dengan barang; bagaimana lapisan dibuktikan; dan dokumen apa yang menyertai pengiriman berikutnya? Minta jawaban tertulis serta revisi dokumen bila terdapat perbedaan.
 
-## Red flag dan biaya yang sering tersembunyi
+Atur alur fisik agar lot yang belum diperiksa tidak menutup akses ke lot yang sudah jelas. Gunakan area bertanda, daftar lokasi penyimpanan, dan catatan perpindahan. Bila kemasan dibuka untuk pemeriksaan, tutup kembali dengan cara yang tidak menghilangkan label. Rekaman sederhana ini membantu tim menemukan kembali material dan mengurangi risiko tertukar saat pekerjaan berjalan.
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi Dokumen dan Produk saat Material Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk sampling, jangan memilih ukuran sampel atau AQL dari ringkasan umum. ISO 2859-1 dan ISO 28590 memberi kerangka lot dan sampel atribut, tetapi kriteria, frekuensi, dan keputusan rilis harus berasal dari rencana pemeriksaan serta standar produk yang disetujui ([ISO 2859-1](https://www.iso.org/standard/85464.html); [ISO 28590](https://www.iso.org/standard/64622.html)). [NEEDS GATE-01: pastikan rencana sampling dan kriteria penerimaan proyek tersedia sebelum memutuskan status lot.]
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Tanda bahaya meliputi label yang hilang, sertifikat batch lain, bundel basah tanpa catatan, ukuran campur, lapisan tergores berat, dan jumlah berbeda dari surat jalan. Jangan menyembunyikan perbedaan dengan memindahkan material ke gudang umum. Tandai, foto, dan pisahkan agar biaya pemeriksaan ulang, pengembalian, atau pengiriman pengganti dapat dilacak.
+
+Perhatikan juga biaya waktu tunggu dan akses. Material yang statusnya belum jelas mungkin tidak boleh dipasang, tetapi keputusan itu harus dicatat agar jadwal tidak tampak terlambat tanpa sebab. [NEEDS GATE-02: tetapkan siapa yang berwenang menahan, menerima bersyarat, atau menolak lot.]
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi Dokumen dan Produk saat Material Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan status sederhana: diterima, diterima bersyarat, ditahan, atau ditolak. “Diterima bersyarat” harus memiliki daftar tindakan, batas waktu, dan larangan penggunaan pada bagian yang belum terbukti. Simpan foto label, catatan jumlah, hasil pemeriksaan, surat jalan, korespondensi, dan tanda tangan pemeriksa dalam satu berkas.
 
-## Objection or shortcut to address
+Jika hasil ukur berbeda, jangan langsung menyimpulkan gagal tanpa metode dan toleransi yang benar. Scope artikel ini tidak menetapkan nilai penerimaan atau metode pengukuran; minta pemeriksa yang berwenang menentukan langkah berikutnya. [NEEDS GATE-03: pastikan setiap deviasi memiliki kriteria disposisi dan persetujuan tertulis.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Bandingkan juga kondisi fisik dengan catatan pengiriman. Goresan, penyok, air di dalam kemasan, atau label yang terlepas perlu diberi nomor temuan dan lokasi. Jangan memperbaiki atau membersihkan sebelum foto dan keputusan awal tersimpan, karena tindakan cepat dapat menghapus bukti kondisi saat tiba. Catatan ini juga melindungi pemasok dan penerima dari tuduhan yang tidak berdasar dengan menunjukkan urutan kejadian secara jelas. Urutan waktu tersebut penting ketika ada pengiriman bertahap atau beberapa pemasok berbeda.
 
-## Required conclusion
+## Jalan pintas yang sering dicoba
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah membongkar cepat, menghitung bundel secara kasar, lalu memasang material yang tampak sama. Cara ini gagal karena label dan lot dapat tercampur, dokumen tertinggal, serta kerusakan awal hilang dari jejak. Ketika masalah muncul, tim tidak lagi tahu bagian mana yang datang dalam kondisi apa.
 
-## Draft completion checklist
+Alternatifnya, lakukan pemeriksaan singkat tetapi berurutan: tahan identitas, cocokkan dokumen, cek kondisi, hitung dengan dasar yang sama, lalu tetapkan status. Kawan Besi.co.id, lima menit menandai bundel lebih murah daripada mencari asal material setelah semuanya terpasang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: terima berdasarkan bukti yang tertaut
+
+Verifikasi saat material datang berarti menghubungkan pesanan, identitas, ukuran, lapisan, jumlah, kondisi, dan dokumen ke lot yang benar. Pemeriksaan berlapis mencegah material yang belum terbukti bercampur atau dipasang tanpa keputusan.
+
+Langkah berikutnya, siapkan formulir status, daftar pertanyaan pemasok, dan tempat penyimpanan rekaman sebelum pengiriman tiba. [NEEDS GATE-04: minta review kompeten untuk deviasi yang menyentuh fungsi, mutu, atau keselamatan.] [NEEDS GATE-05: jangan lepaskan status tahan tanpa bukti penutupan dan persetujuan.] Untuk klarifikasi dokumen atau kebutuhan produk, gunakan [halaman kontak](/kontak). Teman Besi.co.id, pegang aturan ini: barang yang tidak dapat ditelusuri ke pesanan dan lot bukan barang yang siap dipasang.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

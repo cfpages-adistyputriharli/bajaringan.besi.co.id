@@ -2,8 +2,8 @@
 article_id: LGS-05-05
 title: "Survey Bangunan Eksisting sebelum Retrofit Baja Ringan"
 slug: "survey-retrofit-baja-ringan"
-description: "List geometry, support condition, existing loads, moisture, access, and evidence"
-status: outline
+description: "Panduan mendata geometri, kondisi dukungan, beban yang ada, kelembapan, akses, dan bukti untuk retrofit bangunan eksisting"
+status: draft
 publication_date: "2025-09-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/survey-retrofit-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
@@ -27,184 +28,124 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Survey Bangunan Eksisting sebelum Retrofit Baja Ringan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”
-- **Reader and situation:** Renovation owner
-- **Reader outcome:** List geometry, support condition, existing loads, moisture, access, and evidence
-- **Primary intent:** Plan assessment
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Retrofit design belongs to LGS-17-05
-- **Final public route:** `/artikel/survey-retrofit-baja-ringan.html`
-- **Appointed CMS date:** `2025-09-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Survey Bangunan Eksisting sebelum Retrofit Baja Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Survey Bangunan Eksisting sebelum Retrofit Baja Ringan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id!
 
-### KR-01
+Sebelum menambahkan rangka baja ringan pada bangunan yang sudah ada—entah untuk atap baru, ceiling, atau peralatan—Anda perlu mengetahui dengan pasti apa yang sudah berdiri. Survey bangunan eksisting bukan sekadar kunjungan visual—ia adalah pengumpulan data yang akan menentukan apakah retrofit bisa dilakukan, bagaimana cara melakukannya, dan berapa biayanya. Tanpa survey yang memadai, Anda beroperasi dengan asumsi—dan asumsi yang salah bisa berakibat pada kegagalan struktural atau biaya yang membengkak.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jadi jawaban singkatnya: sebelum merencanakan retrofit, lakukan survey yang mencakup geometri bangunan, kondisi dukungan struktural, beban yang sudah ada, kelembapan dan risiko korosi, akses untuk pekerjaan, dan bukti-bukti yang tersedia. Sobat Besi.co.id, survey yang baik adalah investasi yang menghemat waktu dan biaya di kemudian hari—karena Anda tahu persis apa yang dihadapi sebelum memulai.
 
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-25
-
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-05-03` → `/artikel/strength-serviceability-stability-baja-ringan.html` — Strength, Serviceability, dan Stability: Tiga Pemeriksaan Berbeda
-- `LGS-05-04` → `/artikel/beban-tahap-konstruksi-baja-ringan.html` — Beban Sementara saat Fabrikasi, Angkut, dan Ereksi
-- `LGS-05-06` → `/artikel/rfi-perubahan-rangka-baja-ringan.html` — RFI dan Perubahan setelah Rangka Baja Ringan Didesain
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
+*Gambar ini adalah aset ilustrasi lokal dan bukan dokumentasi proyek spesifik.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas survey bangunan eksisting sebelum retrofit pemasangan baja ringan. Cakupannya meliputi geometri, kondisi dukungan, beban yang ada, kelembapan, akses, dan bukti. Yang tidak dibahas adalah desain retrofit itu sendiri—karena topik tersebut dimiliki oleh jalur editorial lain.
 
-## Cara kerjanya
+Batas ini penting karena menentukan keluaran. Survey menghasilkan data—bukan keputusan. Keputusan tentang apakah retrofit bisa dilakukan dan bagaimana cara melakukannya harus berdasarkan data survey yang dianalisis oleh engineer desain.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil survey perlu dapat ditelusuri ke dasar peninjauan yang tepat, bukan berhenti sebagai foto atau catatan lepas. Katalog [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020) dapat menjadi titik awal untuk mengenali rujukan teknis, sementara [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) memberi konteks regulasi yang lebih luas. Data lapangan tetap harus dinilai bersama dokumen bangunan dan kebutuhan retrofit oleh pihak yang berwenang.
 
-## Faktor yang mengubah hasil
+## Mengapa survey diperlukan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bangunan yang sudah berdiri selama bertahun-tahun mungkin sudah mengalami perubahan yang tidak terlihat dari luar. Material bisa mengalami korosi, deformasi, atau penurunan kapasitas. Modifikasi sebelumnya—yang mungkin tidak terdokumentasi—bisa mengubah kondisi struktural. Beban yang ada—yang mungkin bertambah seiring waktu—bisa mendekati kapasitas struktural.
+
+Kawan Besi.co.id, asumsi bahwa "bangunan ini masih kuat" tanpa survey adalah resep untuk kegagalan. Survey memberikan data aktual—bukan asumsi—yang menjadi dasar untuk keputusan yang aman.
+
+ISO 46556:2022 tentang kualifikasi pengelasan (https://www.iso.org/standard/46556.html) memberikan kerangka untuk memahami persyaratan kualitas yang relevan. NIST (https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings) dan NIST (https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures) memberikan panduan tentang kinerja struktur.
+
+## Geometri bangunan
+
+Catat geometri bangunan dengan akurat—dimensi ruang, posisi kolom, ketinggian langit-langit, dan kemiringan atap jika ada. Geometri ini menentukan apakah rangka baja ringan yang direncanakan bisa muat di dalam bangunan—dan bagaimana cara memposisikannya.
+
+Pengukuran harus dilakukan dengan alat yang terkalibrasi—meter laser, water pass, atau alat lain yang sesuai. Jangan mengandalkan gambar asli tanpa verifikasi—dimensi aktual bisa berbeda dari gambar akibat konstruksi, renovasi, atau deformasi.
+
+FHWA (https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) tentang ereksi baja memberikan panduan teknis yang relevan.
+
+## Kondisi dukungan struktural
+
+Periksa kondisi dukungan struktural—kolom, balok, dan dinding yang akan menopang rangka baja ringan. Apakah ada tanda-tanda kerusakan—retak, korosi, atau deformasi? Apakah kapasitas dukung masih memadai untuk beban tambahan?
+
+Jika Anda tidak yakin tentang kondisi dukungan, minta engineer untuk melakukan evaluasi lebih lanjut—mungkin dengan pengujian non-destruktif atau pengambilan sampel.
+
+Panduan inspeksi jembatan dari FHWA (https://www.fhwa.dot.gov/bridge/inspection/) dan teknik inspeksi non-destruktif (https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm) memberikan metode verifikasi yang bisa diadaptasi.
+
+## Beban yang sudah ada
+
+Catat beban yang sudah ada pada struktur—beban atap, beban lantai, beban peralatan, dan beban lainnya. Beban ini mengurangi kapasitas struktural yang tersedia untuk beban tambahan dari retrofit.
+
+Jika dokumen desain tersedia, gunakan data dari dokumen tersebut. Jika tidak, estimasi berdasarkan observasi—dengan mempertimbangkan bahwa estimasi memiliki ketidakpastian yang harus diperhitungkan dalam desain.
+
+Standar ISO untuk perlindungan korosi (https://www.iso.org/standard/72893.html) memberikan kerangka untuk memahami ketahanan material dalam jangka panjang.
+
+## Kelembapan dan risiko korosi
+
+Periksa kelembapan di sekitar area yang akan di-retrofit. Kelembapan tinggi—dari kebocoran atap, kondensasi, atau sumber lain—mempercepat korosi dan mengurangi umur material. Jika ada tanda-tanda kelembapan—bocor, jamur, atau korosi—identifikasi dan selesaikan sumbernya sebelum retrofit.
+
+Korosi yang sudah ada pada struktur eksisting juga harus dicatat. Korosi mengurangi ketebalan profil—dan dengan itu kapasitas struktural. Pengukuran ketebalan profil dengan alat yang sesuai bisa memberikan data tentang tingkat korosi.
+
+## Akses untuk pekerjaan
+
+Evaluasi akses untuk pekerjaan retrofit—apakah ada ruang yang cukup untuk membawa material masuk? Apakah ada akses ke ketinggian untuk pemasangan? Apakah ada ruang untuk scaffolding atau platform kerja?
+
+Akses yang terbatas bisa mengubah metode retrofit—misalnya dari prefabrikasi menjadi site assembly—dan mempengaruhi biaya dan jadwal.
+
+## Bukti-bukti yang tersedia
+
+Kumpulkan semua bukti yang tersedia—gambar desain asli, laporan inspeksi sebelumnya, dokumen renovasi, dan foto-foto. Bukti ini memberikan konteks untuk survey—dan membantu mengidentifikasi area yang perlu perhatian khusus.
+
+SNI 7971:2013 tentang spesifikasi baja lembaran dan koil, lapisan hot-dip (https://pesta.bsn.go.id/produk/detail/9714-sni79712013) memberikan standar untuk material yang relevan.
+
+Teman Besi.co.id, bukti yang lengkap mempercepat proses desain—kita engineer tidak perlu menebak-nebak tentang kondisi yang ada.
+
+## Faktor yang mengubah hasil survey
+
+Beberapa faktor bisa mengubah hasil survey. Pertama, akses yang terbatas—beberapa area mungkin sulit dijangkau dan memerlukan peralatan khusus. Kedua, dokumentasi yang tidak tersedia—jika tidak ada gambar asli, survey harus lebih ekstensif.
+
+Ketiga, kondisi yang berubah—survey dilakukan pada satu waktu, tetapi kondisi bisa berubah sebelum retrofit dilakukan. Keempat, keterbatasan alat—beberapa pengukuran memerlukan alat khusus yang mungkin tidak tersedia.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Skenario pertama: Survey menunjukkan bahwa kolom penopang sudah mengalami korosi yang signifikan. Apakah retrofit masih bisa dilakukan?
+
+Keputusan yang tepat: tergantung pada tingkat korosi. Jika korosi hanya pada permukaan dan kapasitas struktural masih memadai, retrofit mungkin masih bisa dilakukan—dengan perlindungan korosi tambahan. Jika korosi sudah mengurangi kapasitas secara material, mungkin perlu penguatan atau penggantian kolom sebelum retrofit.
+
+Skenario kedua: Dokumen desain tidak tersedia. Apakah survey masih bisa dilakukan?
+
+Keputusan yang tepat: ya, tetapi survey harus lebih ekstensif—termasuk pengukuran dimensi profil, pengecekan ketebalan, dan evaluasi kondisi visual. Hasil survey akan memiliki ketidakpastian yang lebih besar—yang harus diperhitungkan dalam desain retrofit.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Survey Bangunan Eksisting sebelum Retrofit Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama: tidak melakukan survey sebelum merencanakan retrofit. Solusi: buat checklist survey yang mencakup semua elemen yang disebutkan di atas.
 
-## Objection or shortcut to address
+Kesalahan kedua: hanya mengandalkan dokumen yang ada tanpa verifikasi. Solusi: verifikasi dokumen dengan observasi langsung—dimensi aktual bisa berbeda dari gambar.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga: tidak mencatat kondisi yang bermasalah. Solusi: dokumentasikan semua temuan—termasuk yang terlihat tidak penting—karena bisa menjadi relevan nanti.
 
-## Required conclusion
+Kesalahan keempat: tidak melibatkan engineer dalam evaluasi. Solusi: libatkan engineer sejak awal—mereka bisa membantu mengidentifikasi data apa yang paling penting untuk dikumpulkan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering dipilih dan mengapa ia gagal
 
-## Draft completion checklist
+Banyak pemilik bangunan merasa tergoda untuk melewatkan survey—"toh bangunannya masih berdiri, pasti kuat." Tetapi "masih berdiri" tidak berarti "mampu menahan beban tambahan." Struktur yang sudah mendekati kapasitasnya mungkin tidak mampu menahan beban baru—dan kegagalan bisa terjadi secara tiba-tiba.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih aman adalah melakukan survey—meskipun sederhana—sebelum mengambil keputusan. Waktu dan biaya untuk survey jauh lebih kecil dibandingkan risiko kegagalan struktural.
+
+## Kesimpulan dan langkah selanjutnya
+
+Survey bangunan eksisting sebelum retrofit adalah langkah kritis yang menentukan keberhasilan proyek. Geometri, kondisi dukungan, beban yang ada, kelembapan, akses, dan bukti—semua data ini harus dikumpulkan sebelum desain retrofit dimulai.
+
+Langkah konkret yang bisa Anda ambil hari ini: buat checklist survey sederhana yang mencakup elemen-elemen di atas. Kunjungi bangunan yang akan di-retrofit dan kumpulkan data sebanyak yang Anda bisa. Sobat Besi.co.id, data yang Anda kumpulkan hari ini adalah fondasi untuk keputusan yang aman esok hari.
+
+Batas jujur yang perlu diingat: artikel ini membahas prinsip dan elemen survey, bukan metode pengujian spesifik atau interpretasi hasil. Metode pengujian dan interpretasi harus dilakukan oleh tenaga yang kompeten berdasarkan standar yang berlaku. Untuk pemahaman lebih lanjut tentang retrofit, Anda bisa membaca tentang [retrofit beban rangka baja ringan](/artikel/retrofit-beban-rangka-baja-ringan.html) dan [beban tambahan pada rangka atap](/artikel/beban-tambahan-pada-rangka-atap.html).

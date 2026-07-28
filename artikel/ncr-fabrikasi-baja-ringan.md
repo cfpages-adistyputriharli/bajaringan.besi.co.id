@@ -2,8 +2,8 @@
 article_id: LGS-10-06
 title: "NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject"
 slug: "ncr-fabrikasi-baja-ringan"
-description: "Establish identification, isolation, evidence, engineering review, disposition, and closeout"
-status: outline
+description: "Panduan menangani ketidaksesuaian hasil fabrikasi baja ringan: karantina, pengumpulan bukti, evaluasi, perbaikan, atau penolakan."
+status: draft
 publication_date: "2026-02-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,197 +13,113 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/ncr-fabrikasi-baja-ringan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Saat komponen baja ringan keluar dari meja fabrikasi dengan ukuran, lubang, potongan, atau identitas yang meragukan, keputusan paling aman bukan langsung memperbaiki atau membuangnya. Terbitkan NCR—catatan ketidaksesuaian—lalu tahan komponen itu, kumpulkan bukti, dan minta evaluasi terhadap gambar serta persyaratan yang disetujui.
 
-- **Writer task:** Expand this file into one complete article answering: “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”
-- **Reader and situation:** QA/fabricator
-- **Reader outcome:** Establish identification, isolation, evidence, engineering review, disposition, and closeout
-- **Primary intent:** Manage nonconformance
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No unauthorized rework; LGS-13-06 owns final NCR system
-- **Final public route:** `/artikel/ncr-fabrikasi-baja-ringan.html`
-- **Appointed CMS date:** `2026-02-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutannya sederhana: identifikasi dan karantina lebih dulu, evaluasi penyebab dan dampak berikutnya, baru tetapkan disposisi: diterima dengan syarat yang terdokumentasi, diperbaiki melalui metode yang disetujui, atau ditolak. Bukti baru dapat mengubah keputusan. Tanpa nomor komponen, revisi gambar, catatan proses, dan pemeriksaan yang dapat ditelusuri, kata “sudah diperbaiki” belum membuktikan kesesuaian.
 
-## Opening instructions
+NCR bukan surat untuk mencari siapa yang salah. Ia adalah pagar agar benda yang belum jelas statusnya tidak tercampur dengan barang siap kirim. [NEEDS KONFIRMASI PROYEK: persyaratan penerimaan, kewenangan menyetujui perbaikan, dan format NCR harus mengikuti kontrak serta dokumen mutu proyek.]
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-10-04` → `/artikel/jig-perakitan-kuda-kuda-baja-ringan.html` — Jig dan Perakitan Kuda-Kuda: Menjaga Geometri dan Identitas
-- `LGS-10-05` → `/artikel/inspeksi-dimensi-fabrikasi-baja-ringan.html` — Pemeriksaan Dimensi Komponen dan Assembly Baja Ringan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Karantina bukan berarti komponen pasti gagal, sedangkan reject bukan keputusan yang boleh dibuat hanya karena tampak jelek. Karantina menghentikan perpindahan dan pemakaian sementara status diperiksa. Evaluasi membandingkan temuan dengan persyaratan. Rework berarti perubahan terencana untuk mengembalikan kesesuaian; reject berarti komponen tidak diterima untuk tujuan yang ditetapkan setelah dasar keputusannya jelas.
+
+Kesalahan umum adalah memperlakukan NCR sebagai daftar cacat kosmetik. Lubang bergeser sedikit, profil terpotong terlalu pendek, atau label batch hilang dapat memengaruhi perakitan, jalur beban, atau kemampuan menelusuri material. Sebaliknya, goresan yang tidak memengaruhi fungsi mungkin memerlukan perlakuan berbeda. Dampak tidak dapat diputuskan hanya dari bentuk cacat.
+
+Sobat Besi.co.id, tanyakan tiga hal pada pembukaan NCR: apa yang ditemukan, terhadap dokumen mana temuan itu dibandingkan, dan apa risiko jika komponen dibiarkan bergerak. Tiga pertanyaan ini mencegah diskusi berubah menjadi pendapat pribadi.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+NCR adalah rekaman terkendali tentang produk, proses, atau dokumen yang belum memenuhi persyaratan yang berlaku. Fabrikasi di sini mencakup pemotongan, pembentukan, pengeboran, penyambungan, penandaan, pemeriksaan, dan pengemasan komponen baja ringan. Artikel ini mengatur alur keputusan awal sampai penutupan bukti; bukan sistem NCR lengkap untuk seluruh proyek dan bukan instruksi parameter pengelasan atau perbaikan.
+
+ISO 10474 membahas dokumen inspeksi untuk produk logam. Prinsip praktisnya adalah mencocokkan dokumen dengan pesanan, produsen, produk, nomor lebur atau batch, dimensi, hasil uji, dan tanda fisik. Dokumen inspeksi yang tampak resmi tidak otomatis membuktikan bahwa benda di meja adalah benda yang sama. Lihat [ISO 10474 tentang dokumen inspeksi](https://www.iso.org/standard/53736.html) untuk identitas standar; jenis dokumen dan aturan penerimaan tetap mengikuti pesanan serta kontrak.
+
+Batas lain penting: artikel ini tidak memberi izin untuk mengubah profil, memperbesar lubang, mengelas ulang, atau mengganti material tanpa persetujuan. Rework tanpa metode dan peninjauan yang berwenang dapat menciptakan ketidaksesuaian baru yang lebih sulit dilacak. Jika temuan menyangkut profil utama rangka, [hub Kanal C Galvalum](/kanal-c-galvalum) dapat membantu menyamakan istilah produk sebelum Anda meminta klarifikasi; halaman itu bukan pengganti gambar dan spesifikasi proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah pertama adalah memberi identitas tunggal. Catat nomor NCR, tanggal, area, nama komponen, jumlah, nomor gambar dan revisinya, nomor pesanan, serta orang yang menemukan. Tandai barang secara fisik dengan cara yang tidak merusak lapisan. Jika label hilang, jangan menebak dari kemiripan bentuk; pisahkan dan bangun kembali rantai identitas dari catatan penerimaan, batch, atau pengukuran.
+
+Langkah kedua adalah karantina. Pindahkan komponen ke area yang jelas statusnya, cegah tercampur dengan barang lulus, dan catat jumlah yang ditahan. Karantina juga berlaku untuk dokumen yang menentukan proses: gambar revisi lama, daftar potong, atau instruksi kerja yang tidak dapat dipastikan versinya jangan dipakai untuk produksi lanjutan.
+
+Langkah ketiga adalah mengamankan bukti sebelum ada perubahan. Ambil foto yang menunjukkan tanda identitas dan skala, simpan hasil ukur, catat alat yang dipakai serta status kalibrasinya, dan lampirkan catatan proses. Untuk pengelasan, rantai bukti mencakup persyaratan yang didefinisikan, koordinasi, prosedur, personel, peralatan, bahan, pemeriksaan, dan rekaman. ISO 3834-2 dan ISO 14731 menempatkan koordinasi serta kendali proses sebagai bagian penting mutu; pemeriksaan akhir saja tidak dapat merekonstruksi variabel proses yang tidak pernah dicatat. Rujuk [ISO 3834-2](https://www.iso.org/standard/81651.html) dan [ISO 14731](https://www.iso.org/standard/68893.html) tanpa menganggap abstraknya sebagai instruksi pengelasan.
+
+Langkah keempat adalah evaluasi teknis. Bandingkan temuan dengan gambar, toleransi yang disetujui, fungsi sambungan, dan urutan pemasangan. Untuk potongan termal, ISO 9013 serta amendemennya dapat menjadi rujukan identitas, tetapi kelas kualitas, metode ukur, dan batas penerimaan harus datang dari dokumen proyek. Untuk konstruksi las, ISO 13920 memberi konteks toleransi umum, bukan satu toleransi universal untuk semua profil. Lihat [ISO 9013](https://www.iso.org/standard/60321.html) dan [ISO 13920](https://www.iso.org/standard/86032.html), lalu minta peninjauan terhadap gambar dan prosedur yang benar.
+
+Langkah kelima adalah menetapkan disposisi. Pilihan “terima dengan penyimpangan” hanya sah bila pihak berwenang menilai dampak dan merekam batasnya. Pilihan rework harus menyebut metode, urutan, pemeriksaan ulang, dan siapa yang menyetujui. Reject harus menjelaskan dasar penolakan serta nasib material agar tidak kembali ke alur produksi secara diam-diam.
+
+Langkah terakhir adalah verifikasi penutupan. Setelah rework, ulangi pemeriksaan yang relevan, kaitkan hasilnya dengan NCR asli, lepaskan tanda karantina hanya setelah otorisasi, dan arsipkan bukti. Penutupan berarti persyaratan dan bukti sudah cocok—bukan sekadar kolom tanda tangan terisi.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jenis ketidaksesuaian mengubah jalur evaluasi. Salah label menuntut rekonstruksi identitas; salah dimensi menuntut pengukuran dan pemeriksaan fungsi; potongan atau lubang yang salah dapat menyentuh geometri serta jalur beban; cacat las menuntut peninjauan terhadap prosedur dan personel; kerusakan lapisan menuntut penilaian paparan dan metode perbaikan.
+
+Revisi dokumen juga menentukan. Komponen yang dibuat mengikuti gambar lama mungkin terlihat rapi tetapi tidak sesuai revisi yang berlaku. Karena itu, lampirkan salinan atau rujukan revisi pada NCR, bukan hanya nama file yang mudah berubah.
+
+Kemampuan alat ukur dan laboratorium memengaruhi kepercayaan pada hasil. ISO/IEC 17025 relevan untuk kompetensi laboratorium, tetapi akreditasi laboratorium sendiri tidak membuktikan bahwa benda tertentu memenuhi syarat. Verifikasi ruang lingkup akreditasi, metode, otorisasi laporan, dan rantai identitas sebelum memakai hasil uji sebagai dasar keputusan. Baca [ISO/IEC 17025](https://www.iso.org/standard/66912.html) sebagai kerangka kompetensi, bukan sertifikat kelulusan otomatis.
+
+Jika ada klaim asal-usul atau keberlanjutan material, pisahkan klaim fisik, neraca massa, dan administrasi. ISO 22095 membedakan model rantai pengawasan; klaim yang dapat diaudit memerlukan karakteristik, batas sistem, catatan input-output, aturan transfer, pihak bertanggung jawab, dan pencegahan hitung ganda. Lihat [ISO 22095](https://www.iso.org/standard/72532.html) serta amendemen terkait, tetapi minta skema klaim dan bukti pemasok yang berlaku untuk proyek Anda.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya satu bundel profil memiliki dua potong tanpa label batch. Tahan bundel itu, cocokkan panjang dan tanda fisik dengan daftar potong serta catatan penerimaan, lalu minta keputusan penanggung jawab mutu. Jangan memindahkan label dari bundel lain hanya karena profil tampak sama. Jika identitas tidak dapat dipulihkan, keputusan bisa berupa reject atau pemeriksaan tambahan—bukan asumsi.
+
+Contoh lain: lubang sambungan bergeser dari posisi pada gambar. Ukur deviasi, identifikasi elemen yang terhubung, dan minta peninjauan teknis. Memperbesar lubang di bengkel mungkin cepat, tetapi dapat mengubah luas efektif atau posisi pengikat. Rework baru boleh dijalankan setelah metode dan pemeriksaan ulang disetujui.
+
+Gunakan matriks keputusan berikut sebagai pemicu diskusi, bukan pengganti persetujuan:
+
+| Temuan | Tindakan awal | Bukti sebelum keputusan |
+|---|---|---|
+| Identitas atau revisi tidak jelas | Karantina | Label, catatan batch, pesanan, gambar berlaku |
+| Dimensi atau posisi lubang menyimpang | Hentikan pemakaian | Hasil ukur, fungsi sambungan, tinjauan gambar |
+| Proses las atau alat tidak terlacak | Tahan lot terkait | Prosedur, personel, alat, rekaman inspeksi |
+| Kerusakan lapisan atau tepi potong | Pisahkan dari barang lulus | Lokasi, luas, paparan, metode perbaikan yang disetujui |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “NCR Fabrikasi: Karantina, Evaluasi, Rework, atau Reject”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan menutup NCR dengan kalimat “sudah diperbaiki” tanpa menunjukkan apa yang diubah dan bagaimana hasilnya diperiksa. Minta foto sebelum-sesudah, hasil ukur, nomor prosedur, dan otorisasi. Jangan menggabungkan beberapa temuan berbeda hanya agar jumlah NCR terlihat sedikit; satu nomor boleh mencakup satu lot yang benar-benar sama, tetapi batasnya harus jelas.
 
-## Objection or shortcut to address
+Jangan mengandalkan pemeriksa akhir untuk menemukan semua masalah. Jika variabel penting tidak dikendalikan saat proses, pemeriksaan akhir mungkin tidak mampu membuktikan riwayatnya. Audit catatan proses, pemeriksaan antara, dan identitas alat secara berkala.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan menafsirkan standar dari judulnya saja. Halaman ISO dapat menunjukkan identitas dan status publikasi, tetapi tidak menggantikan teks lengkap, persyaratan kontrak, atau gambar yang disetujui. [NEEDS REVIEW: standar, toleransi, dan kriteria penerimaan yang mengikat harus dikonfirmasi dari dokumen proyek terbaru oleh penanggung jawab teknis.]
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas paling umum adalah menggeser komponen yang diragukan ke area “siap kirim” agar produksi tidak berhenti. Ini berbahaya karena status administratif terlihat seperti status mutu. Alternatifnya adalah membuat area karantina yang mudah dikenali, memberi daftar barang tertahan, dan menetapkan waktu evaluasi dengan penanggung jawab yang jelas.
 
-## Draft completion checklist
+Kawan Besi.co.id mungkin juga tergoda memilih reject agar masalah cepat hilang. Reject memang dapat tepat bila identitas atau fungsi tidak dapat dipulihkan, tetapi penolakan tanpa bukti menyulitkan pengadaan, pembelajaran proses, dan pembelaan keputusan. Evaluasi yang rapi memberi tiga hasil sekaligus: benda mana yang aman dipakai, proses mana yang harus diperbaiki, dan bukti apa yang masih kurang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+NCR fabrikasi yang dapat dipercaya mengikuti urutan: identifikasi, karantina, bukti, evaluasi, disposisi, rework terkontrol atau reject, lalu verifikasi penutupan. Tidak ada pilihan otomatis hanya dari tampilan cacat. Gambar berlaku, identitas material, proses, kemampuan alat ukur, fungsi komponen, dan kewenangan persetujuan menentukan hasil.
+
+Mulailah dengan membuat satu formulir yang memaksa pengisi menjawab: apa yang tidak sesuai, dokumen pembandingnya apa, berapa jumlah terdampak, di mana barang ditahan, bukti apa yang tersedia, siapa evaluatornya, dan pemeriksaan ulang apa yang diperlukan. Jika tim membutuhkan klarifikasi pemasok atau data produk sebelum evaluasi, gunakan [halaman kontak Besi.co.id](/kontak) untuk menyampaikan kebutuhan secara tertulis.
+
+Aturan operasinya: barang yang statusnya belum jelas tidak boleh diperlakukan sebagai barang lulus; dan rework tidak boleh dimulai sebelum metode, dampak, pemeriksaan ulang, serta kewenangan persetujuannya tercatat.

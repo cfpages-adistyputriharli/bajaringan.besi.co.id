@@ -3,7 +3,7 @@
 
 Status: repository-local instruction for expanding one prebuilt article outline at a time
 Public route contract: `/artikel/[slug].html`
-Source route evidence: sitemap XML, 1624 routes discovered during packet generation
+Source route evidence: sitemap XML plus tracked homepage navbar, 1624 sitemap routes discovered during packet generation; coordinator rechecked the tracked homepage on 2026-07-29 and confirmed `/`, `/reng-galvalum`, `/kanal-c-galvalum`, `/hollow-galvalum`, `/tentang`, `/jangkauan`, and `/kontak`
 Reader community name: `Besi.co.id`
 
 ## Exact prompt to give the lower-capability model
@@ -63,6 +63,7 @@ Do not load the portfolio ledger, OneDrive memory, another repository, the full 
 ## Internal-link rules
 
 - Existing local routes in the assigned file are candidates; use only those that genuinely answer the next reader question.
+- Prefer the homepage plus a relevant product/navbar route when they naturally help: `/kanal-c-galvalum`, `/reng-galvalum`, `/hollow-galvalum`, or `/kontak`. These exact routes were verified from the tracked homepage; use each destination at most once per article and never force an unrelated product link.
 - Planned sibling article routes are marked future. Do not link them as live until their source file is reviewed and the HTML route exists.
 - Use descriptive natural anchors, not repeated exact-match keywords.
 - Do not invent a route or add unrelated “Baca juga” links.

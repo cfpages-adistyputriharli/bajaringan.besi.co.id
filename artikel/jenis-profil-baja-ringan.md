@@ -2,8 +2,9 @@
 article_id: LGS-04-01
 title: "Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori"
 slug: "jenis-profil-baja-ringan"
-description: "Group profiles by function and system interface"
-status: outline
+description: "Peta sederhana untuk membedakan Kanal C, reng, hollow, dan aksesori berdasarkan fungsi serta antarmuka sistemnya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,9 +18,6 @@ sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.aisc.org/aisc/solutions-center/hss/"
   - "https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf"
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
@@ -28,189 +26,77 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** `LOCAL-001`
+- **Source type:** `local`
+- **Placement:** setelah pembuka menjawab inti, sebelum H2 pertama
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Selection basis:** nama file dan metadata sumber dipakai sebagai label subjek; piksel tidak diperiksa.
+- **Hard boundary:** jangan menebak isi visual, kepemilikan proyek, lokasi, orang, merek, kondisi, performa, atau hasil.
+- **Substitution rule:** bila aset atau asalnya tidak lengkap, gunakan `[NEEDS IMAGE REVIEW: LOCAL-001]`.
+END MANAGED IMAGE PLAN -->
 
 # Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Pembeli pemula sering melihat beberapa batang berwarna dan bentuk mirip, lalu mengira semuanya bisa menggantikan satu sama lain. Padahal Kanal C, reng, hollow, dan aksesori memiliki pekerjaan berbeda dalam sistem. Salah memilih bukan sekadar soal ukuran; tumpuan, sambungan, penutup, dan jalur beban ikut berubah.
 
-- **Writer task:** Expand this file into one complete article answering: “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”
-- **Reader and situation:** Buyer/beginner
-- **Reader outcome:** Group profiles by function and system interface
-- **Primary intent:** Discover components
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Sales/availability remain with three product hubs
-- **Final public route:** `/artikel/jenis-profil-baja-ringan.html`
-- **Appointed CMS date:** `2025-08-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kelompokkan profil berdasarkan fungsi serta antarmukanya, kemudian cocokkan bentuk, dimensi, tebal, material, lapisan, dan dokumen produk. Kanal C biasanya menjadi anggota rangka atau tepi; reng menopang penutup; hollow lebih sering dipakai sebagai rangka sekunder atau non-truss; aksesori menghubungkan, menahan, atau merapikan antarmuka. Istilah dagang dan ukuran luar tidak cukup untuk menyatakan kesetaraan. Gambar, beban, tumpuan, dan standar proyek dapat mengubah pilihan.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-09
-
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-reng-galvalum-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-04-02` → `/artikel/fungsi-kanal-c-baja-ringan.html` — Kanal C: Anatomi Profil dan Perannya dalam Rangka
-- `LGS-04-03` → `/artikel/fungsi-reng-baja-ringan.html` — Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Nama profil adalah pintu masuk, bukan bukti kapasitas. ISO 6929 dan klasifikasi ICS membedakan bentuk produk—profil, lembaran, batang, kawat, atau produk fabrikasi—dari mutu, toleransi, lapisan, dan kecocokannya ([ISO 6929](https://www.iso.org/standard/52949.html), [klasifikasi ICS](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)). Dua profil yang sama-sama disebut “C” dapat berbeda sumbu, bibir, tebal, atau material.
+
+Kesalahan lain adalah menjadikan profil pengganti sebagai keputusan belanja semata. Kapasitas anggota, stabilitas, sambungan, dan jalur beban memerlukan data proyek serta desain kompeten. Catatan PP 16/2021 dan rekaman SNI menunjukkan adanya lapisan aturan dan standar yang berbeda, bukan izin menyalin angka dari katalog ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kanal C adalah profil dengan badan dan sayap yang lazim dipakai sebagai anggota rangka, balok tepi, atau elemen pengikat sesuai desain. Reng adalah profil sekunder tempat penutup atap bertumpu; jarak dan orientasinya mengikuti jenis penutup serta rancangan. Hollow adalah penampang berongga yang dapat dipakai untuk rangka sekunder, plafon, atau pekerjaan non-truss; penggunaan strukturalnya tetap memerlukan verifikasi. Aksesori mencakup pengikat, bracket, penyambung, dan komponen pelindung yang membuat antarmuka bekerja.
+
+Definisi ini membantu percakapan, bukan menggantikan istilah pada gambar dan spesifikasi. Artikel ini tidak menetapkan ukuran, jarak reng, kapasitas, atau daftar belanja universal. [NEEDS GATE-01: fungsi dan batas sistem harus dikunci pada gambar serta kebutuhan proyek sebelum pemilihan profil].
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari jalur gaya dan fungsi lapisan. Tanyakan apa yang ditopang, ke mana gaya diteruskan, dan komponen apa yang menyentuh profil. Kanal C yang menerima reaksi berbeda dari kanal yang hanya menjadi tepi. Reng yang membawa penutup berbeda dari hollow untuk plafon. Aksesori harus cocok dengan tebal, lapisan, jenis sambungan, dan ruang pemasangan.
+
+Setiap label perlu diurai menjadi bentuk penampang, sumbu, dimensi, tebal, massa, material, standar produk, dan sertifikat. AISC memakai pendekatan serupa ketika nama penampang harus dibaca bersama anatomi geometri dan identitas produk; contoh Amerika itu bersifat ilustratif, bukan aturan pasokan Indonesia ([AISC HSS](https://www.aisc.org/aisc/solutions-center/hss/), [AISC naming](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)).
+
+Sesudah identitas jelas, cocokkan dengan gambar dan catatan penerimaan. Jangan mengganti Kanal C dengan hollow yang ukuran luarnya mirip hanya karena stok lebih mudah. Tanyakan apakah sumbu, ketebalan, sambungan, dan stabilitas masih sesuai. [NEEDS GATE-02: substitusi profil memerlukan persetujuan tertulis dan pemeriksaan dampak sambungan].
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beban, bentang, tumpuan, arah gaya, bukaan, dan lingkungan memengaruhi pilihan. Penutup berat atau peralatan tambahan dapat mengubah kebutuhan reng dan rangka. Kelembapan serta paparan luar memengaruhi lapisan dan detail sambungan. Toleransi dinding dan urutan pemasangan menentukan apakah aksesori masih dapat dipasang tanpa memaksa profil.
+
+Ketersediaan pasar juga bukan bukti kesetaraan. Katalog BSN menunjukkan keluarga produk dan klasifikasi dapat beragam; catatan status publik tidak memberi seluruh persyaratan pembelian atau desain ([katalog profil BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=)). [NEEDS GATE-03: produk yang tersedia harus dicocokkan dengan standar, sertifikat, spesifikasi, dan kondisi proyek terkini].
+
+Perhatikan juga titik pertemuan antarkomponen. Reng perlu bertemu penutup dan tumpuan dengan cara yang memungkinkan pemasangan serta inspeksi. Kanal C dapat memerlukan pengaku atau penyambung pada ujung dan sambungan. Hollow untuk plafon berhadapan dengan gantungan, panel, dan layanan lain yang mungkin menambah beban. Aksesori yang tampak kecil tetap perlu ruang, arah pemasangan, dan perlindungan lapisan. Sobat Besi.co.id, peta fungsi yang baik selalu menyebut apa yang berada di atas, di bawah, dan di samping profil; dari situlah pertanyaan pengadaan menjadi spesifik.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika kebutuhan Anda adalah menahan penutup atap, mulai dari data penutup, kemiringan, bentang, dan jarak tumpuan. Reng menjadi kandidat fungsi, tetapi ukuran dan jaraknya bukan keputusan otomatis dari nama produk. Jika kebutuhan adalah rangka plafon, hollow mungkin relevan; pastikan titik gantung, sambungan, dan beban layanan tercakup pada desain.
+
+Jika pemasok menawarkan Kanal C dengan tebal berbeda tetapi panjang dan lebar sama, minta lembar data, penandaan, dan dampak desain. Jangan menganggap selisih tebal kecil tidak penting. Jika aksesori “universal” ditawarkan, cocokkan dengan profil, lapisan, sekrup, dan ruang kerja. Kawan Besi.co.id, komponen kecil dapat menjadi titik lemah ketika tidak cocok dengan sistem.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih dari foto. Foto tidak menunjukkan tebal, mutu, toleransi, atau sumbu. Kesalahan kedua adalah mencampur istilah Kanal C, reng, dan hollow dalam satu daftar tanpa fungsi. Tulis nama fungsi, lokasi pada gambar, dan komponen yang disentuh.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menyalin ukuran dari proyek lain. Periksa beban, bentang, tumpuan, penutup, dan standar yang berlaku. Kesalahan keempat adalah mengubah profil di lapangan tanpa memperbarui daftar material. Simpan nomor revisi, alasan substitusi, dan persetujuan. [NEEDS GATE-04: keputusan penggunaan profil dan aksesori harus ditelusuri ke dokumen proyek].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dipilih
 
-## Required conclusion
+Jalan pintasnya adalah meminta “profil paling kuat” tanpa menjelaskan fungsi, bentang, beban, atau sambungan. Tidak ada satu produk yang otomatis paling tepat untuk semua posisi. Profil lebih besar dapat menambah berat, biaya, dan masalah antarmuka; profil lebih kecil dapat gagal memenuhi kebutuhan desain.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatifnya adalah membawa data minimum: sketsa atau gambar, fungsi ruang, lokasi penggunaan, penutup, ukuran area, kondisi tumpuan, lingkungan, dan target pemasangan. Anda dapat melihat [hub Kanal C Galvalum](/kanal-c-galvalum) atau [hub Reng Galvalum](/reng-galvalum) sebagai jalur pertanyaan produk, tetapi ketersediaan tidak menggantikan verifikasi spesifikasi.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Peta profil baja ringan menjadi berguna ketika Kanal C, reng, hollow, dan aksesori dibedakan berdasarkan fungsi serta antarmuka, lalu diverifikasi melalui geometri, material, lapisan, sambungan, dan dokumen. Jangan menjadikan nama dagang atau ukuran luar sebagai bukti pertukaran.
+
+Langkah berikutnya, tandai setiap profil pada gambar, catat data penampang dan dokumen produk, lalu minta perancang menutup [NEEDS GATE-05: kapasitas, stabilitas, dan sambungan] serta [NEEDS GATE-07: persetujuan akhir material dan serah-terima].
+
+Aturan operasionalnya: pilih profil setelah fungsi, jalur gaya, antarmuka, dan bukti produknya jelas—bukan karena bentuknya terlihat paling mirip.

@@ -2,8 +2,9 @@
 article_id: LGS-06-04
 title: "Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi"
 slug: "koordinasi-geometri-atap-kompleks"
-description: "Identify load-path, support, drainage, cutting, and roof-layer interfaces"
-status: outline
+description: "Panduan praktis mengoordinasikan jalur beban, tumpuan, aliran air, pemotongan, dan lapisan atap pada geometri yang kompleks."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,197 +16,96 @@ final_route: "/artikel/koordinasi-geometri-atap-kompleks.html"
 technical_review: required
 sources:
   - "https://www.aisc.org/aisc/solutions-center/hss/"
-  - "https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf"
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
   - "https://www.iso.org/standard/46556.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: setelah jawaban pembuka, sebelum H2 pertama
+**Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
+Hard boundary: jangan menebak isi visual, kepemilikan proyek, lokasi, orang, merek, kondisi, performa, atau hasil.
+Substitution rule: jika aset tidak tersedia atau asalnya tidak lengkap, gunakan [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
 # Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Pada atap dengan pertemuan hip (jurai luar), valley (jurai dalam), overhang (teritisan), dan beberapa tingkat, masalah paling mahal biasanya bukan satu batang yang kurang kuat. Masalahnya adalah garis pertemuan yang tidak pernah disepakati: beban turun ke mana, ujung rangka bertumpu di mana, air mengalir lewat jalur apa, dan lapisan atap harus dipotong sejauh apa.
 
-- **Writer task:** Expand this file into one complete article answering: “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”
-- **Reader and situation:** Architect/installer
-- **Reader outcome:** Identify load-path, support, drainage, cutting, and roof-layer interfaces
-- **Primary intent:** Coordinate complexity
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No detail design; LGS-09-04 owns penetrations
-- **Final public route:** `/artikel/koordinasi-geometri-atap-kompleks.html`
-- **Appointed CMS date:** `2025-10-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: koordinasikan geometri kompleks sebagai satu rangkaian antarmuka, bukan sebagai empat bentuk terpisah. Bekukan garis acuan dan elevasi, teruskan jalur beban hingga tumpuan, cocokkan detail pembuangan air dengan posisi rangka, lalu tandai semua pemotongan dan perubahan lapisan sebelum material dipotong. Kesimpulan itu dapat berubah setelah data lokasi, beban, profil, sambungan, dan gambar yang disetujui diperiksa oleh perancang berwenang; tanpa data tersebut, artikel ini bukan detail desain.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-09
-
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-06-02` → `/artikel/data-geometri-atap-kuda-kuda.html` — Data Geometri Atap sebelum Layout Kuda-Kuda
-- `LGS-06-03` → `/artikel/prefabrikasi-vs-rakit-lokasi-kuda-kuda.html` — Kuda-Kuda Prefabrikasi vs Dirakit di Lokasi
-- `LGS-06-05` → `/artikel/bukaan-pada-rangka-atap-baja-ringan.html` — Bukaan Tangki, Skylight, dan Akses pada Rangka Atap
-- `LGS-06-06` → `/artikel/modul-kuda-kuda-baja-ringan.html` — Repetisi Modul Kuda-Kuda dan Kontrol Variasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi material baja ringan dari aset lokal situs, bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Nama bentuk sering membuat orang mengira setiap garis atap dapat dikerjakan sendiri. Hip terlihat seperti dua bidang bertemu di sudut, valley seperti saluran di cekungan, overhang seperti ujung yang tinggal dipanjangkan, dan atap bertingkat seperti dua atap yang hanya berbeda tinggi. Padahal, satu perubahan pada garis pertemuan menggeser panjang batang, posisi tumpuan, arah gaya, dan ruang untuk talang sekaligus.
+
+Salah paham kedua adalah menganggap ukuran luar yang sama berarti profilnya dapat saling menggantikan. Label penampang perlu dibaca bersama bentuk, sumbu, dimensi, tebal, massa, material, dan dokumen produknya. AISC menjelaskan anatomi HSS (penampang berongga struktural) sebagai informasi geometri dan produk yang harus dibaca utuh, bukan sekadar nama singkat ([AISC HSS](https://www.aisc.org/aisc/solutions-center/hss/)). Untuk proyek di Indonesia, tabel profil dan sertifikat yang berlaku tetap menjadi rujukan proyek, bukan contoh penamaan dari luar negeri.
+
+Jadi, sebelum bertanya “batangnya cukup kuat atau tidak?”, ajukan pertanyaan yang lebih awal: “garis ini membawa beban ke tumpuan yang mana, dan apakah detail air, penutup, serta sambungannya masih muat di sana?”
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di artikel ini, hip adalah garis menonjol tempat dua bidang atap bertemu; valley adalah garis cekung yang mengumpulkan aliran dari dua bidang; overhang adalah bagian penutup atau rangka yang melewati garis tumpuan; sedangkan atap bertingkat memiliki bidang dengan elevasi berbeda yang harus dihubungkan atau dipisahkan dengan sengaja. Istilah tersebut dipakai untuk membaca koordinasi, bukan untuk menetapkan ukuran batang atau jenis sambungan.
+
+Batasnya penting. Bukaan untuk tangki, skylight, atau akses yang menembus bidang atap masuk ke pembahasan penetrasi tersendiri, bukan detail di sini. Demikian juga pemilihan kapasitas anggota, pemeriksaan stabilitas, desain sambungan, ketahanan api, keadaan sementara, dan keputusan retrofit memerlukan data proyek serta perhitungan dan review kompeten. Catatan status standar atau halaman produk tidak menggantikan desain struktur; rekaman PP 16/2021 dan katalog SNI justru perlu dibaca sebagai lapisan aturan dan standar yang berbeda ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari satu gambar koordinasi yang memiliki garis grid, elevasi, kemiringan, garis tumpuan, dan arah aliran air. Jangan memulai dari daftar batang. Tandai puncak, lembah, tepi overhang, dan titik pertemuan tingkat sebagai titik kontrol. Setiap titik kontrol harus punya identitas yang sama pada gambar arsitektur, rangka, penutup, dan talang; perbedaan satu nama atau satu elevasi saja dapat membuat tukang bekerja dengan referensi yang berbeda.
+
+Setelah geometri dibekukan, telusuri jalur beban. Beban penutup dan rangka sekunder mengalir ke anggota utama, lalu ke tumpuan dan struktur di bawahnya. Pada hip, periksa bagaimana ujung-ujung bidang bertemu dan apakah ada anggota yang menerima reaksi dari lebih dari satu arah. Pada valley, jangan menyamakan garis air dengan garis struktur secara otomatis; saluran perlu ruang, kemiringan, dan detail kedap yang mungkin mengubah posisi rangka. Pada overhang, garis ujung bukan tumpuan baru kecuali memang dirancang demikian.
+
+Atap bertingkat menambah satu pertanyaan: apakah beda elevasi itu diselesaikan sebagai sambungan yang menerus, atau sebagai dua sistem yang masing-masing memiliki tumpuan? Jawabannya memengaruhi balok tepi, dinding parapet, flashing (lembar penutup sambungan), dan akses pemasangan. Jika keputusan belum ada di gambar yang disetujui, tandai sebagai [NEEDS GATE-01: klasifikasi sistem dan jalur beban harus dikonfirmasi perancang proyek].
+
+Berikutnya, cocokkan lapisan dari atas ke bawah: penutup, lapisan kedap atau underlay, reng, rangka, dan elemen tumpuan. Setiap lapisan memiliki garis akhir yang mungkin berbeda. Potongan pada penutup tidak otomatis berarti batang di bawahnya boleh dipotong. Sebaliknya, menambah batang untuk mengejar tepi penutup tanpa memeriksa aliran air dapat menciptakan kantong air dan sambungan yang sulit dirawat.
+
+Terakhir, buat urutan kerja. Titik yang belum memiliki ukuran, elevasi, arah air, dan detail sambungan adalah hold point (titik berhenti sementara), bukan ruang untuk improvisasi. Kawan Besi.co.id, keputusan kecil di meja gambar jauh lebih murah daripada memindahkan talang setelah penutup terpasang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kemiringan dan panjang bidang menentukan kecepatan serta volume aliran air. Valley yang menerima dua bidang luas memerlukan koordinasi lebih ketat daripada lembah pendek yang hanya menerima satu limpasan kecil. Namun, jangan mengubah pengamatan ini menjadi ukuran talang atau kapasitas tanpa data hujan, detail penutup, dan ketentuan proyek; tandai kebutuhan itu sebagai [NEEDS GATE-02: verifikasi drainase dan limpasan berdasarkan lokasi serta sistem penutup].
+
+Beban dan penggunaan juga mengubah jalur. Perubahan penutup, pemasangan panel, plafon tambahan, atau peralatan di atas atap dapat menambah beban dan mengubah akses pemeliharaan. Data produk atau lembar profil menunjukkan identitas material, bukan kapasitas struktur terpasang. Karena itu, cocokkan kode profil, tebal, mutu, dan sertifikat dengan gambar serta daftar material sebelum mengganti barang.
+
+Kondisi pelaksanaan sering menjadi sumber selisih. Rangka prefabrikasi, rakitan di lokasi, toleransi dinding, dan urutan pemasangan dapat membuat titik hip atau valley bergeser. Ukur kondisi nyata dan catat perubahan sebelum melakukan pemotongan ulang. Untuk bangunan yang sudah ada, proses penilaian sebaiknya mencakup tujuan pemeriksaan, dokumen, survei, identitas material, geometri, riwayat perubahan, kerusakan, dan keputusan sementara; prinsip ini sejalan dengan kerangka penilaian struktur eksisting ISO 13822 ([ISO 13822:2010](https://www.iso.org/standard/46556.html)).
+
+Lingkungan dan perawatan pun berpengaruh. Sambungan di valley lebih mudah terpapar air tertahan, sementara ujung overhang lebih mudah terkena angin dan akses luar. Jangan menetapkan umur layanan atau interval inspeksi dari artikel umum. Jika ada karat, deformasi, kebocoran berulang, atau perubahan fungsi, mintalah pemeriksaan dan keputusan teknis khusus proyek.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan denah memiliki dua sayap bangunan yang bertemu membentuk valley, lalu satu sayap lebih tinggi dan memiliki overhang panjang. Langkah pertama bukan memilih batang tambahan, melainkan menandai empat hal: garis pertemuan bidang, elevasi tiap sayap, tumpuan yang benar-benar tersedia, dan jalur air dari titik tertinggi ke pembuangan.
+
+Jika garis air melewati tepat di atas titik tumpuan, koordinasikan ruang untuk flashing dan talang tanpa memotong anggota utama. Jika garis air bergeser karena kemiringan atau toleransi lapangan, tahan pekerjaan pada titik itu dan keluarkan revisi gambar; jangan memaksa penutup mengikuti rangka yang salah posisi. Jika overhang bertemu ujung dinding tanpa tumpuan, minta perancang menjelaskan jalur gaya dan detail pengaku sebelum pemasangan.
+
+Untuk atap bertingkat, buat tabel kecil yang menghubungkan setiap elevasi dengan garis dinding, balok tepi, dan lapisan kedapnya. Tabel ini bukan perhitungan kapasitas, tetapi alat untuk menemukan siapa yang harus menjawab ketika satu angka berubah. Bila profil hendak diganti karena stok, cocokkan seluruh identitas penampang dan dokumen material; [NEEDS GATE-03: persetujuan substitusi profil dan sambungan harus tertulis pada dokumen proyek].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengukur dari tepi penutup, lalu menganggapnya sebagai garis struktur. Periksa kembali jarak dari grid ke sumbu tumpuan pada semua gambar. Kesalahan kedua adalah menggambar valley sebagai satu garis tanpa menunjukkan arah air dan detail tepi. Tambahkan panah aliran, garis akhir lapisan, serta akses pembersihan agar tim lain dapat membaca maksudnya.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memotong batang di lapangan untuk mengatasi benturan tanpa catatan perubahan. Foto dan ukur kondisi, beri tanda lokasi, lalu minta keputusan revisi. Kesalahan keempat adalah mengandalkan nama profil dari katalog luar negeri sebagai bukti kesetaraan. Cocokkan profil yang tersedia di proyek, standar yang ditetapkan, dan sertifikatnya; [NEEDS GATE-04: kecocokan material, toleransi, dan sambungan perlu review teknis].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum serah-terima, lakukan pemeriksaan berurutan: geometri dan elevasi, jalur beban, tumpuan, arah air, kesinambungan lapisan, detail pemotongan, identitas material, lalu daftar perubahan. Jika salah satu jawaban masih “nanti di lapangan”, statusnya belum siap dirilis.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang menggoda adalah membuat satu detail standar untuk semua hip, valley, overhang, dan tingkat, lalu menyesuaikan dengan potongan di lokasi. Cara ini tampak cepat karena gambar lebih sedikit, tetapi menyembunyikan perbedaan tumpuan, arah air, dan ruang sambungan. Ketika kondisi nyata berbeda, pemotongan berantai dapat memindahkan masalah ke anggota lain.
 
-## Draft completion checklist
+Alternatif yang lebih aman adalah membuat detail tipikal hanya untuk bagian yang benar-benar sama, kemudian memberi lembar koordinasi khusus pada setiap titik pertemuan. Detail khusus tidak harus panjang; yang penting ia menunjukkan garis acuan, elevasi, jalur beban, arah air, lapisan yang berakhir, dan pihak yang menyetujui perubahan. Sobat Besi.co.id, sedikit lebih banyak kejelasan di awal biasanya mengurangi pekerjaan bongkar-pasang yang tidak tercatat.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Hip, valley, overhang, dan atap bertingkat tidak boleh diperlakukan sebagai bentuk terpisah. Koordinasikan semuanya melalui garis acuan dan elevasi yang sama, telusuri beban sampai tumpuan, pisahkan jalur air dari asumsi garis struktur, dan tandai setiap pemotongan serta perubahan lapisan sebelum pekerjaan berjalan.
+
+Langkah berikutnya adalah mengumpulkan gambar arsitektur dan struktur yang disetujui, daftar profil dan sertifikat, data kondisi lapangan, serta detail penutup dan drainase. Minta perancang atau pemeriksa kompeten menutup [NEEDS GATE-06: beban, stabilitas, dan sambungan proyek] dan [NEEDS GATE-07: keputusan perubahan atau kondisi eksisting] sebelum rilis pekerjaan. Untuk konteks profil atau produk, Anda dapat mulai dari [hub Kanal C Galvalum](/kanal-c-galvalum) atau [hub Reng Galvalum](/reng-galvalum); bila spesifikasi belum jelas, gunakan [halaman kontak](/kontak) untuk menyampaikan data yang tersedia, bukan meminta tebakan kapasitas.
+
+Aturan operasionalnya sederhana: bila satu titik pertemuan belum memiliki garis, elevasi, jalur beban, jalur air, dan penanggung jawab persetujuan yang jelas, jangan potong material dan jangan anggap detailnya selesai.

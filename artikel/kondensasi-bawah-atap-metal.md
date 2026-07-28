@@ -2,8 +2,8 @@
 article_id: LGS-09-03
 title: "Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan"
 slug: "kondensasi-bawah-atap-metal"
-description: "Explain temperature/humidity, air leakage, ventilation, drainage, symptoms, and evidence"
-status: outline
+description: "Panduan membedakan kondensasi dan kebocoran di bawah atap metal, lalu menyiapkan pemeriksaan suhu, kelembapan, ventilasi, susunan lapisan, dan drainase."
+status: draft
 publication_date: "2025-12-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,201 +13,108 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/kondensasi-bawah-atap-metal.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings"
-  - "https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures"
-  - "https://www.iso.org/standard/72893.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Kalau ada titik air di sisi bawah lembaran atap metal, jangan langsung menyimpulkan atap pasti bocor. Kondensasi terjadi ketika permukaan metal lebih dingin daripada udara lembap di sekitarnya, sehingga uap air berubah menjadi titik air pada permukaan itu. Sebaliknya, kebocoran biasanya membawa air dari sisi luar melalui celah, sambungan, atau penetrasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”
-- **Reader and situation:** Owner/designer
-- **Reader outcome:** Explain temperature/humidity, air leakage, ventilation, drainage, symptoms, and evidence
-- **Primary intent:** Understand moisture
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No condensation design; LGS-17-02 owns diagnosis
-- **Final public route:** `/artikel/kondensasi-bawah-atap-metal.html`
-- **Appointed CMS date:** `2025-12-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pencegahan harus memutus rangkaian kelembapan, bukan sekadar menutup titik yang terlihat. Anda perlu memahami dari mana udara lembap datang, kapan permukaan metal mencapai suhu pemicu, bagaimana udara bergerak, dan ke mana air yang sudah terbentuk dapat mengalir. Ventilasi, lapisan pemisah atau insulasi yang tepat, detail sambungan, serta drainase dapat membantu, tetapi pilihan akhirnya tetap bergantung pada susunan atap dan bukti lapangan.
 
-## Opening instructions
+Jika pola waktunya, jalur udara, kondisi luar, atau detail lapisan belum diketahui, kesimpulan teknis belum aman. [NEEDS KONFIRMASI PROYEK: catat waktu munculnya titik air, kelembapan ruang, suhu, susunan lapisan atap, dan jalur ventilasi sebelum menetapkan tindakan.]
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-25
-
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-09-01` → `/artikel/data-penutup-atap-untuk-rangka.html` — Data Penutup Atap untuk Desain Rangka Baja Ringan
-- `LGS-09-02` → `/artikel/lapisan-underlay-insulasi-ventilasi-atap.html` — Underlay, Insulasi, dan Ventilasi pada Susunan Atap
-- `LGS-09-04` → `/artikel/interface-flashing-talang-penetrasi-atap.html` — Flashing, Talang, Penetrasi, dan Risiko Bocor atau Korosi
-- `LGS-09-05` → `/artikel/beban-tambahan-pada-rangka-atap.html` — Panel Surya, Tangki, Ducting, dan Beban Tambahan di Atap
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondensasi adalah masalah perbedaan suhu dan kandungan uap air, bukan identitas “metal” semata. Lembaran metal cepat mengikuti perubahan suhu. Pada malam atau pagi yang lebih dingin, sisi bawah lembaran dapat menjadi lebih dingin daripada udara lembap di ruang bawahnya. Saat permukaan mencapai kondisi yang memungkinkan uap mengembun, air muncul sebagai bintik, garis, atau tetesan.
+
+Miskonsepsi yang mahal adalah menganggap setiap air di bawah atap pasti berasal dari lubang di atas. Air hujan cenderung mengikuti kejadian hujan dan jalur sambungan. Kondensasi bisa muncul ketika hujan tidak turun, berulang pada dini hari, atau terkonsentrasi di bagian yang paling dingin dan paling sedikit mendapat aliran udara. Dua gejala bisa juga hadir bersamaan, sehingga diagnosis tidak boleh hanya berdasarkan satu foto.
+
+Kawan Besi.co.id, pembeda awal yang sederhana adalah mencatat waktu dan cuaca: apakah permukaan basah setelah hujan, setelah malam yang lembap, ketika ruang dalam menghasilkan uap, atau setelah pekerjaan tertentu. Catatan ini bukan pengganti pemeriksaan, tetapi membantu memisahkan hipotesis sebelum Anda membongkar lapisan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas mekanisme kondensasi di bawah penutup atap metal dan input pencegahan yang perlu disiapkan pemilik atau perancang: temperatur, kelembapan, kebocoran udara, ventilasi, pemisahan lapisan, pembuangan air, dan bukti pemeriksaan. “Input” berarti informasi serta keputusan awal yang harus masuk ke koordinasi desain dan pelaksanaan, bukan ukuran desain siap pakai.
+
+Halaman ini tidak menggantikan diagnosis proyek rinci, perhitungan termal, pemilihan produk tertentu, atau persetujuan profesional. Diagnosis kondisi yang sudah terjadi berada pada pembahasan tersendiri; di sini kita berhenti pada cara memahami gejala dan menyiapkan pemeriksaan. Jangan memakai penjelasan umum ini untuk menjamin bebas embun, umur lapisan, atau kinerja suatu merek.
+
+Kondensasi juga bukan satu-satunya sumber korosi. Genangan, garam, polutan, celah sempit, kontak logam berbeda, kerusakan lapisan, dan drainase buruk dapat memperpanjang kondisi basah. ISO 12944-2 menempatkan kebasahan atau kondensasi bersama faktor paparan lain dalam penilaian lingkungan korosi, sedangkan ISO 12944-5 membahas pemilihan sistem cat pelindung, bukan sekadar klaim “antikarat”. Lihat [klasifikasi lingkungan ISO 12944-2](https://www.iso.org/standard/64834.html) dan [sistem cat ISO 12944-5](https://www.iso.org/standard/77795.html) sebagai rujukan identitas; kategori dan sistem yang berlaku tetap perlu ditentukan dari kondisi aktual.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Udara selalu membawa sejumlah uap air. Udara hangat biasanya dapat membawa lebih banyak uap daripada udara dingin. Ketika udara itu menyentuh metal yang lebih dingin, kemampuan udara menahan uap menurun. Kelebihan uap lalu berubah menjadi cairan pada permukaan. Suhu permukaan saat perubahan itu mulai terjadi sering disebut titik embun; istilah ini membantu menjelaskan mekanisme, bukan angka otomatis untuk semua atap.
+
+Sumber uap bisa berasal dari ruang hunian, kamar mandi, dapur, proses kerja, tanah basah, atau udara luar yang masuk melalui celah. Kebocoran udara—yaitu aliran udara yang tidak direncanakan melalui sambungan, penetrasi, atau bukaan—membawa uap langsung ke sisi dingin. Menutup satu titik tetesan tanpa mengendalikan aliran ini hanya memindahkan gejala ke tempat lain.
+
+Ventilasi bekerja dengan mengganti atau mengalirkan udara sehingga panas dan uap tidak terperangkap. Namun ventilasi bukan lubang ajaib. Jalurnya harus memiliki udara masuk dan keluar yang masuk akal, tidak terhalang, serta selaras dengan detail penutup dan perlindungan hujan. Insulasi atau lapisan pemisah dapat menjaga permukaan tertentu agar tidak terlalu cepat dingin, tetapi susunan yang salah dapat menjebak uap di antara lapisan.
+
+Air yang sudah terbentuk perlu memiliki jalan keluar tanpa membasahi elemen lain. Kemiringan, talang, ujung lembaran, sambungan, dan penetrasi harus diperiksa sebagai satu sistem. Pedoman perawatan dan penyimpanan LYSAGHT mengingatkan pentingnya melindungi material dari kelembapan, kerusakan, dan kondisi penyimpanan yang memerangkap air; prinsip yang sama relevan saat mengendalikan air selama pemasangan dan setelah atap terpasang. Baca [panduan perawatan dan penyimpanan LYSAGHT](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation) untuk konteks produk, bukan sebagai desain proyek Anda.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, lihat pola lingkungan: arah matahari, malam yang dingin, udara laut atau bahan kimia, hujan angin, dan ruang yang jarang dibuka. ISO 12944-2 menekankan bahwa paparan, kebasahan, garam, polutan, celah, drainase, suhu, serta akses pemeliharaan memengaruhi risiko korosi. Jadi, label “atap metal” belum cukup untuk memilih perlindungan.
+
+Kedua, petakan susunan lapisan dari luar ke dalam. Catat penutup, ruang udara, reng, insulasi, lapisan penghambat uap bila ada, plafon, dan sumber uap di ruang. Celah kecil di sekitar pipa atau lampu dapat menjadi jalur udara yang tidak terlihat. Jangan menyatakan suatu lapisan sebagai penghambat uap atau kedap air sebelum data produk dan detail sambungannya tersedia. Bila Anda masih memeriksa jenis tumpuan, lihat [hub Kanal C Galvalum](/kanal-c-galvalum) sebagai konteks profil, bukan sebagai bukti kecocokan susunan atap tertentu.
+
+Untuk bagian penutup yang bertumpu pada reng, [informasi Reng Galvalum](/reng-galvalum) dapat membantu Anda menyamakan istilah saat meminta data produk. Kecocokan detail, jarak, dan ventilasi tetap harus diperiksa pada gambar proyek yang disetujui.
+
+Ketiga, periksa ventilasi sebagai jalur, bukan jumlah lubang. Tanyakan dari mana udara masuk, ke mana keluar, apakah ada sumbatan, dan apakah hujan dapat masuk melalui jalur yang sama. Ventilasi yang terlalu terbuka tanpa perlindungan dapat membawa air dan kotoran; ventilasi yang terputus tidak mengeringkan bagian lembap yang sebenarnya.
+
+Keempat, perhatikan pelaksanaan. Lembaran yang tergores, terpotong, tertindih, atau disimpan dalam keadaan basah dapat memulai masalah sebelum bangunan dipakai. Pisahkan catatan kerusakan material, kondisi pengiriman, dan waktu pemasangan. Satu inspeksi akhir tidak cukup untuk merekonstruksi semua paparan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan titik air terlihat setiap pagi cerah, tetapi tidak selalu setelah hujan. Langkah pertama bukan mengecat ulang. Bandingkan catatan kelembapan ruang, suhu malam, lokasi titik air, dan kondisi ventilasi. Jika titik terkumpul di area yang paling dingin serta tidak ada jalur hujan yang jelas, kondensasi menjadi hipotesis yang layak diuji. Jika air muncul hanya di sekitar penetrasi setelah hujan, kebocoran detail perlu diperiksa lebih dahulu.
+
+Contoh kedua: ruang di bawah atap dipakai untuk aktivitas yang menghasilkan uap, sementara plafon memiliki banyak celah. Udara lembap dapat naik dan menyentuh metal. Keputusan awalnya adalah memperbaiki sumber uap dan kebocoran udara sambil memeriksa ventilasi, bukan menambah lubang secara acak. Setiap perubahan harus dicatat agar Anda tahu perubahan mana yang berkaitan dengan gejala.
+
+Gunakan tabel keputusan sederhana berikut saat rapat:
+
+| Pengamatan | Pertanyaan berikutnya | Keputusan sementara |
+|---|---|---|
+| Basah mengikuti hujan dan jalur sambungan | Adakah celah, sekrup, flashing, atau penetrasi terbuka? | Prioritaskan pemeriksaan kebocoran; jangan menyebutnya kondensasi dulu. |
+| Basah berulang saat pagi tanpa hujan | Bagaimana suhu permukaan, kelembapan ruang, dan aliran udara? | Uji hipotesis kondensasi dan petakan jalur uap. |
+| Korosi atau noda berada di area lembap | Apakah ada genangan, garam, celah, atau logam berbeda yang kontak? | Nilai paparan korosi; “cat ulang” belum menjadi spesifikasi. |
+| Material pernah basah saat disimpan | Apakah ada catatan durasi, drainase, dan kerusakan lapisan? | Karantina area yang diragukan dan minta pemeriksaan kompeten. |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menutup titik tetesan dengan sealant tanpa mencari sumber uap. Periksa pola basah sebelum dan sesudah hujan, jalur udara, serta bagian yang tidak terlihat dari bawah. Kesalahan kedua adalah memasang insulasi tanpa detail kesinambungan. Minta potongan lapisan yang menunjukkan sambungan, tepi, penetrasi, dan jalan pengeringan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memakai kata “antikarat” sebagai keputusan teknis. Perlindungan korosi bergantung pada substrat, paparan, persiapan, sistem pelapis, kerusakan, dan pemeliharaan. AMPP menjelaskan dasar korosi sebagai interaksi material dengan lingkungannya; karena itu kondisi basah berulang harus dibaca bersama lingkungan, bukan dipisahkan dari sistem. Rujuk [Corrosion Basics dari AMPP](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction) untuk dasar mekanismenya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah menganggap foto cukup sebagai bukti. Foto dapat menunjukkan lokasi, tetapi tidak mengukur kelembapan, temperatur permukaan, ketebalan lapisan, atau jalur masuk air. Simpan foto berurutan, waktu pengambilan, cuaca, kondisi ruang, dan perubahan yang dilakukan. Jika keputusan menyentuh pembongkaran atau keselamatan kerja, minta peninjauan teknis dan rencana kerja yang sesuai.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Tambahkan ventilasi sebanyak mungkin, selesai.” Jalan pintas ini menarik karena terlihat murah, tetapi dapat gagal bila tidak ada jalur keluar, membawa hujan, atau justru membuat bagian tertentu semakin dingin. Alternatif yang lebih aman adalah memetakan aliran udara, menjaga detail perlindungan cuaca, lalu menguji perubahan secara terbatas dengan catatan sebelum-sesudah.
 
-## Draft completion checklist
+Teman Besi.co.id juga sering bertanya apakah mengganti metal dengan bahan lain pasti menghapus kondensasi. Tidak otomatis. Bahan, suhu permukaan, sumber uap, dan susunan lapisan tetap menentukan. Ganti material tanpa memahami mekanisme dapat menghilangkan gejala sementara, sementara masalah kelembapan berpindah ke plafon, insulasi, atau sambungan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Kondensasi di bawah atap metal muncul ketika uap air bertemu permukaan yang cukup dingin; pencegahannya memerlukan kendali sumber uap, kebocoran udara, ventilasi, susunan lapisan, dan pembuangan air. Bedakan pola kondensasi dari kebocoran, lalu nilai risiko korosi berdasarkan paparan nyata—bukan hanya nama material atau klaim cat.
+
+Langkah berikutnya adalah membuat lembar pemeriksaan berisi waktu gejala, cuaca, kelembapan dan suhu yang tersedia, susunan lapisan, jalur ventilasi, detail penetrasi, kondisi drainase, serta riwayat penyimpanan atau kerusakan. Bawa catatan itu ke perancang atau pemeriksa kompeten sebelum membongkar lapisan atau menetapkan produk. [NEEDS REVIEW PROYEK: keputusan akhir tentang detail pencegahan, perubahan lapisan, dan penerimaan kondisi harus disetujui berdasarkan data proyek serta persyaratan yang berlaku.]
+
+Aturan operasinya sederhana: jangan menutup air yang terlihat sebelum memahami dari mana uap atau air datang, bagaimana ia bergerak, dan ke mana ia harus keluar.

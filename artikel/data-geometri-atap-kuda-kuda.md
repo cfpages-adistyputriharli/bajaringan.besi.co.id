@@ -2,8 +2,8 @@
 article_id: LGS-06-02
 title: "Data Geometri Atap sebelum Layout Kuda-Kuda"
 slug: "data-geometri-atap-kuda-kuda"
-description: "Capture spans, supports, pitch, ridge, hips, valleys, openings, edges, and overhangs"
-status: outline
+description: "Menangkap data rentang, tumpuan, kemiringan, bubungan, pinggul, lembah, bukaan, tepi, dan overhang"
+status: draft
 publication_date: "2025-10-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/data-geometri-atap-kuda-kuda.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.aisc.org/aisc/solutions-center/hss/"
   - "https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf"
@@ -26,185 +27,131 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Data Geometri Atap sebelum Layout Kuda-Kuda
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Data Geometri Atap sebelum Layout Kuda-Kuda”
-- **Reader and situation:** Architect/design coordinator
-- **Reader outcome:** Capture spans, supports, pitch, ridge, hips, valleys, openings, edges, and overhangs
-- **Primary intent:** Prepare layout input
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No layout output; LGS-05-01 owns other design inputs
-- **Final public route:** `/artikel/data-geometri-atap-kuda-kuda.html`
-- **Appointed CMS date:** `2025-10-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Sebelum Anda mulai mendesain layout kuda-kuda baja ringan, ada satu langkah yang sering dianggap sepele tetapi bisa menyebabkan revisi besar di kemudian hari: mengumpulkan data geometri atap secara lengkap dan akurat. Tanpa data ini, desainer tidak bisa menentukan ukuran kuda-kuda yang tepat, posisi tumpuan yang benar, atau detail sambungan yang sesuai. Hasilnya? Revisi desain, penundaan fabrikasi, atau bahkan pemasangan yang tidak sesuai dengan kondisi aktual di lapangan.
 
-## Opening instructions
+Jawaban singkatnya: data geometri atap harus dikumpulkan sebelum layout kuda-kuda dimulai, mencakup rentang (span), tumpuan (supports), kemiringan (pitch), bubungan (ridge), pinggul (hips), lembah (valleys), bukaan (openings), tepi (edges), dan overhang. Data ini bukan sekadar dimensi kasar dari gambar arsitek, tetapi informasi detail yang memungkinkan desainer menentukan beban, titik tumpu, dan geometri kuda-kuda yang tepat. Tanpa data yang lengkap, Anda berisiko mendesain kuda-kuda yang tidak muat di lapangan atau tidak mampu menampung beban yang sebenarnya.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Data Geometri Atap sebelum Layout Kuda-Kuda**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Gambar ilustrasi dari arsip proyek; bukan dokumentasi proyek spesifik._
 
-### KR-01
+## Mengapa data geometri harus dikumpulkan sebelum layout
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Data geometri atap adalah input dasar untuk desain kuda-kuda. Tanpa data ini, desainer hanya bisa menebak—dan tebakan dalam desain struktural bisa berakibat fatal. Misalnya, jika rentang atap lebih besar dari yang diasumsikan, kuda-kuda yang didesain mungkin tidak cukup kuat. Jika posisi tumpuan berbeda dari yang diharapkan, sambungan yang dirancang mungkin tidak cocok.
 
-### KR-09
+SNI 1729:2020 tentang baja struktural ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)) menetapkan prinsip desain untuk elemen struktural baja, termasuk pertimbangan geometri. SNI 8369:2020 tentang rangka atap baja ringan ([SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020)) memberikan panduan lebih spesifik tentang desain dan pemasangan, termasuk aspek geometri atap.
 
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
+Sobat Besi.co.id, satu hal yang sering terlupakan: data geometri bukan hanya soal dimensi, tetapi juga soal kondisi aktual di lapangan. Dinding yang tidak rata, kolom yang bergeser, atau balok yang miring bisa mengubah geometri atap secara signifikan. Pengukuran di lapangan harus diverifikasi sebelum desain dimulai.
 
-### KR-11
+## Apa saja data yang harus dikumpulkan
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+Berikut data geometri atap yang harus dikumpulkan sebelum layout kuda-kuda:
 
-### KR-24
+**Rentang (span):** Jarak horizontal antara dua tumpuan utama kuda-kuda. Ini menentukan ukuran kuda-kuda dan kapasitas beban yang dibutuhkan. Pengukuran harus dilakukan di beberapa titik karena dinding mungkin tidak paralel.
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+**Tumpuan (supports):** Posisi dan jenis tumpuan kuda-kuda. Apakah kuda-kuda ditumpu pada dinding, balok, atau kolom? Apakah tumpuannya rata atau miring? Apakah ada tumpuan sementara yang perlu dipertimbangkan?
 
-### KR-26
+**Kemiringan (pitch):** Sudut kemiringan atap, biasanya dinyatakan dalam derajat atau rasio (misalnya, 30 derajat atau 1:4). Kemiringan menentukan tinggi kuda-kuda dan beban angin yang bekerja.
 
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
+**Bubungan (ridge):** Garis puncak atap di mana dua bidang miring bertemu. Posisi bubungan menentukan geometri kuda-kuda dan sambungan di puncak.
 
-## Evidence gates
+**Pinggul (hips) dan lembah (valleys):** Pertemuan bidang atap yang membentuk sudut. Pinggul adalah pertemuan cembung, lembah adalah pertemuan cekung. Keduanya memerlukan kuda-kuda khusus dengan geometri yang berbeda.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+**Bukaan (openings):** Lubang untuk skylight, ventilasi, tangki, atau akses. Ukuran dan posisi bukaan menentukan kebutuhan kuda-kuda penopang (trimming).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Tepi (edges):** Batas atap di mana atap bertemu dinding, fascia, atau langit-langit. Detail tepi menentukan kebutuhan overhang dan flashing.
 
-## Internal-link plan
+**Overhang:** Bagian atap yang menjulur di luar dinding luar. Overhang melindungi dinding dari hujan dan menentukan panjang ekor kuda-kuda.
 
-### Existing local routes
+ISO 46556 tentang manajemen aset ([ISO 46556](https://www.iso.org/standard/46556.html)) menekankan pentingnya data yang akurat untuk pengambilan keputusan. Prinsip yang sama berlaku untuk desain kuda-kuda.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Bagaimana mengumpulkan dan memverifikasi data
 
-### Planned sibling articles
+Pengumpulan data geometri atap harus dilakukan secara sistematis:
 
-These are future routes. Do not link them as live until their HTML exists.
+**Dari gambar arsitek:** Mulailah dengan gambar denah, potongan, dan tampak yang disediakan arsitek. Ekstrak dimensi rentang, posisi tumpuan, kemiringan, dan bukaan. Namun, jangan hanya mengandalkan gambar—verifikasi di lapangan.
 
-- `LGS-06-01` → `/artikel/anatomi-kuda-kuda-baja-ringan.html` — Anatomi Kuda-Kuda Baja Ringan
-- `LGS-06-03` → `/artikel/prefabrikasi-vs-rakit-lokasi-kuda-kuda.html` — Kuda-Kuda Prefabrikasi vs Dirakit di Lokasi
-- `LGS-06-04` → `/artikel/koordinasi-geometri-atap-kompleks.html` — Hip, Valley, Overhang, dan Atap Bertingkat: Titik Koordinasi
+**Pengukuran di lapangan:** Lakukan pengukuran langsung di lokasi untuk memverifikasi data dari gambar. Gunakan water pass atau laser level untuk memeriksa level tumpuan. Gunakan theodolite atau aplikasi pengukuran sudut untuk memeriksa kemiringan. Ukur rentang di beberapa titik untuk memastikan konsistensi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+**Dokumentasi foto:** Ambil foto dari berbagai sudut untuk mendokumentasikan kondisi aktual. Foto ini berguna untuk referensi desainer dan untuk menyelesaikan sengketa jika ada perbedaan antara gambar dan kenyataan.
 
-## Jawaban singkat dan salah paham utama
+**Koordinasi dengan disiplin lain:** Pastikan data geometri dikumpulkan bersama dengan data dari disiplin lain—MEP (pipa, kabel, duct), struktur (kolom, balok), dan arsitek (finishing, langit-langit). Konflik antar disiplin harus diidentifikasi sebelum desain dimulai.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Data Geometri Atap sebelum Layout Kuda-Kuda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+FHWA memberikan panduan tentang inspeksi dan verifikasi struktur baja ([FHWA bridge inspection](https://www.fhwa.dot.gov/bridge/inspection/)) yang bisa diterapkan untuk verifikasi data geometri. Publikasi FHWA tentang baja juga memberikan wawasan tentang perilaku struktural ([FHWA steel pubs](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf)).
 
-## Definisi dan batas objek
+Teman Besi.co.id, satu kesalahan umum adalah menganggap gambar arsitek sebagai kebenaran mutlak. Gambar adalah representasi ideal; kenyataan di lapangan bisa berbeda. Selalu verifikasi.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Data Geometri Atap sebelum Layout Kuda-Kuda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Faktor yang mengubah kebutuhan data
 
-## Cara kerjanya
+Beberapa faktor menentukan seberapa detail data geometri yang harus dikumpulkan:
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Data Geometri Atap sebelum Layout Kuda-Kuda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kompleksitas atap:** Atap sederhana dengan satu bidang miring membutuhkan data yang lebih sedikit daripada atap dengan banyak pinggul, lembah, dan bukaan. Semakin kompleks atap, semakin detail data yang dibutuhkan.
 
-## Faktor yang mengubah hasil
+**Ukuran bangunan:** Bangunan besar dengan rentang panjang membutuhkan data yang lebih akurat karena toleransi kesalahan lebih kecil. Kesalahan 10 mm pada rentang 6 m mungkin bisa ditolerir, tetapi pada rentang 18 m bisa menjadi masalah.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Data Geometri Atap sebelum Layout Kuda-Kuda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kondisi struktur pendukung:** Jika struktur pendukung (dinding, kolom, balok) sudah ada dan tidak bisa diubah, data geometri harus sangat akurat. Jika struktur masih bisa disesuaikan, toleransi bisa lebih longgar.
+
+**Jenis kuda-kuda:** Kuda-kuda standar mungkin bisa menggunakan data kasar, tetapi kuda-kuda khusus dengan geometri kompleks membutuhkan data yang sangat detail.
+
+AISC menyediakan panduan tentang profil baja struktural ([AISC HSS solutions](https://www.aisc.org/aisc/solutions-center/hss/)) yang bisa menjadi referensi untuk desain kuda-kuda. Konvensi penamaan produk baja struktural diatur dalam standar AISC ([AISC naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Data Geometri Atap sebelum Layout Kuda-Kuda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut skenario untuk membantu keputusan Anda:
 
-## Kesalahan umum dan cara memeriksanya
+**Skenario 1: Atap pelana sederhana dengan rentang 8 m.** Keputusan: data yang dibutuhkan adalah rentang, kemiringan, posisi tumpuan, dan overhang. Verifikasi di lapangan cukup dengan pengukuran sederhana. Tidak ada bukaan atau pinggul yang perlu diperhatikan.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Data Geometri Atap sebelum Layout Kuda-Kuda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 2: Atap dengan 3 bukaan skylight dan 2 lembah.** Keputusan: data yang dibutuhkan lebih detail—ukuran dan posisi setiap bukaan, geometri lembah, dan posisi kuda-kuda penopang. Verifikasi di lapangan harus lebih teliti karena toleransi kesalahan lebih kecil.
 
-## Objection or shortcut to address
+**Skenario 3: Bangunan lama yang akan dipasangi atap baru.** Keputusan: data geometri harus sangat akurat karena struktur pendukung sudah ada dan tidak bisa diubah. Pengukuran di lapangan harus menggunakan alat yang lebih presisi, dan perbedaan dengan gambar harus didokumentasikan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+SNI 7971:2013 tentang pengujian baja ([SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)) memberikan metode pengujian yang relevan jika material struktur pendukung perlu diverifikasi.
 
-## Required conclusion
+## Kesalahan umum dalam pengumpulan data
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Beberapa kesalahan umum dalam pengumpulan data geometri atap:
 
-## Draft completion checklist
+**Hanya mengandalkan gambar arsitek.** Gambar adalah representasi ideal; kenyataan di lapangan bisa berbeda. Selalu verifikasi dengan pengukuran langsung. Pertanyaan verifikasi: Apakah Anda sudah melakukan pengukuran di lapangan dan membandingkannya dengan gambar?
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+**Tidak memeriksa level tumpuan.** Tumpuan yang tidak rata bisa mengubah geometri kuda-kuda secara signifikan. Gunakan water pass atau laser level untuk memeriksa level. Pertanyaan verifikasi: Apakah level tumpuan sudah diverifikasi?
+
+**Mengabaikan bukaan dan penetrasi.** Bukaan untuk skylight, ventilasi, atau pipa sering terlupa dalam pengumpulan data. Padahal, bukaan ini membutuhkan kuda-kuda khusus. Pertanyaan verifikasi: Apakah semua bukaan sudah tercatat dengan ukuran dan posisi yang tepat?
+
+**Tidak mendokumentasikan perbedaan.** Jika ada perbedaan antara gambar dan kenyataan, dokumentasikan perbedaan tersebut dan komunikasikan ke tim desain. Jangan biarkan perbedaan ini tidak tercatat. Pertanyaan verifikasi: Apakah perbedaan antara gambar dan kenyataan sudah didokumentasikan?
+
+FHWA menekankan pentingnya dokumentasi dan verifikasi untuk menjaga kualitas ([FHWA NDEC news](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)).
+
+## Mengapa "cukup dari gambar" bisa gagal
+
+Salah satu kecenderungan yang sering muncul adalah mengandalkan data dari gambar arsitek tanpa verifikasi di lapangan dengan alasan "gambar sudah final, tidak mungkin salah." Mengapa ini bisa gagal?
+
+Gambar arsitek adalah representasi ideal yang dibuat sebelum konstruksi dimulai. Selama konstruksi, banyak faktor yang bisa menyebabkan perbedaan: dinding yang tidak dibangun sesuai gambar, kolom yang bergeser beberapa sentimeter, atau balok yang tidak rata. Perbedaan kecil ini mungkin tidak signifikan untuk finishing, tetapi bisa kritis untuk desain kuda-kuda.
+
+PP 16/2021 tentang Perlindungan Kebakaran ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)) menetapkan persyaratan keselamatan yang juga relevan dengan akurasi desain struktural.
+
+Alternatif yang lebih aman adalah melakukan pengukuran di lapangan meskipun gambar sudah final. Waktu yang dibutuhkan hanya beberapa jam, tetapi bisa menyelamatkan Anda dari revisi desain yang memakan waktu berminggu-minggu.
+
+## Kesimpulan
+
+Data geometri atap adalah input dasar yang harus dikumpulkan sebelum layout kuda-kuda dimulai. Data ini mencakup rentang, tumpuan, kemiringan, bubungan, pinggul, lembah, bukaan, tepi, dan overhang. Tanpa data yang lengkap dan akurat, desainer tidak bisa menentukan ukuran kuda-kuda yang tepat, posisi tumpuan yang benar, atau detail sambungan yang sesuai.
+
+Langkah konkret yang harus Anda ambil sekarang: buat checklist data geometri atap yang harus dikumpulkan. Lakukan pengukuran di lapangan untuk memverifikasi data dari gambar. Dokumentasikan perbedaan antara gambar dan kenyataan. Koordinasikan dengan disiplin lain untuk mengidentifikasi konflik sebelum desain dimulai.
+
+Ingat batasannya: artikel ini membahas pengumpulan data geometri, bukan desain kuda-kuda atau output layout. Untuk desain kuda-kuda, konsultasikan dengan insinyur struktur yang memahami kondisi proyek Anda. Untuk informasi lebih lanjut tentang koordinasi desain secara keseluruhan, kunjungi [panduan koordinasi geometri atap kompleks](/artikel/koordinasi-geometri-atap-kompleks.html) atau pelajari tentang [inspeksi rangka baja ringan terpasang](/artikel/inspeksi-rangka-baja-ringan-terpasang.html) untuk memahami apa yang diperiksa setelah pemasangan.

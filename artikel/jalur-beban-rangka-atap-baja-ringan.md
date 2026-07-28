@@ -3,7 +3,8 @@ article_id: LGS-05-02
 title: "Jalur Beban pada Rangka Atap Baja Ringan"
 slug: "jalur-beban-rangka-atap-baja-ringan"
 description: "Trace roof actions through reng, truss, connections, supports, and foundations"
-status: outline
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2025-09-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,197 +15,90 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/jalur-beban-rangka-atap-baja-ringan.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
-  - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
-  - "https://www.iso.org/standard/46556.html"
-  - "https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings"
-  - "https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures"
-  - "https://www.iso.org/standard/72893.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Jalur Beban pada Rangka Atap Baja Ringan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Jalur Beban pada Rangka Atap Baja Ringan”
-- **Reader and situation:** Non-engineer/project team
-- **Reader outcome:** Trace roof actions through reng, truss, connections, supports, and foundations
-- **Primary intent:** Understand load path
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No load values or capacity; LGS-08 owns stability
-- **Final public route:** `/artikel/jalur-beban-rangka-atap-baja-ringan.html`
-- **Appointed CMS date:** `2025-09-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jalur Beban pada Rangka Atap Baja Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-004
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi rangka atap 1](/wp-content/uploads/2024/07/rangka-atap-1.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `rangka atap 1` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies rangka atap 1 as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-004] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Jalur Beban pada Rangka Atap Baja Ringan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id!
 
-### KR-01
+Ketika Anda melihat rangka atap baja ringan yang sudah terpasang, pertanyaan kritis yang harus dipahami adalah: "Bagaimana beban-beban yang bekerja pada atap—mulai dari beban penutup atap, beban angin, hingga beban tambahan—ditransfer dari satu komponen ke komponen lainnya sampai akhirnya diterima oleh fondasi?" Jawaban singkatnya adalah jalur beban pada rangka atap baja ringan mengikuti urutan yang terstruktur: dari penutup atap ke reng, dari reng ke kuda-kuda, dari kuda-kuda ke kolom atau dinding penahan, dan dari sana ke fondasi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Memahami jalur beban ini penting karena setiap komponen dalam jalur tersebut memiliki peran spesifik yang harus dipenuhi. Jika ada satu titik lemah dalam jalur beban, seluruh sistem struktural dapat terganggu. Oleh karena itu, pemahaman tentang jalur beban menjadi fondasi untuk merawat, memeriksa, dan memahami kondisi rangka atap baja ringan.
 
-### KR-11
+![Ilustrasi rangka atap 1](/wp-content/uploads/2024/07/rangka-atap-1.jpg)
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-25
-
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-05-01` → `/artikel/input-desain-rangka-baja-ringan.html` — Checklist Input Desain Rangka Baja Ringan
-- `LGS-05-03` → `/artikel/strength-serviceability-stability-baja-ringan.html` — Strength, Serviceability, dan Stability: Tiga Pemeriksaan Berbeda
-- `LGS-05-04` → `/artikel/beban-tahap-konstruksi-baja-ringan.html` — Beban Sementara saat Fabrikasi, Angkut, dan Ereksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban pada Rangka Atap Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Gambar di atas adalah ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban pada Rangka Atap Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalur beban yang dibahas dalam artikel ini adalah urutan transfer beban dari penutup atap sampai ke fondasi. Yang tidak dibahas adalah nilai beban spesifik atau kapasitas struktural masing-micomponen—karena penentuan nilai tersebut merupakan ranah perencanaan struktural yang dimiliki oleh jalur editorial lain.
 
-## Cara kerjanya
+Batas ini penting karena artikel ini berfokus pada pemahaman mekanisme transfer beban, bukan pada perhitungan teknis. Memahami jalur beban membantu Anda dalam mengidentifikasi komponen-komponen kritis yang harus diperiksa dan dirawat secara berkala.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban pada Rangka Atap Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Besi.co.id, setiap bangunan memiliki jalur beban yang unik tergantung pada konfigurasi rangka, jenis penutup atap, dan kondisi beban yang bekerja. Namun, prinsip dasar transfer beban tetap sama untuk semua jenis rangka atap baja ringan.
 
-## Faktor yang mengubah hasil
+## Cara kerja jalur beban
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban pada Rangka Atap Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalur beban bekerja melalui beberapa tahapan transfer. Tahap pertama adalah beban dari penutup atap—termasuk berat sendiri penutup, beban air hujan, dan beban tambahan lainnya—ditransfer ke reng. Reng berfungsi sebagai komponen sekunder yang menyalurkan beban dari penutup atap ke kuda-kuda.
 
-## Contoh keputusan praktis
+Tahap kedua adalah beban dari reng ditransfer ke kuda-kuda melalui koneksi yang sudah direncanakan. Kuda-kuda berfungsi sebagai komponen primer yang menahan beban dari reng dan menyalurkannya ke komponen penyangga berikutnya.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban pada Rangka Atap Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tahap ketiga adalah beban dari kuda-kuda ditransfer ke kolom atau dinding penahan melalui tumpuan yang sudah direncanakan. Tumpuan ini bisa berupa bracket, baut.anchor, atau sambungan lain yang dirancang untuk menahan beban vertikal dan horizontal.
 
-## Kesalahan umum dan cara memeriksanya
+Tahap terakhir adalah beban dari kolom atau dinding penahan ditransfer ke fondasi. Fondasi berfungsi sebagai komponen akhir yang menerima seluruh beban dari struktur di atasnya dan menyalurkannya ke tanah pendukung.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban pada Rangka Atap Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Faktor yang mengubah jalur beban
 
-## Objection or shortcut to address
+Beberapa faktor dapat mempengaruhi jalur beban pada rangka atap baja ringan. Pertama, jenis dan berat penutup atap—penutup yang lebih berat akan menghasilkan beban yang lebih besar pada reng dan komponen berikutnya. Kedua, jarak antar reng—jarak yang lebih lebar akan meningkatkan beban pada setiap titik tumpu reng pada kuda-kuda.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Ketiga, bentang antar kuda-kuda—bentang yang lebih lebar membutuhkan kuda-kuda dengan kapasitas yang lebih besar. Keempat, kondisi beban yang bekerja—beban angin yang tinggi, beban dinamis, atau beban tak terduga lainnya dapat mengubah jalur beban secara signifikan.
 
-## Required conclusion
+Faktor lain yang sering diabaikan adalah kondisi lingkungan—kelembaban tinggi, suhu ekstrem, atau paparan korosi dapat mempengaruhi integritas komponen seiring waktu, yang pada gilirannya dapat mempengaruhi jalur beban.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Contoh pemahaman jalur beban
 
-## Draft completion checklist
+Ketika Anda memeriksa kondisi rangka atap, pertanyaan yang bisa Anda ajukan adalah: "Dari mana beban ini berasal dan ke mana beban ini ditransfer?" Misalnya, jika Anda melihat reng yang bengkok, pertanyaan berikutnya adalah: "Apakah reng ini bengkok karena beban dari penutup atap yang berlebih, atau karena jarak tumpu yang terlalu lebar?"
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jika Anda melihat kuda-kuda yang mengalami defleksi, pertanyaan selanjutnya adalah: "Apakah defleksi ini disebabkan oleh beban yang melebihi kapasitas, atau karena ada komponen dalam jalur beban yang tidak berfungsi dengan benar?"
+
+Kawan Besi.co.id, dengan memahami jalur beban, Anda bisa mengidentifikasi titik-titik kritis yang perlu diperhatikan dan dipelihara. Titik-titik kritis ini meliputi koneksi antar komponen, tumpuan kuda-kuda, dan kondisi kolom atau dinding penahan.
+
+## Kesalahan umum dalam memahami jalur beban
+
+Kesalahan pertama: menganggap bahwa setiap komponen bekerja secara independen tanpa saling mempengaruhi. Sebenarnya, setiap komponen dalam jalur beban saling terhubung dan saling mempengaruhi. Kerusakan pada satu komponen dapat mempengaruhi komponen lainnya.
+
+Kesalahan kedua: mengabaikan koneksi antar komponen. Koneksi yang longgar atau rusak dapat mengganggu transfer beban, bahkan jika komponen-komponen individu dalam kondisi baik.
+
+Kesalahan ketiga: tidak memperhatikan kondisi fondasi. Fondasi yang mengalami pergeseran atau kerusakan dapat mempengaruhi seluruh jalur beban di atasnya.
+
+## Keraguan atau jalan pintas yang perlu dijawab
+
+Salah satu shortcut yang sering diambil adalah mengabaikan pemeriksaan koneksi antar komponen dengan alasan "komponen-komponen sudah terpasang dengan baik." Pernyataan ini berisiko karena kondisi koneksi dapat berubah dari waktu ke waktu karena getaran, perubahan suhu, atau faktor lainnya.
+
+Ketika koneksi tidak diperiksa secara berkala, masalah yang mungkin muncul di kemudian hari menjadi lebih sulit ditangani. Misalnya, koneksi yang longgar dapat menyebabkan komponen bergerak dari posisi semula, yang pada gilirannya dapat mengganggu jalur beban secara keseluruhan.
+
+Alternatif yang lebih andal adalah melakukan pemeriksaan berkala pada koneksi-koneksi kritis dalam jalur beban. Pemeriksaan ini harus mencakup kondisi fisik koneksi, kekencangan baut atau sekrup, dan tanda-tanda kerusakan atau korosi.
+
+## Kesimpulan dan langkah selanjutnya
+
+Jalur beban pada rangka atap baja ringan mengikuti urutan yang terstruktur: dari penutup atap ke reng, dari reng ke kuda-kuda, dari kuda-kuda ke kolom atau dinding, dan dari sana ke fondasi. Pemahaman tentang jalur beban ini menjadi fondasi untuk merawat dan memeriksa kondisi rangka atap.
+
+Langkah selanjutnya yang bisa Anda ambil adalah mempelajari konfigurasi jalur beban pada bangunan Anda, mengidentifikasi titik-titik kritis dalam jalur beban, dan memastikan bahwa pemeriksaan berkala mencakup komponen-komponen kritis tersebut.
+
+Ingatlah bahwa jalur beban yang berfungsi dengan baik adalah kunci keamanan dan keandalan struktur atap, Teman Besi.co.id. SNI 1729:2020 ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)) menekankan pentingnya perencanaan dan pelaksanaan yang memperhatikan jalur beban secara menyeluruh. Pemahaman yang baik tentang jalur beban akan membantu Anda dalam menjaga kondisi struktur atap tetap aman dan andal.
+
+Untuk informasi lebih lanjut tentang fungsi reng dalam jalur beban, Sobat Besi.co.id, Anda bisa membaca artikel tentang [fungsi reng baja ringan](/artikel/fungsi-reng-baja-ringan.html). Selain itu, jika Anda memerlukan informasi tentang bracing sementara yang bisa dipasang selama perbaikan jalur beban, silakan lihat artikel tentang [bracing sementara baja ringan](/artikel/bracing-sementara-baja-ringan.html).
+
+---

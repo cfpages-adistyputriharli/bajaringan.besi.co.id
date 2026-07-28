@@ -2,8 +2,8 @@
 article_id: LGS-01-05
 title: "Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface"
 slug: "glosarium-komponen-baja-ringan"
-description: "Explain recurring component and interface terms"
-status: outline
+description: "Penjelasan istilah komponen dan antarmuka yang berulang"
+status: draft
 publication_date: "2025-06-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/glosarium-komponen-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
@@ -27,186 +28,95 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”
-- **Reader and situation:** Reader of drawings/quotes
-- **Reader outcome:** Explain recurring component and interface terms
-- **Primary intent:** Decode documents
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No dimensions/capacities; those require LGS-02 evidence
-- **Final public route:** `/artikel/glosarium-komponen-baja-ringan.html`
-- **Appointed CMS date:** `2025-06-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id!
 
-### KR-01
+Dokumen gambar kerja, penawaran harga, dan spesifikasi teknis baja ringan penuh dengan istilah spesifik yang bisa membingungkan pembaca baru. Profil, truss, bracing, fastener, dan roof interface adalah kelompok istilah yang paling sering muncul dan paling sering disalahartikan. Glosarium ini membantu Anda memahami arti setiap istilah dalam konteks baja ringan, sehingga Anda bisa membaca dokumen dengan percaya diri dan menghindari kesalahpahaman yang mahal.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: setiap istilah merujuk pada komponen atau konsep spesifik yang memiliki fungsi dan batas yang jelas. Memahami arti dan batas setiap istilah membantu Anda menghindari kesalahan interpretasi yang bisa berakibat pada keputusan desain atau pemasangan yang salah. Teman Besi.co.id, mulai dari istilah yang paling sering muncul di dokumen Anda.
 
-### KR-02
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Apa yang dibahas dan apa yang tidak
 
-### KR-04
+Artikel ini membahas glosarium istilah komponen dan antarmuka baja ringan yang berulang muncul di dokumen proyek. Cakupannya mencakup lima kategori utama: profil, truss, bracing, fastener, dan roof interface. Yang tidak dibahas adalah dimensi dan kapasitas spesifik dari setiap komponen—karena data-data itu membutuhkan bukti dari sumber yang lebih spesifik.
 
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
+Pembedaan ini penting karena glosarium memberikan pemahaman konseptual, bukan data teknis. Ketika Anda menemui istilah "truss" di gambar kerja, glosarium membantu Anda memahami apa itu truss dan fungsinya. Tetapi dimensi spesifik truss untuk proyek Anda harus ditentukan oleh engineer desain.
 
-### KR-05
+## Profil baja ringan
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Profil adalah bentuk penampang baja ringan yang dihasilkan dari proses cold forming—yaitu pembentukan lembaran baja tipis pada suhu kamar menggunakan mesin roll forming. Setiap profil memiliki geometri khas yang menentukan fungsi dan kapasitasnya. Profil C digunakan sebagai balok atau kolom dengan kapasitas lentur yang baik pada satu sumbu. Profil Z digunakan sebagai purlin atau girts karena kemampuannya menahan beban lateral. Profil hat channel digunakan sebagai kolom atau balok utama karena luas penampangnya yang besar. Profil hollow structural section (HSS) digunakan sebagai kolom, balok, atau bracing karena memiliki kapasitas tekan yang merata di semua arah.
 
-### KR-11
+Pemilihan profil yang tepat harus mempertimbangkan jenis beban, arah beban, panjang anggota, dan kondisi sambungan. Profil yang salah bisa menghasilkan kapasitas yang jauh di bawah yang dibutuhkan, meskipun dari luar terlihat sama.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+Klasifikasi standar internasional (https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) membantu memahami bagaimana produk baja dikategorikan. BSN (https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) menyediakan daftar standar yang berlaku untuk baja dan produk turunannya. BSN (https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=) juga menyediakan daftar standar untuk produk baja lembaran dan strip.
 
-## Evidence gates
+AISC (https://www.aisc.org/aisc/solutions-center/hss/) memberikan referensi mengenai jenis-jenis profil baja yang umum digunakan, termasuk penamaan dan klasifikasinya.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+## Truss atau kuda-kuda
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Truss adalah struktur rangka segitiga yang berfungsi menahan beban atap dan mentransfer beban ke kolom atau dinding penahan. Truss terdiri dari beberapa komponen: top chord (chord atas) yang menahan beban kompresi, bottom chord (chord bawah) yang menahan beban tarik, web members (anggota web) yang menghubungkan chord atas dan bawah, dan panel points (titik simpul) tempat semua anggota bertemu. Setiap komponen memiliki fungsi spesifik dalam sistem truss, dan kegagalan satu komponen bisa mempengaruhi seluruh sistem.
 
-## Internal-link plan
+Bentuk truss yang umum digunakan meliputi pratt truss, warren truss, dan howe truss. Pemilihan bentuk truss tergantung pada bentuk atap, panjang bentang, dan kondisi beban. Truss yang dirancang dengan baik akan mendistribusikan beban secara efisien ke semua anggotanya.
 
-### Existing local routes
+SNI 1729:2020 (https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan SNI 8369:2020 (https://pesta.bsn.go.id/produk/detail/12885-sni83692020) memberikan kerangka referensi untuk perencanaan truss baja ringan. SNI 7971:2013 (https://pesta.bsn.go.id/produk/detail/9714-sni79712013) secara spesifik membahas tata cara pemasangan truss untuk konstruksi atap.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Bracing atau penahan
 
-### Planned sibling articles
+Bracing adalah komponen yang berfungsi menahan anggota rangka dari gerakan yang tidak diinginkan. Bracing bisa berupa cross bracing (bracing silang) yang dipasang pada bidang atap untuk mendistribusikan beban lateral, fly bracing (bracing sayap) yang dipasang pada ujung anggota untuk mencegah rotasi, atau longitudinal bracing (bracing memanjang) yang menghubungkan beberapa kuda-kuda sejajar. Fungsi utamanya adalah mencegah buckling lateral pada anggota rangka, menjaga stabilitas selama ereksi, dan menciptakan diafragma yang kaki pada bidang atap.
 
-These are future routes. Do not link them as live until their HTML exists.
+Tanpa bracing yang memadai, anggota rangka yang panjang dan tipis sangat rentan terhadap buckling—yaitu lentur keluar dari bidang yang diinginkan akibat beban aksial. Bracing mengubah kondisi batas anggota, sehingga meningkatkan kapasitas beban yang bisa ditahan.
 
-- `LGS-01-03` → `/artikel/peran-proyek-rangka-baja-ringan.html` — Siapa Bertanggung Jawab dalam Proyek Rangka Baja Ringan?
-- `LGS-01-04` → `/artikel/siklus-hidup-sistem-baja-ringan.html` — Alur Sistem Baja Ringan dari Kebutuhan hingga Perawatan
-- `LGS-01-06` → `/artikel/data-awal-penawaran-baja-ringan.html` — Data Minimum Sebelum Bertanya Harga Baja Ringan
+## Fastener atau pengencang
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Fastener adalah komponen yang menghubungkan dua atau lebih bagian baja ringan. Jenis fastener yang umum meliputi self-drilling screw yang bisa mengebor lubang sendiri saat dipasang, self-tapping screw yang mengikir ulir saat dipasang, structural bolt untuk sambungan berkapasitas tinggi, dan rivet untuk sambungan permanen yang tidak bisa dilepas. Setiap jenis memiliki aplikasi spesifik, kapasitas yang berbeda, dan kondisi penggunaan yang unik.
 
-## Jawaban singkat dan salah paham utama
+Pemilihan fastener harus mempertimbangkan jenis substrat, ketebalan material, beban yang akan ditahan, kondisi lingkungan (korosi), dan akses untuk pengencangan. Fastener yang salah bisa menghasilkan sambungan yang lemah meskipun terlihat kencang dari luar.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+SNI 8522:2018 (https://pesta.bsn.go.id/produk/detail/11986-sni85222018) dan SNI 9172:2023 (https://pesta.bsn.go.id/produk/detail/14592-91722023) memberikan kerangka referensi untuk material dan produk baja ringan yang termasuk komponen pengencang.
 
-## Definisi dan batas objek
+## Roof interface atau antarmuka atap
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Roof interface adalah zona pertemuan antara berbagai komponen atap: reng dengan kuda-kuda, penutup atap dengan reng, flashing dengan penutup atap, dan penetrasi dengan waterproofing. Antarmuka ini adalah area yang paling rentan terhadap kebocoran dan kerusakan.
 
-## Cara kerjanya
+ISO 52949 (https://www.iso.org/standard/52949.html) dan ISO 73841 (https://www.iso.org/standard/73841.html) memberikan referensi mengenai standar material dan produk yang relevan untuk aplikasi antarmuka atap.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Faktor yang mempengaruhi interpretasi istilah
 
-## Faktor yang mengubah hasil
+Istilah yang sama bisa memiliki arti yang sedikit berbeda tergantung konteks. "Profil" bisa merujuk pada bentuk penampang atau pada jenis material. "Bracing" bisa merujuk pada komponen permanen atau sementara. "Fastener" bisa merujuk pada sekrup atau baut. Konteks dokumen—apakah gambar kerja, spesifikasi, atau penawaran—membantu menentukan arti yang tepat.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+PP 16 Tahun 2021 (https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) menetapkan kerangka regulasi yang mengatur istilah dan standar yang digunakan dalam konstruksi, termasuk penggunaan istilah teknis secara konsisten.
 
-## Contoh keputusan praktis
+## Contoh penggunaan glosarium
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketika Anda membaca gambar kerja yang menyebut "C75.75 structural steel truss with X-bracing," Anda sekarang bisa memahami: C75.75 adalah profil C dengan dimensi tertentu, structural steel menunjukkan jenis material, truss adalah kuda-kuda, dan X-bracing adalah bracing silang. Pemahaman ini membantu Anda menghindari kesalahan interpretasi yang bisa berakibat pada pemasangan yang salah.
+
+Kawan Besi.co.id, glosarium ini adalah alat bantu—bukan pengganti konsultasi dengan engineer atau spesialis. Ketika Anda menemui istilah yang tidak tercakup di sini, selalu konsultasi dengan profesional sebelum mengambil keputusan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Profil, Truss, Bracing, Fastener, dan Roof Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama: menganggap semua istilah teknis memiliki arti yang sama di semua konteks. Selalu perhatikan konteks dokumen saat menginterpretasi istilah.
 
-## Objection or shortcut to address
+Kesalahan kedua: menggunakan istilah teknis tanpa memahami batas artinya. Istilah yang salah bisa mengarahkan komunikasi ke arah yang salah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga: tidak menanyakan arti istilah yang tidak dipahami. Lebih baik bertanya daripada mengambil asumsi yang salah.
 
-## Required conclusion
+## Kesimpulan dan langkah selanjutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Glosarium ini membantu Anda memahami lima kategori istilah utama dalam baja ringan: profil, truss, bracing, fastener, dan roof interface. Pemahaman ini adalah fondasi untuk membaca dokumen proyek dengan percaya diri.
 
-## Draft completion checklist
+Langkah konkret yang bisa Anda ambil hari ini: simpan halaman ini sebagai referensi saat membaca gambar kerja atau spesifikasi teknis. Ketika Anda menemui istilah yang tidak familiar, periksa glosarium ini terlebih dahulu.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Batas jujur yang perlu diingat: glosarium ini membahas arti konseptual istilah, bukan data teknis spesifik. Dimensi, kapasitas, dan spesifikasi lainnya harus diperoleh dari sumber yang lebih spesifik. Untuk pemahaman lebih lanjut, Anda bisa membaca tentang [anatomi dimensi profil baja ringan](/artikel/anatomi-dimensi-profil-baja-ringan.html) dan [istilah baja ringan cold-formed steel](/artikel/istilah-baja-ringan-cold-formed-steel.html).

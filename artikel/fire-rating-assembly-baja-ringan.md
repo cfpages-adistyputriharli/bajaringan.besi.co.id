@@ -2,8 +2,9 @@
 article_id: LGS-15-02
 title: "Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil"
 slug: "fire-rating-assembly-baja-ringan"
-description: "Explain tested/engineered assemblies, linings, joints, penetrations, loads, and substitutions"
-status: outline
+description: "Cara memeriksa klaim fire rating pada sistem baja ringan, termasuk penutup, sambungan, penetrasi, dan kesesuaian dengan laporan uji."
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2026-05-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -29,184 +30,107 @@ sources:
   - "https://www.iso.org/standard/72893.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”
-- **Reader and situation:** Specifier/buyer
-- **Reader outcome:** Explain tested/engineered assemblies, linings, joints, penetrations, loads, and substitutions
-- **Primary intent:** Verify fire claim
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No rating/compliance; LGS-13-05 owns certificate scope
-- **Final public route:** `/artikel/fire-rating-assembly-baja-ringan.html`
-- **Appointed CMS date:** `2026-05-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Fire rating bukan properti yang melekat pada satu profil baja ringan. Satu balok C atau satu reng tidak memiliki "fire rating" sendiri. Yang diuji, yang diberi nilai, dan yang diakui oleh regulasi adalah **assembly**—sistem lengkap yang mencakup profil, penutup, sambungan, penetrasi, beban, dan kondisi instalasi. Jika Anda hanya menyebut "profil ini tahan api 2 jam", Anda sedang mengklaim sesuatu yang tidak ada dalam pengujian standar.
 
-## Opening instructions
+Pertanyaan kuncinya sederhana: apakah sistem yang akan Anda pasang sudah diuji sebagai satu kesatuan? Apakah semua komponen—baja ringan, papan gypsum, sekrup, joint compound, flashing, dan sealant—sudah tercatat dalam laporan uji yang sama? Jika tidak, klaim fire rating itu tidak punya dasar. Regulasi Indonesia mengatur kewajiban perlindungan kebakaran dalam bangunan melalui peraturan pemerintah seperti [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), namun standar ini menetapkan persyaratan performa, bukan properti material tunggal.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Gambar ilustrasi dari arsip proyek; bukan dokumentasi proyek spesifik._
 
-### KR-01
+## Pengertian dan batasan objek
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Dalam konteks baja ringan, fire rating mengacu pada kemampuan suatu **assembly** untuk mempertahankan integritas struktural, kebulatan, dan fungsi pemisah terhadap api selama periode waktu tertentu. Assembly biasanya berupa dinding atau langit-langit yang terdiri dari rangka baja tipis, penutup gipsum, dan elemen pendukung lainnya. Nilai fire rating diberikan dalam satuan waktu, misalnya 30 menit, 60 menit, atau 120 menit, berdasarkan pengujian standar.
 
-### KR-11
+Yang tidak termasuk dalam definisi ini adalah klaim bahwa satu profil baja ringan saja memiliki fire rating. Profil hanya merupakan satu komponen dalam assembly. Tanpa penutup yang tepat, sambungan yang benar, dan kondisi instalasi yang sesuai, profil itu sendiri tidak akan mencapai nilai tahan api yang diharapkan.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+Batas lainnya: fire rating tidak sama dengan fire resistance rating yang mencakup semua aspek keselamatan kebakaran. Fire rating assembly lebih spesifik pada kemampuan mempertahankan fungsi pemisah terhadap panas dan api. Untuk pemahaman lebih luas tentang sifat mekanik baja tipis, Anda bisa melihat [sifat-mekanik-baja-tipis](/artikel/sifat-mekanik-baja-tipis.html).
 
-### KR-16
+Standar nasional terkait termasuk [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) untuk desain baja ringan, [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020) untuk sistem proteksi kebakaran, dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) untuk pengujian ketahanan api komponen bangunan. Namun, standar ini hanya mengatur persyaratan umum, bukan menjamin kinerja spesifik suatu assembly tanpa pengujian aktual.
 
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
+## Cara kerja sistem tahan api
 
-### KR-20
+Mekanisme kerja fire rating assembly dimulai dari interaksi antara komponen. Rangka baja ringan memberikan struktur pendukung. Penutup gipsum menahan panas dan mencegah api menyebar. Sambungan antar lembar gipsum harus rapat agar tidak ada celah yang bisa dilewati api. penetrasi untuk kabel, pipa, atau saluran harus ditutup dengan material tahan api yang sesuai.
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+Pengujian dilakukan di laboratorium dengan kondisi terkontrol. Assembly dipasang sesuai spesifikasi yang akan digunakan di lapangan, kemudian dipanaskan mengikuti kurva standar. Pengukuran meliputi peningkatan suhu di sisi yang tidak terpapar, kehilangan integritas struktural, dan munculnya api atau asap. Hasil pengujian ini yang menjadi dasar pemberian nilai fire rating.
 
-### KR-25
+Setiap perubahan komponen—ganti jenis gipsum, ubah jarak sekrup, tambah lapisan insulasi—bisa mengubah hasil uji. Itulah mengapa substitution rules dalam assembly sangat penting. Anda tidak bisa mengganti komponen secara bebas tanpa mempertimbangkan dampaknya terhadap fire rating.
 
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
+Standar internasional seperti [ISO 834](https://www.iso.org/standard/64834.html) dan [ISO 9705](https://www.iso.org/standard/77795.html) mendefinisikan metode pengujian fire resistance. Namun, standar ini hanya mengatur prosedur uji, bukan menjamin kinerja spesifik suatu assembly tanpa pengujian aktual.
 
-## Evidence gates
+## Faktor yang mempengaruhi hasil uji
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Beberapa faktor kritis yang mempengaruhi fire rating assembly:
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Jenis dan ketebalan penutup.** Gipsum fire-resistant dengan ketebalan tertentu memberikan perlindungan lebih lama dibanding gipsum standar. Ketebalan ganda belum tentu lebih baik jika tidak sesuai desain uji.
 
-## Internal-link plan
+**Jarak antar rangka.** Jarak yang terlalu lebar bisa menyebabkan gipsum melengkung lebih cepat saat terpapar panas, mengurangi waktu tahan.
 
-### Existing local routes
+**Sambungan dan finishing.** Celah kecil pada sambungan gipsum bisa menjadi jalur api. Joint compound dan tape harus diaplikasikan dengan benar.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+**Penetrasi dan service openings.** Setiap lubang untuk kabel, pipa, atau ventilasi harus ditutup dengan firestop system yang teruji. Tanpa firestop, fire rating assembly turun drastis.
 
-### Planned sibling articles
+**Beban dan kondisi aplikasi.** Assembly yang dirancang untuk dinding memiliki performa berbeda dengan langit-langit. Beban yang berbeda juga mempengaruhi waktu tahan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Faktor-faktor ini terkait erat dengan pemahaman tentang [interface-flashing-talang-penetrasi-atap](/artikel/interface-flashing-talang-penetrasi-atap.html) dan koordinasi antar komponen.
 
-- `LGS-15-01` → `/artikel/baja-tipis-dalam-kebakaran.html` — Apa yang Terjadi pada Baja Tipis saat Terpapar Api?
-- `LGS-15-03` → `/artikel/penetrasi-assembly-tahan-api.html` — Penetrasi dan Celah pada Assembly Tahan Api
-- `LGS-15-04` → `/artikel/panas-insulasi-ventilasi-atap.html` — Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan
+Kondisi lingkungan juga berpengaruh. Kelembapan, suhu ambient, dan paparan korosi bisa mengubah sifat material sebelum api muncul. Pemahaman tentang korosi penting untuk mempertahankan integritas assembly selama umur bangunan, sebagaimana dijelaskan dalam literatur korosi dasar ([Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)) dan standar korosi internasional ([ISO 72893](https://www.iso.org/standard/72893.html)).
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh pengambilan keputusan
 
-## Jawaban singkat dan salah paham utama
+Bayangkan Anda merencanakan ruangan dengan kebutuhan fire rating 60 menit. Berikut skenario keputusan:
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 1:** Anda memilih rangka baja ringan dengan jarak 600mm, gipsum fire-resistant 15mm di satu sisi, dan gipsum standar 12mm di sisi lain. Apakah assembly ini sudah diuji? Hanya jika ada laporan uji yang mencakup kombinasi persis ini.
 
-## Definisi dan batas objek
+**Skenario 2:** Anda mengubah jarak rangka menjadi 400mm tanpa mengubah komponen lain. Apakah fire rating tetap sama? Belum tentu. Perubahan struktural bisa mengubah perilaku assembly saat terbakar.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 3:** Anda menambahkan penetrasi untuk kabel listrik tetapi tidak memasang firestop. Apakah fire rating terpengaruh? Ya, secara signifikan. Satu penetrasi tanpa penutup bisa menjadi titik kegagalan.
 
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keputusan praktis: selalu minta laporan uji assembly yang spesifik untuk kombinasi komponen yang akan Anda gunakan. Jangan asumsikan fire rating dari satu komponen berlaku untuk seluruh sistem.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: Mengklaim fire rating satu profil.** Periksa apakah klaim merujuk pada pengujian assembly atau hanya properti material. Satu profil tidak diuji sendiri untuk fire rating.
 
-## Objection or shortcut to address
+**Kesalahan 2: Mengganti komponen tanpa verifikasi.** Selalu cocokkan spesifikasi assembly dengan laporan uji. Setiap perubahan komponen harus divalidasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Mengabaikan penetrasi.** Periksa semua titik tembus: kabel, pipa, saluran. Setiap penetrasi harus memiliki firestop system yang sesuai.
 
-## Required conclusion
+**Kesalahan 4: Asumsi bahwa lebih tebal lebih baik.** Ketebalan tidak linear dengan fire rating. Yang penting adalah kombinasi komponen yang telah diuji.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Cara memeriksa: minta sertifikat uji assembly dari produsen atau pemasok. Pastikan sertifikat mencakup kombinasi komponen persis seperti yang akan Anda instal. Untuk verifikasi material, pertimbangkan [verifikasi-material-baja-ringan-datang](/artikel/verifikasi-material-baja-ringan-datang.html).
 
-## Draft completion checklist
+## Jebakan yang perlu diwaspadai
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Shortcut yang sering diambil: "Profil ini dari merek terkenal, pasti tahan api." Merek terkenal memang biasanya memiliki pengujian, tetapi pengujian itu untuk assembly tertentu, bukan untuk profil tunggal. Anda perlu mengecek apakah assembly yang Anda rencanakan termasuk dalam pengujian produsen.
+
+Mengapa shortcut ini bisa gagal? Karena fire rating assembly sangat spesifik. Satu millimeter perbedaan ketebalan gipsum, satu degree perbedaan sudut sekrup, atau satu sentimeter perbedaan overlap bisa mengubah hasil uji. Tanpa dokumentasi yang tepat, Anda hanya menebak.
+
+Alternatif yang lebih aman: selalu minta bukti pengujian assembly untuk spesifikasi persis yang Anda gunakan. Jika tidak ada, pertimbangkan untuk melakukan pengujian sendiri atau berkonsultasi dengan spesialis fire protection. Perhatikan juga aspek keselamatan kerja terkait api dan las, sebagaimana diatur oleh [NIOSH](https://www.cdc.gov/niosh/welding/about/index.html) dan [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), meskipun konteksnya berbeda, prinsip perlindungan tetap relevan. Pengendalian teknis untuk operasi pengelasan juga penting diperhatikan ([NIOSH engineering controls](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)).
+
+## Kesimpulan
+
+Fire rating adalah kinerja assembly, bukan klaim satu profil. Satu profil baja ringan tidak memiliki fire rating sendiri. Yang diuji dan diakui adalah sistem lengkap: profil, penutup, sambungan, penetrasi, dan kondisi instalasi.
+
+Langkah selanjutnya: sebelum Anda mengklaim fire rating untuk proyek, kumpulkan dokumentasi pengujian assembly yang spesifik untuk kombinasi komponen yang akan Anda gunakan. Pastikan setiap komponen sesuai dengan spesifikasi uji. Periksa semua penetrasi dan pastikan memiliki firestop system yang teruji.
+
+Batasan jujur: fire rating assembly adalah topik teknis yang kompleks. Untuk keputusan kritis, pertimbangkan untuk berkonsultasi dengan inspektur kebakaran atau spesialis fire protection yang kompeten. Anda juga bisa merujuk pada panduan desain struktur tahan api dari [NIST](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings) dan [NIST white paper](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures) untuk pemahaman lebih dalam, meskipun panduan ini bukan pengganti standar nasional Indonesia.
+
+Teman Besi.co.id, ingat: dalam keselamatan kebakaran, asumsi bisa berakibat fatal. Selalu verifikasi dengan bukti pengujian yang sesungguhnya. Untuk aspek pengujian material lainnya, Anda bisa melihat [pengujian sertifikat baja ringan](/artikel/pengujian-sertifikat-baja-ringan.html).

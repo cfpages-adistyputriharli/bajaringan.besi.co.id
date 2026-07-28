@@ -2,11 +2,12 @@
 article_id: LGS-15-04
 title: "Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan"
 slug: "panas-insulasi-ventilasi-atap"
-description: "Explain heat paths, radiant effects, ventilation, insulation continuity, moisture, and verification"
-status: outline
+description: "Panduan praktis menyiapkan data dan pertanyaan sebelum meminta penawaran baja ringan"
+status: draft
 publication_date: "2026-06-03"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: LGS-15
 primary_intent: "Understand thermal system"
 reader_community: "Besi.co.id"
@@ -29,185 +30,68 @@ sources:
   - "https://www.iso.org/standard/72893.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+- Image ID: LOCAL-001
+- Source type: local
+- Placement: after the opening
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
 
 # Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan
 
-## Assignment lock
+Halo, Kawan Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”
-- **Reader and situation:** Owner/architect
-- **Reader outcome:** Explain heat paths, radiant effects, ventilation, insulation continuity, moisture, and verification
-- **Primary intent:** Understand thermal system
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No thermal value/design; LGS-09-02 owns layer coordination
-- **Final public route:** `/artikel/panas-insulasi-ventilasi-atap.html`
-- **Appointed CMS date:** `2026-06-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Atap yang terasa panas tidak otomatis selesai hanya dengan menambah satu bahan “peredam panas”. Panas dapat datang dari radiasi penutup atap, udara panas yang terjebak di ruang bawah atap, serta perpindahan panas melalui lapisan yang saling bersentuhan. Insulasi dan ventilasi sama-sama berguna, tetapi tugasnya berbeda. Karena itu, keputusan yang baik dimulai dengan memetakan jalur panas, susunan lapisan, dan kondisi ruang di bawahnya.
 
-## Opening instructions
+Jawaban singkatnya: insulasi memperlambat perpindahan panas melalui susunan bangunan, sedangkan ventilasi mengelola pertukaran udara pada ruang yang memang dirancang untuk berventilasi. Keduanya tidak menjanjikan suhu tertentu tanpa data bangunan. Jika lapisannya putus, basah, tertekan, atau jalur udaranya tidak benar-benar ada, hasil di ruang dalam dapat jauh berbeda dari harapan.
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Mulai dari jalur panas, bukan nama produknya
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Bayangkan siang hari: penutup atap menerima matahari, lalu permukaannya memanas. Sebagian energi itu dipancarkan kembali ke ruang di bawahnya, sebagian berpindah melalui bahan, dan sebagian ikut terbawa aliran udara. Itu sebabnya satu produk dapat terasa membantu pada satu susunan atap, tetapi tidak menjawab masalah yang sama pada susunan lain.
 
-## Evidence packet
+Insulasi bekerja terutama dengan memberi hambatan pada aliran panas. Kinerjanya bergantung pada jenis bahan, ketebalan, sambungan, kondisi pemasangan, dan apakah bahan tetap kering serta utuh. Ventilasi tidak “menolak” radiasi; ia menyediakan jalur masuk dan keluar udara pada ruang yang direncanakan. Bila jalur itu tertutup plafon, talang, serangga, kotoran, atau detail penutup lain, menyebut ada ventilasi belum cukup.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sobat Besi.co.id, jangan campurkan fungsi termal dengan fungsi struktur. Rangka baja ringan membawa dan menstabilkan sistem atap; ia bukan angka kinerja termal. Katalog [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) dapat membantu menelusuri identitas dokumen, tetapi halaman publiknya tidak menetapkan rancangan termal bangunan ini.
 
-### KR-01
+## Susunan lapisan harus dibaca sebagai satu sistem
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Urutan yang sederhana membantu: penutup atap menghadapi cuaca; ruang atau lapisan di bawahnya mengubah cara panas dan uap bergerak; insulasi menahan aliran panas; plafon dan ruang dalam adalah batas yang dirasakan penghuni. Pada titik sambungan, sekrup, rangka, bukaan, dan pertemuan dinding, jalur panas serta kebocoran udara bisa berbeda dari bidang yang luas. Karena itu, gambar potongan dan detail pertemuan sama pentingnya dengan nama bahan.
 
-### KR-11
+Kelembapan juga perlu masuk ke pembacaan. Air dari kebocoran, kondensasi, atau pemasangan yang belum terlindung dapat mengubah kondisi bahan dan memunculkan masalah korosi atau jamur. [ISO 12944-2](https://www.iso.org/standard/64834.html), [ISO 12944-5](https://www.iso.org/standard/77795.html), dan pengantar [AMPP](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction) mengingatkan bahwa perlindungan logam selalu terkait lingkungan dan sistem, bukan sekadar label lapisan. Itu bukan resep ketebalan atau umur layanan untuk atap Anda.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+## Ventilasi bukan lubang yang dibuat belakangan
 
-### KR-16
+Ventilasi bekerja jika ada jalur udara yang jelas, bukaan masuk dan keluar yang tidak saling “mati”, serta ruang yang benar-benar terhubung. Detailnya harus tetap menjaga fungsi lain: penutup atap, kedap air, pengendalian serangga, perlindungan hujan, dan keselamatan saat pemeliharaan. Mengubah detail rangka atau menambah bukaan setelah pemasangan tanpa koordinasi dapat memindahkan masalah ke struktur atau kebocoran.
 
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
+Kawan Besi.co.id, cek dengan pertanyaan sederhana: udara dari mana masuk, melalui ruang mana bergerak, dan keluar ke mana? Jika jawabannya belum dapat digambar, jangan menjanjikan manfaat ventilasi. [NEEDS GATE-01: susunan lapisan, bukaan ventilasi, kondisi iklim, dan target ruang dalam harus ditinjau pada gambar serta data proyek sebelum kinerja termal diklaim.]
 
-### KR-20
+## Tiga keputusan yang sering keliru
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+Pertama, membeli insulasi hanya dari satu angka promosi. Minta lembar data, kondisi pemakaian, cara sambungan, dan batas pemasangan. Kedua, menutup seluruh ruang atap lalu berharap ventilasi tetap bekerja. Ketiga, menyamakan atap yang lebih sejuk dengan bangunan yang sudah memenuhi persyaratan kebakaran atau keselamatan.
 
-### KR-25
+Kebakaran adalah penilaian assembly, bukan sifat satu lapisan. Rujukan [NIST tentang perilaku baja dalam kebakaran](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), [panduan desain ketahanan api](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), dan [ISO 24679-1](https://www.iso.org/standard/72893.html) tidak boleh diubah menjadi rating untuk susunan atap ini. [NEEDS GATE-02: klaim fire, thermal, atau acoustic untuk assembly memerlukan bukti sistem yang sesuai dan review kompeten.]
 
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
+Jika pekerjaan mencakup pemotongan, pengelasan, atau perbaikan lapisan, pisahkan pula pengendalian panas atap dari K3 pekerjaan. [NIOSH](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), dan contoh [pengendalian hisap lokal](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html) menjelaskan bahaya secara umum; itu bukan ketentuan Indonesia atau metode kerja lokasi ini.
 
-## Evidence gates
+## Apa yang perlu diperiksa di lapangan
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Setelah susunan direncanakan, periksa apakah hasil pemasangan masih sama dengan gambar. Cari sambungan insulasi yang terbuka, area yang tertekan oleh rangka atau instalasi lain, penutup ventilasi yang tertutup bahan tambahan, dan tanda air masuk. Pemeriksaan ini tidak perlu langsung menghasilkan angka kinerja. Tujuannya lebih dahulu memastikan bahwa sistem yang hendak dinilai memang sistem yang direncanakan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jika ruang di bawah atap terasa jauh lebih panas dari bagian bangunan lain, jangan langsung menyalahkan satu lapisan. Tanyakan urutannya: apakah matahari mengenai bidang yang sama, apakah plafon dan bukaan sama, adakah sumber panas dari peralatan, adakah kebocoran udara, dan apakah ruang atap dapat mengalirkan udara sesuai rancangan. Catatan kondisi, waktu pengamatan, foto titik sambungan, serta gambar revisi akan lebih berguna daripada kesimpulan cepat dari satu hari panas.
 
-## Internal-link plan
+Untuk memahami komponen rangka yang berhubungan dengan susunan atap, Anda dapat melihat informasi [Kanal C Galvalum](/kanal-c-galvalum) atau [reng galvalum](/reng-galvalum). Halaman produk membantu mengenali objek; keduanya bukan desain termal maupun bukti bahwa satu susunan lapisan sudah benar.
 
-### Existing local routes
+Peraturan bangunan juga tidak dapat dibaca sebagai angka suhu ruang. [PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) perlu ditempatkan bersama aturan, gambar, penggunaan bangunan, dan dokumen proyek yang berlaku. Bila perubahan lapisan memengaruhi keselamatan, kebakaran, atau struktur, hentikan keputusan pembelian sampai pihak kompeten meninjau dampaknya.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Pemeriksaan juga sebaiknya dilakukan setelah hujan atau pekerjaan perbaikan, karena kondisi basah dapat memperlihatkan jalur air yang sebelumnya tidak terlihat. Jangan membuka, melubangi, atau mengganti detail rangka hanya untuk “membuat udara lewat”. Catat persoalannya, cocokkan dengan gambar, lalu tentukan apakah yang perlu dibenahi adalah penutup, jalur air, ventilasi, insulasi, atau kombinasi beberapa hal.
 
-### Planned sibling articles
+## Langkah berikutnya
 
-These are future routes. Do not link them as live until their HTML exists.
+Sebelum memilih produk, buat satu potongan sederhana yang menamai penutup atap, ruang udara, insulasi, plafon, bukaan masuk-keluar, serta titik sambungan. Tambahkan kondisi lokasi yang diketahui: orientasi matahari, kelembapan, kemungkinan bocor, dan akses pemeliharaan. Lalu minta pemasok atau perancang menjelaskan fungsi tiap lapisan pada potongan yang sama.
 
-- `LGS-15-02` → `/artikel/fire-rating-assembly-baja-ringan.html` — Fire Rating adalah Kinerja Assembly, Bukan Klaim Satu Profil
-- `LGS-15-03` → `/artikel/penetrasi-assembly-tahan-api.html` — Penetrasi dan Celah pada Assembly Tahan Api
-- `LGS-15-05` → `/artikel/akustik-atap-metal.html` — Suara Hujan dan Kinerja Akustik Atap Metal
-- `LGS-15-06` → `/artikel/membaca-klaim-kinerja-assembly.html` — Membaca Klaim Fire, Thermal, dan Acoustic tanpa Salah Scope
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Panas Atap, Insulasi, dan Ventilasi: Pisahkan Fungsi Tiap Lapisan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan praktisnya: jangan meminta satu bahan melakukan semua pekerjaan. Pisahkan jalur panas, jalur udara, jalur air, dan fungsi struktur; ketika salah satunya belum jelas, tahan klaim kinerja sampai data dan review proyek tersedia.

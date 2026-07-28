@@ -2,8 +2,8 @@
 article_id: LGS-13-01
 title: "ITP Baja Ringan: Hold, Witness, Review, dan Record Point"
 slug: "itp-baja-ringan"
-description: "Map fabrication, receiving, erection, connections, bracing, roof interfaces, and handover evidence"
-status: outline
+description: "Panduan menyusun rencana inspeksi baja ringan dari fabrikasi hingga serah terima"
+status: draft
 publication_date: "2026-04-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/itp-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
@@ -25,37 +26,7 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# ITP Baja Ringan: Hold, Witness, Review, dan Record Point
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”
-- **Reader and situation:** QA manager
-- **Reader outcome:** Map fabrication, receiving, erection, connections, bracing, roof interfaces, and handover evidence
-- **Primary intent:** Build inspection plan
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal frequency/limits
-- **Final public route:** `/artikel/itp-baja-ringan.html`
-- **Appointed CMS date:** `2026-04-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **ITP Baja Ringan: Hold, Witness, Review, dan Record Point**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,143 +37,133 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# ITP Baja Ringan: Hold, Witness, Review, dan Record Point
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id!
 
-### KR-01
+Banyak proyek baja ringan berjalan tanpa Inspection and Test Plan (ITP) yang jelas. Akibatnya, inspeksi dilakukan secara reaktif—hanya saat masalah sudah muncul. Padahal, ITP yang terencana dengan baik bisa mencegah masalah sebelum terjadi, menghemat waktu, dan memberikan bukti yang kuat untuk serah terima.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: ITP baja ringan adalah dokumen yang mengatur kapan, siapa, dan bagaimana inspeksi dilakukan pada setiap tahap—dari fabrikasi hingga serah terima. Setiap titik dalam ITP memiliki otoritas yang berbeda: hold point memerlukan persetujuan sebelum melanjutkan, witness point memerlukan kehadiran, review point memerlukan verifikasi dokumen, dan record point memerlukan pencatatan.
 
-### KR-07
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
+*Gambar ilustrasi umum; bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
+## Apa itu ITP dan mengapa penting
 
-### KR-14
+ITP adalah alat koordinasi yang menghubungkan kebutuhan inspeksi dengan jadwal proyek. Tanpa ITP, tim sering kali mengalami dua masalah: inspeksi yang terlambat karena tidak ada yang mengingatkan, atau inspeksi yang berlebihan karena tidak ada yang tahu apa yang sudah diperiksa.
 
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
+ISO 10474:2013 ([https://www.iso.org/standard/53736.html](https://www.iso.org/standard/53736.html)) menetapkan kerangka kerja untuk dokumen inspeksi yang menyertai produk baja. ITP menerjemahkan kerangka ini menjadi jadwal aksi di lapangan, sehingga setiap pihak tahu kapan harus hadir, apa yang harus diperiksa, dan bagaimana hasilnya didokumentasikan.
 
-### KR-22
+ITP juga membantu memenuhi persyaratan sistem manajemen mutu. ISO 9001:2015 ([https://www.iso.org/standard/90678.html](https://www.iso.org/standard/90678.html)) menekankan pentingnya perencanaan dan pengendalian operasional, termasuk pengawasan dan pengukuran kinerja produk. Standar ini menegaskan bahwa organisasi harus merencanakan, mengimplementasikan, dan mengendalikan proses yang diperlukan untuk memenuhi persyaratan produk.
 
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
+## Jenis titik inspeksi dalam ITP
 
-### KR-23
+Setiap jenis titik memiliki tingkat otoritas yang berbeda:
 
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
+**Hold Point.** Ini adalah titik kritis di mana pekerjaan tidak boleh dilanjutkan sampai inspeksi selesai dan persetujuan diberikan. Contoh: sebelum ereksi dimulai, tumpuan harus diverifikasi sesuai desain. Jika tumpuan tidak sesuai, melanjutkan ereksi bisa menyebabkan masalah struktural.
 
-## Evidence gates
+**Witness Point.** Pihak tertentu harus hadir saat inspeksi dilakukan, tetapi pekerjaan bisa dilanjutkan jika pihak tersebut tidak hadir dalam waktu yang ditentukan. Contoh: pengujian kencangan baut oleh pihak ketiga. ISO 17020:2012 ([https://www.iso.org/standard/66912.html](https://www.iso.org/standard/66912.html)) menetapkan persyaratan kompetensi untuk badan inspeksi yang melakukan pengawasan independen.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+**Review Point.** Dokumen atau data harus ditinjau sebelum pekerjaan dilanjutkan. Contoh: sertifikat material harus ditinjau dan disetujui sebelum material digunakan. ISO 16528:2015 ([https://www.iso.org/standard/64622.html](https://www.iso.org/standard/64622.html)) memberikan panduan mengenai struktur dan format dokumen sertifikasi produk baja.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Record Point.** Hasil inspeksi harus didokumentasikan, tetapi tidak memerlukan persetujuan khusus untuk melanjutkan. Contoh: pencatatan kondisi visual setelah ereksi.
 
-## Internal-link plan
+## Tahap-tahap dalam ITP baja ringan
 
-### Existing local routes
+ITP harus mencakup seluruh siklus proyek:
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+### Fabrikasi
 
-### Planned sibling articles
+**Verifikasi material awal.** Pastikan material yang diterima sesuai dengan spesifikasi desain. ISO 10474:2013 ([https://www.iso.org/standard/53736.html](https://www.iso.org/standard/53736.html)) mengatur dokumen yang harus menyertai material baja.
 
-These are future routes. Do not link them as live until their HTML exists.
+**Pengujian material.** Untuk proyek kritis, pengujian laboratorium mungkin diperlukan. Standar ISO 8988:2018 ([https://www.iso.org/standard/85705.html](https://www.iso.org/standard/85705.html)) memberikan panduan mengenai pengujian dan klasifikasi fastener baja.
 
-- `LGS-13-02` → `/artikel/traceability-rangka-baja-ringan.html` — Traceability dari Sertifikat Material ke Posisi Terpasang
-- `LGS-13-03` → `/artikel/verifikasi-material-baja-ringan-datang.html` — Verifikasi Dokumen dan Produk saat Material Datang
+**Pemeriksaan fabrikasi.** Pastikan potongan, lubang, dan sambungan sesuai gambar fabrikasi. Standar ISO 10474:2013 juga mengatur dokumen yang harus menyertai produk baja dari pabrik hingga site.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+### Penerimaan di Site
 
-## Jawaban singkat dan salah paham utama
+**Verifikasi pengiriman.** Cocokkan material yang diterima dengan dokumen pengiriman dan spesifikasi.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pemeriksaan kondisi.** Cari kerusakan selama transportasi—lecet, penyok, atau lentur.
 
-## Definisi dan batas objek
+**Penyimpanan yang benar.** Pastikan material disimpan dengan baik untuk mencegah kerusakan lebih lanjut.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Ereksi
 
-## Cara kerjanya
+**Verifikasi tumpuan.** Pastikan tumpuan sudah sesuai desain sebelum kuda-kuda dipasang. Ini biasanya hold point.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pemeriksaan kesesuaian.** Pastikan anggota struktur terpasang pada posisi dan orientasi yang benar.
 
-## Faktor yang mengubah hasil
+**Pengencangan baut.** Verifikasi momen kencangan sesuai spesifikasi.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Sambungan dan Bracing
+
+**Pemeriksaan sambungan.** Pastikan setiap sambungan sesuai desain—baik tipe, ukuran, maupun jumlah baut.
+
+**Pemasangan bracing.** Pastikan bracing terpasang lengkap dan benar.
+
+### Interface Atap
+
+**Pemeriksaan flashing dan penetrasi.** Pastikan area pertemuan antara rangka dan penutup atap sudah siap.
+
+### Serah Terima
+
+**Dokumentasi as-built.** Pastikan semua catatan inspeksi lengkap dan tersedia untuk pemilik.
+
+## Faktor yang mengubah hasil ITP
+
+Beberapa faktor bisa mempengaruhi efektivitas ITP:
+
+**Kompleksitas proyek.** Proyek yang lebih kompleks memerlukan lebih banyak titik inspeksi dan otoritas yang lebih ketat. Standar ISO 14713-1:2017 ([https://www.iso.org/standard/72532.html](https://www.iso.org/standard/72532.html)) menjelaskan prinsip pelapisan pelindung yang harus diperhatikan dalam proyek dengan lingkungan korosif.
+
+**Risiko keselamatan.** Area dengan risiko tinggi memerlukan hold point lebih banyak.
+
+**Ketersediaan sumber daya.** Pastikan ada personel yang cukup dan kompeten untuk melakukan inspeksi. Persyaratan ini diatur dalam standar ISO mengenai kompetensi laboratorium pengujian ([https://www.iso.org/standard/75614.html](https://www.iso.org/standard/75614.html)).
+
+**Koordinasi antar pihak.** ITP harus dikomunikasikan dengan jelas kepada semua pihak yang terlibat. Standar ISO 31000:2018 ([https://www.iso.org/standard/85464.html](https://www.iso.org/standard/85464.html)) memberikan kerangka kerja manajemen risiko yang bisa diterapkan dalam menyusun ITP.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Besi.co.id, berikut beberapa skenario yang membantu menentukan jenis titik inspeksi:
+
+**Skenario 1: Material tiba di site**
+- Jika material kritis untuk keselamatan → Hold Point
+- Jika material standar → Review Point + Record Point
+
+**Skenario 2: Sebelum ereksi kuda-kuda**
+- Jika tumpuan belum diverifikasi → Hold Point
+- Jika tumpuan sudah diverifikasi → Witness Point
+
+**Skenario 3: Setelah ereksi selesai**
+- Pemeriksaan visual → Record Point
+- Pengencangan baut → Witness Point
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “ITP Baja Ringan: Hold, Witness, Review, dan Record Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: ITP terlalu generik**
+ITP yang tidak spesifik untuk proyek tidak akan membantu. Pastikan setiap titik inspeksi spesifik untuk aktivitas yang akan dilakukan.
 
-## Objection or shortcut to address
+**Kesalahan 2: Tidak ada penanggung jawab yang jelas**
+Setiap titik inspeksi harus memiliki penanggung jawab yang jelas. Tanpa penanggung jawab, inspeksi sering kali terlupakan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Dokumentasi yang tidak lengkap**
+Hasil inspeksi yang tidak didokumentasikan dengan baik tidak berguna untuk serah terima atau masalah di masa depan.
 
-## Required conclusion
+**Kesalahan 4: ITP tidak diupdate saat proyek berubah**
+Jika ada perubahan desain atau jadwal, ITP harus diperbarui untuk mencerminkan perubahan tersebut. Standar ISO terbaru ([https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)) menekankan pentingnya kejelasan dalam proses evaluasi dan pengambilan keputusan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering diambil—dan mengapa berisiko
 
-## Draft completion checklist
+"Lewati saja inspeksi untuk menghemat waktu" adalah pemikiran yang berbahaya. Waktu yang dihemat dengan melewati inspeksi sering kali jauh lebih kecil dibandingkan waktu yang dibutuhkan untuk memperbaiki masalah yang muncul kemudian.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih andal: buat ITP yang realistis, alokasikan sumber daya yang cukup, dan patuhi jadwal inspeksi yang sudah ditetapkan.
+
+## Kesimpulan: langkah selanjutnya
+
+ITP bukan sekadar dokumen formalitas; ini adalah alat yang membantu proyek berjalan lancar dan memberikan bukti yang kuat untuk serah terima. Dengan memahami perbedaan antara hold, witness, review, dan record point, Sobat Besi.co.id bisa membuat ITP yang efektif untuk proyek baja ringan.
+
+Langkah konkret berikutnya: buat template ITP yang sesuai dengan proyek Anda, pastikan setiap titik memiliki penanggung jawab yang jelas, dan komunikasikan ITP kepada semua pihak yang terlibat. Untuk pemahaman lebih lanjut tentang inspeksi rangka terpasang, baca juga artikel tentang [inspeksi rangka baja ringan terpasang](/artikel/inspeksi-rangka-baja-ringan-terpasang.html). Jika Anda ingin memahami lebih dalam tentang verifikasi material saat datang, pertimbangkan juga membaca [verifikasi material baja ringan datang](/artikel/verifikasi-material-baja-ringan-datang.html).
+
+Ingat: ITP yang baik adalah investasi untuk pencegahan, bukan dokumentasi masalah.

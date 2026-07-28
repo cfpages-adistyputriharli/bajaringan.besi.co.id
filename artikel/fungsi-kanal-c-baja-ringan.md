@@ -2,8 +2,9 @@
 article_id: LGS-04-02
 title: "Kanal C: Anatomi Profil dan Perannya dalam Rangka"
 slug: "fungsi-kanal-c-baja-ringan"
-description: "Explain profile anatomy, possible system roles, interfaces, and required data"
-status: outline
+description: "Kenali bentuk kanal C, perannya dalam rangka, dan data yang perlu diperiksa sebelum memilih atau memasangnya."
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2025-08-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,82 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/fungsi-kanal-c-baja-ringan.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.aisc.org/aisc/solutions-center/hss/"
   - "https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf"
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kanal C: Anatomi Profil dan Perannya dalam Rangka
 
-## Assignment lock
+Halo, Teman Besi.co.id! Kanal C bukan jawaban otomatis untuk setiap bagian rangka. Ia adalah sebutan bentuk profil yang lazim dipakai pada pekerjaan baja ringan, sedangkan peran akhirnya baru jelas setelah gambar, arah gaya, sambungan, dan data produknya dibaca bersama. Kesalahan yang mahal biasanya dimulai ketika orang melihat bentuknya mirip, lalu menganggap semua kanal C dapat saling menggantikan.
 
-- **Writer task:** Expand this file into one complete article answering: “Kanal C: Anatomi Profil dan Perannya dalam Rangka”
-- **Reader and situation:** Buyer/design coordinator
-- **Reader outcome:** Explain profile anatomy, possible system roles, interfaces, and required data
-- **Primary intent:** Understand kanal C
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** `/kanal-c-galvalum/` owns quotation; no member sizing
-- **Final public route:** `/artikel/fungsi-kanal-c-baja-ringan.html`
-- **Appointed CMS date:** `2025-08-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, kanal C dapat menjadi anggota rangka yang menerima dan meneruskan gaya melalui susunan sistem. Namun nama “C” sendiri belum memberi tahu ukuran, ketebalan, mutu bahan, lapisan, toleransi, atau kemampuan batang. Karena itu, pilihannya dapat berubah bila bentang, tumpuan, beban, sambungan, lingkungan, atau dokumen proyek berubah.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kanal C: Anatomi Profil dan Perannya dalam Rangka**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Gambar ini merupakan aset lokal proyek dan bukan dokumentasi proyek tertentu.*
 
+## Bentuk C membantu mengenali bagian, bukan menetapkan kapasitas
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Jika dilihat dari ujung batang, kanal C memiliki badan memanjang dan dua sisi yang membentuk bukaan seperti huruf C. Dalam percakapan lapangan, bagian tengah sering disebut badan atau web, sedangkan sisi yang menonjol disebut sayap. Ada pula lip kecil pada tepi beberapa profil. Nama bagian ini berguna agar penjual, perakit, dan pengawas menunjuk objek yang sama saat membahas potongan, lubang, atau arah pemasangan.
+
+Tetapi bentuk tidak boleh diperlakukan sebagai sertifikat mutu. Penamaan produk struktural yang rapi perlu diuraikan menjadi geometri, dimensi, tebal, massa, bahan atau standar produk, dan sertifikatnya; kesamaan ukuran luar pun tidak membuktikan mutu maupun kesetaraan penggunaan. Prinsip penguraian nama profil tersebut dapat dipakai sebagai kebiasaan memeriksa barang, tanpa menjadikan tata nama luar negeri sebagai aturan proyek di Indonesia. [Panduan penamaan produk struktural AISC](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf) juga menunjukkan mengapa label penampang saja tidak cukup sebagai data desain.
+
+Jadi, ketika menerima keterangan “kanal C”, mintalah keterangan lanjut sebelum membuat keputusan. Catat tinggi badan, lebar sayap, bentuk bibir bila ada, ketebalan yang dinyatakan, panjang batang, identitas produk, serta dokumen yang menyertai pembelian. Catatan itu bukan perhitungan kekuatan; fungsinya mencegah barang yang dibicarakan berubah-ubah hanya karena istilah dagang yang sama.
+
+Sobat Besi.co.id, pembatas ini penting terutama saat ada tawaran “ukuran sama”. Dua batang dapat tampak sama dari kejauhan, tetapi data yang diperlukan untuk menyatakan keduanya setara belum tentu sama. Jangan pindah ke tahap pemasangan sebelum pihak yang bertanggung jawab atas desain menyetujui perubahan produk dan sambungannya.
+
+## Peran kanal C selalu bergantung pada jalur gaya
+
+Rangka bekerja sebagai rangkaian: penutup atau elemen di atas memberi pengaruh, batang meneruskannya, sambungan memindahkannya, lalu tumpuan membawanya ke bagian bangunan lain. Kanal C dapat muncul pada salah satu bagian rantai itu, tetapi tidak berarti satu batang bekerja sendirian. Arah penempatan, pasangan batang, pengaku, dan detail sambungan ikut menentukan bagaimana bentuk C berperan dalam susunan tersebut.
+
+Bayangkan sebuah batang dipasang dengan bukaan profil menghadap satu arah. Bila batang kemudian diputar, dipotong, dilubangi, atau dipasangkan dengan batang lain, cara ia berinteraksi dengan sambungan dan pengaku ikut berubah. Ini bukan alasan untuk menebak mana orientasi terbaik. Ini alasan untuk membaca gambar yang berlaku dan menanyakan detail bila kondisi lapangan tidak cocok.
+
+Dokumen produk juga tidak menggantikan rancangan struktur. Catatan BSN untuk [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) dapat membantu mengidentifikasi dokumen standar yang terkait dengan desain struktur baja canai dingin, tetapi halaman rekamannya tidak menyediakan dasar untuk memilih ukuran anggota pada proyek tertentu. Kapasitas batang, kestabilan, beban, sambungan, keadaan sementara saat pemasangan, dan perubahan bangunan tetap memerlukan fakta proyek serta peninjauan orang yang kompeten.
+
+Kawan Besi.co.id, pakai pertanyaan sederhana untuk menjaga urutan kerja: “Gaya dari bagian mana masuk ke batang ini, lalu lewat sambungan apa menuju tumpuan?” Jika jawabannya belum terlihat pada gambar atau belum dapat dijelaskan oleh penanggung jawab pekerjaan, jangan isi kekosongan itu dengan asumsi dari katalog.
+
+## Antarmuka yang perlu diperiksa sebelum profil dipasang
+
+Antarmuka berarti titik ketika kanal C bertemu benda lain: batang pasangan, braket, sekrup atau pengikat lain, tumpuan, maupun elemen penutup. Di titik inilah rencana sering berubah menjadi masalah pemasangan. Lubang yang tidak sesuai, permukaan tumpuan tidak rata, atau detail yang tidak tersedia bukan persoalan kecil yang boleh “disiasati” sendiri, karena perubahan tersebut bisa mengubah sambungan yang telah direncanakan.
+
+Mulailah dari gambar dan daftar material yang berlaku. Cocokkan tanda batang, jumlah, panjang, dan lokasi dengan barang yang datang. Sesudah itu, cocokkan detail sambungan: jenis pengikat yang disebut, posisi pengikat, kebutuhan batang pasangan, dan bagian yang harus bertemu tumpuan. Bila ada penggantian merek, profil, atau pengikat, tahan keputusan pemasangan sampai ada persetujuan yang sesuai kewenangan proyek.
+
+Pemeriksaan penerimaan juga berguna untuk memisahkan data dari kesan visual. Bentuk yang rapi tidak membuktikan ketebalan, mutu, atau kesesuaian terhadap pesanan. Sebaliknya, label yang meyakinkan tidak membebaskan tim dari memeriksa jumlah, kerusakan pengangkutan, dan kecocokan detail. Simpan foto label, catatan penerimaan, serta dokumen pemasok pada berkas proyek agar perubahan dapat ditelusuri.
+
+Untuk kebutuhan ketersediaan setempat, pembaca dapat melanjutkan ke informasi [kanal C galvalum di Yogyakarta](/jual-kanal-c-galvalum-yogyakarta). Gunakan halaman itu untuk memulai percakapan produk dan dokumen yang tersedia, bukan sebagai dasar menetapkan ukuran anggota rangka.
+
+## Kondisi yang membuat jawaban berubah
+
+Tidak ada daftar tunggal yang dapat memastikan kanal C cocok hanya dari nama profil. Pertama, kondisi bangunan menentukan tindakan yang bekerja pada rangka; fungsi ruang, bentuk atap, perubahan penutup, serta tambahan peralatan dapat mengubah kebutuhan peninjauan. Kedua, kondisi tumpuan menentukan bagaimana gaya diteruskan. Tumpuan yang tidak sesuai gambar perlu diselesaikan sebagai isu proyek, bukan dipaksa cocok dengan memotong batang.
+
+Ketiga, lingkungan dan pelaksanaan ikut memengaruhi keputusan material serta urutan kerja. Dokumen produk perlu dicocokkan dengan kondisi pemakaian yang direncanakan. Keempat, perubahan di lapangan perlu memiliki jejak keputusan. Saat panjang tidak cocok, lubang tidak searah, atau batang kurang, berhenti sejenak dan kirimkan temuan beserta foto, tanda batang, dan lokasi kepada pihak yang berwenang.
+
+Teman Besi.co.id, kata “bisa dipasang” berbeda dengan “sesuai rancangan”. Yang pertama mungkin hanya menjelaskan bahwa barang dapat dirakit secara fisik. Yang kedua memerlukan kecocokan dokumen, detail, dan persetujuan. Perbedaan ini menjaga tim dari menyelesaikan masalah hari ini dengan risiko yang muncul setelah pekerjaan tertutup.
+
+## Contoh keputusan tanpa menebak ukuran
+
+Misalkan koordinator menerima kanal C dengan label yang menyerupai daftar material, tetapi panjang batangnya berbeda dari gambar. Keputusan yang aman bukan segera menyambung, memotong, atau menukar posisi batang. Koordinator mencatat tanda pada batang, mengukur panjang aktual, memotret label, lalu membandingkannya dengan gambar dan daftar material. Setelah itu ia meminta arahan tertulis dari pihak yang berwenang atas perubahan.
+
+Contoh kedua: pemasang menemukan posisi pengikat pada gambar tidak cocok dengan kondisi tumpuan yang ada. Jangan memindahkan pengikat hanya agar pekerjaan cepat selesai. Laporkan lokasi, selisih, dan kondisi tumpuan. Detail yang direvisi harus datang dari keputusan proyek, karena pengikat adalah bagian dari jalur gaya, bukan aksesori yang bebas dipilih di tempat.
+
+Dalam rapat singkat sebelum kerja, pembagian informasi ini sangat membantu. Koordinator membawa gambar dan daftar material, penerima barang membawa catatan label serta jumlah, sedangkan pemasang menunjukkan titik yang sulit dikerjakan. Dengan begitu, pertanyaan tidak berhenti pada “bisa atau tidak”, melainkan menjadi “apakah detail yang ada memang berlaku untuk kondisi ini”. Bila jawabannya belum ada, pekerjaan pada titik tersebut lebih baik ditahan daripada ditutup oleh pekerjaan berikutnya.
+
+Urutan itu juga membuat catatan perubahan lebih berguna. Tulis tanggal temuan, lokasi, tanda batang, kondisi yang terlihat, dan jawaban yang diterima. Catatan tersebut bukan pengganti persetujuan teknis, tetapi membantu pihak peninjau memahami masalah tanpa mengulang tebakan dari awal. Saat keputusan sudah diberikan, tim dapat memasang sesuai arahan yang dapat ditelusuri.
+
+Simpan pula catatan itu bersama berkas penerimaan material agar pemeriksaan berikutnya memiliki rujukan yang jelas.
+
+Jika kebutuhan Anda adalah menanyakan produk untuk wilayah lain, lihat [kanal C galvalum di Wonosobo](/jual-kanal-c-galvalum-wonosobo) sebagai titik awal komunikasi pemasok. Bawa daftar pertanyaan yang sama: produk apa yang ditawarkan, dokumen apa yang tersedia, dan apakah perubahan terhadap dokumen proyek memerlukan persetujuan.
+
+## Kesalahan yang sering berulang
+
+Kesalahan pertama adalah menyebut semua profil berbentuk C sebagai barang yang sama. Perbaikannya: tulis data barang secara lengkap dan jangan menyamakan penampilan dengan spesifikasi. Kesalahan kedua adalah memakai sertifikat atau halaman produk sebagai pengganti perhitungan dan gambar. Perbaikannya: letakkan dokumen produk sebagai salah satu masukan, lalu minta pemeriksaan desain proyek saat keputusan menyangkut anggota, tumpuan, atau sambungan.
+
+Kesalahan ketiga adalah memperlakukan perubahan lapangan sebagai urusan tukang semata. Padahal perubahan yang menyentuh potongan, lubang, orientasi, atau pengikat dapat menyentuh kerja sistem. Cara memeriksanya sederhana: apakah kondisi aktual masih sama dengan detail yang disetujui? Bila tidak, tandai sebagai perubahan dan minta arahan, jangan membuat pembenaran setelah pemasangan.
+
+Kanal C berguna karena bentuknya dapat menjadi bagian dari rangka, bukan karena huruf C menjamin fungsi tertentu. Langkah berikutnya adalah kumpulkan gambar yang berlaku, daftar material, identitas produk, detail sambungan, dan kondisi tumpuan; lalu minta peninjauan kompeten untuk setiap ketidakcocokan. Pegang aturan kerja ini: jangan menentukan ukuran atau mengganti detail hanya dari nama dan tampilan profil.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -69,149 +99,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-09
-
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-kanal-c-galvalum-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-04-01` → `/artikel/jenis-profil-baja-ringan.html` — Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori
-- `LGS-04-03` → `/artikel/fungsi-reng-baja-ringan.html` — Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak
-- `LGS-04-04` → `/artikel/fungsi-hollow-galvalum.html` — Hollow Galvalum: Kapan Struktural dan Non-Struktural Tidak Boleh Disamakan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kanal C: Anatomi Profil dan Perannya dalam Rangka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kanal C: Anatomi Profil dan Perannya dalam Rangka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kanal C: Anatomi Profil dan Perannya dalam Rangka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kanal C: Anatomi Profil dan Perannya dalam Rangka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kanal C: Anatomi Profil dan Perannya dalam Rangka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kanal C: Anatomi Profil dan Perannya dalam Rangka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

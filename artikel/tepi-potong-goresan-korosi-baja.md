@@ -2,8 +2,9 @@
 article_id: LGS-03-02
 title: "Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?"
 slug: "tepi-potong-goresan-korosi-baja"
-description: "Explain exposed zones, handling damage, inspection, and approved escalation"
-status: outline
+description: "Menjelaskan zona terbuka, kerusakan saat penanganan, pemeriksaan, dan eskalasi yang disetujui untuk tepi potong serta goresan baja ringan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,195 +19,86 @@ sources:
   - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/81435.html"
-  - "https://www.iso.org/standard/71136.html"
   - "https://www.iso.org/standard/79581.html"
   - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
   - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Tepi potong dan goresan bukan otomatis berarti baja ringan harus dibuang, tetapi keduanya membuka pertanyaan penting tentang lapisan, kelembapan, lokasi, dan cara perbaikan. Mengabaikannya dapat membuat kerusakan kecil berulang selama penyimpanan, pengangkutan, atau pemasangan.
 
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”
-- **Reader and situation:** Fabricator/installer
-- **Reader outcome:** Explain exposed zones, handling damage, inspection, and approved escalation
-- **Primary intent:** Prevent damage
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Repair system belongs to LGS-17-04
-- **Final public route:** `/artikel/tepi-potong-goresan-korosi-baja.html`
-- **Appointed CMS date:** `2025-07-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: catat lokasi dan ukuran kerusakan, cegah air atau kotoran terperangkap, lalu minta keputusan perbaikan berdasarkan sistem pelapis dan spesifikasi proyek. ISO 12944 menekankan bahwa perlindungan dimulai dari substrat dan lingkungan; kategori paparan tidak sendirian menentukan cara memperbaiki goresan ([ISO 12944-2](https://www.iso.org/standard/64834.html); [ISO 12944-5](https://www.iso.org/standard/77795.html)).
 
-## Opening instructions
+![Ilustrasi besi baja 1](/wp-content/uploads/2025/04/besi-baja-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2025/04/besi-baja-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-03-01` → `/artikel/jenis-pelapis-baja-ringan.html` — Sistem Pelapis Baja: Zinc, Aluminium-Zinc, dan Bukti Produk
-- `LGS-03-03` → `/artikel/korosi-galvanik-baja-ringan.html` — Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain
-- `LGS-03-04` → `/artikel/paparan-korosi-baja-ringan.html` — Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<p><em>Aset lokal proyek; bukan dokumentasi proyek tertentu.</em></p>
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Amati apakah yang terlihat berupa goresan dangkal, tepi potong, lapisan terkelupas, noda, atau karat yang sudah membentuk produk korosi. Catat koordinat komponen, sisi yang menghadap luar, waktu ditemukan, foto dengan skala, serta apakah material pernah basah. Jangan menulis “korosi karena pesisir” tanpa memeriksa sumber air, kondensasi, garam, atau bahan kimia.
+
+AMPP menjelaskan korosi sebagai interaksi material dan lingkungan. Karena itu, goresan yang sama dapat berperilaku berbeda pada area kering, rongga lembap, dan zona dengan endapan garam ([Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)). [NEEDS GATE-01: identifikasi sistem lapisan, paparan, dan kondisi permukaan sebelum memilih tindakan.]
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batasi pemindahan bila tepi tajam dapat melukai orang, bundel tidak stabil, atau permukaan basah menempel antarlembar. Gunakan jalur angkat dan tumpuan yang telah dinilai, bukan menarik material dari tumpukan. Panduan OSHA tentang penyimpanan bahan adalah rujukan asing, bukan hukum Indonesia, namun menegaskan pentingnya tumpuan stabil, pencegahan bergulir, dan akses yang aman ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
+
+Karantina komponen jika kerusakan menyebar cepat, mengurangi penampang, berada di sambungan penting, atau disertai cairan kimia. Simpan label dan nomor lot tetap terlihat. Petunjuk perawatan LYSAGHT mengingatkan perlunya ventilasi, drainase, dan perlindungan saat penyimpanan; detail situs tetap harus diverifikasi ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tepi potong memutus kontinuitas lapisan dan dapat menahan air bila bentuknya menghadap ke atas atau berada di celah. Goresan membuka area logam dasar dan memperbesar peluang kotoran menempel. Keduanya menjadi lebih penting ketika siklus basah-kering, garam, atau kontak logam berbeda tersedia.
+
+Pada produk galvanis, pastikan rute pelapisnya. ISO 1461 membahas artikel fabrikasi yang dicelup panas, sedangkan lembaran kontinu atau pengikat dapat mengikuti standar lain. ISO 1460 adalah metode massa lapisan, bukan bukti bahwa setiap barang atau perbaikan memenuhi batas penerimaan ([ISO 1461](https://www.iso.org/standard/81435.html); [ISO 1460](https://www.iso.org/standard/79581.html)). [NEEDS GATE-02: cocokkan substrat, rute pelapisan, dan persyaratan produk sebelum menyebut suatu perbaikan sesuai.]
+
+Detail geometri juga berpengaruh. Tumpang tindih, rongga tertutup, dan lubang yang tidak mengalirkan air dapat membuat kerusakan sulit kering. Panduan ventilasi dan drainase AGA membantu menyusun pertanyaan kepada pelapis; ukuran lubang dan dampak strukturnya tetap harus berasal dari gambar serta review yang berwenang ([AGA venting and draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining)).
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari pemeriksaan visual aman dan dokumen: gambar, spesifikasi lapisan, catatan pemotongan, riwayat penyimpanan, serta nomor batch. Tandai setiap temuan pada sketsa atau daftar komponen. Ukur panjang dan lebar goresan secara konsisten; jangan mengikis permukaan hanya untuk “melihat lebih dalam” tanpa metode yang disetujui.
+
+Jika diperlukan pengukuran lapisan atau analisis kontaminan, tentukan titik, metode, jumlah sampel, alat, dan kriteria sebelum mengambil data. Panduan inspeksi AGA dapat menjadi daftar pertanyaan tentang tampilan, pengukuran, dan perbaikan, tetapi nilai penerimaan harus mengikuti standar serta spesifikasi proyek ([AGA inspection guide](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)). [NEEDS GATE-03: tetapkan rencana pemeriksaan dan laboratorium yang kompeten bila keputusan bergantung pada hasil uji.]
+
+Periksa juga waktu terjadinya kerusakan. Goresan yang terlihat setelah pemotongan mungkin berbeda dari kerusakan akibat gesekan saat pengiriman atau pemasangan. Bandingkan foto sebelum dan sesudah setiap perpindahan, catat alat yang digunakan, serta tandai apakah tepi sudah dipotong ulang. Urutan ini membantu memisahkan kesalahan proses dari kondisi yang sudah ada sejak pemasok.
+
+Saat menerima material, cocokkan jumlah komponen rusak dengan catatan bongkar dan pengemasan. Jika ada selisih, jangan menganggapnya sekadar masalah kosmetik; selisih identitas dapat membuat tindak lanjut salah sasaran dan menghilangkan jejak tanggung jawab.
+
+Catatan sederhana ini memudahkan pemasok menelusuri kejadian dan membantu tim menentukan apakah inspeksi tambahan perlu dilakukan sebelum material bergerak lagi.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan kolom “terlihat”, “mungkin menjelaskan”, “dampak”, dan “keputusan”. Goresan pada sisi terlindung tanpa tanda basah adalah observasi; ia belum membuktikan aman. Karat merah pada tepi adalah temuan; tingkat kehilangan material dan kecukupan sistem perbaikan tetap perlu ditentukan.
+
+Jangan mengubah satu foto menjadi klaim umur layanan. ISO 12944 dapat memberi bahasa untuk lingkungan dan sistem pelindung, tetapi kategori pada halaman ringkas tidak memberi ketebalan, persiapan, atau jangka waktu yang cocok untuk kasus Anda. [NEEDS GATE-04: klaim durabilitas atau kelayakan perbaikan memerlukan data produk, lokasi, dan review profesional.]
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara meliputi mengeringkan dengan aman, memisahkan material, melindungi dari gesekan, memperbaiki drainase, dan menandai area karantina. Jangan mengecat, menggerinda, atau menutup goresan sebelum spesifikasi perbaikan disetujui. Perbaikan lapisan, penggantian komponen, dan perubahan detail berada di luar ruang lingkup artikel ini.
 
-## Objection or shortcut to address
+Untuk kebutuhan profil atap, [hub Reng Galvalum](/reng-galvalum) dapat membantu menyampaikan kode produk yang sedang diperiksa; kirim juga foto, lokasi, dan dokumen batch. Jika perlu klarifikasi teknis kepada penyedia, gunakan [halaman kontak](/kontak) dengan daftar pertanyaan yang sama untuk setiap pihak.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dicoba
 
-## Required conclusion
+Jalan pintasnya adalah menutup semua goresan dengan cat apa pun yang tersedia. Cara ini gagal bila permukaan belum bersih, bahan tidak kompatibel, area tetap basah, atau lapisan tambahan tidak disetujui. Tampilan tertutup hanya menyembunyikan gejala dan menyulitkan inspeksi berikutnya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah menahan pekerjaan, dokumentasikan, dan minta sistem perbaikan tertulis dari pihak yang bertanggung jawab. Sobat Besi.co.id, bila penyebab dan batas penerimaan belum jelas, tulis “menunggu review” alih-alih menyatakan perbaikan selesai.
 
-## Draft completion checklist
+## Kesimpulan: kendalikan zona terbuka dan jejak buktinya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Tepi potong dan goresan perlu dikendalikan karena membuka lapisan, menahan air atau kontaminan, dan dapat memperbesar masalah pada lokasi tertentu. Pengendalian berarti observasi yang dapat dilacak, penyimpanan aman, pemeriksaan yang sesuai, dan eskalasi sebelum perbaikan.
+
+Langkah berikutnya, buat daftar kerusakan per komponen, lampirkan foto dan identitas lot, lalu minta persetujuan metode tindakan. [NEEDS GATE-05: jangan menutup atau menerima perbaikan tanpa kriteria tertulis dan pemeriksaan yang disetujui.] Teman Besi.co.id, pegang aturan ini: kerusakan kecil boleh ditangani cepat hanya setelah bukti menunjukkan apa yang rusak dan sistem apa yang boleh memulihkannya.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2025/04/besi-baja-1.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

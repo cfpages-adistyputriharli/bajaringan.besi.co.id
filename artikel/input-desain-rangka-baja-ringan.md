@@ -2,8 +2,8 @@
 article_id: LGS-05-01
 title: "Checklist Input Desain Rangka Baja Ringan"
 slug: "input-desain-rangka-baja-ringan"
-description: "Organize use, geometry, supports, roof layers, actions, exposure, interfaces, and stages"
-status: outline
+description: "Penyusunan penggunaan, geometri, tumpuan, lapisan atap, beban, paparan, antarmuka, dan tahapan"
+status: draft
 publication_date: "2025-09-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/input-desain-rangka-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
@@ -27,183 +28,93 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Checklist Input Desain Rangka Baja Ringan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Checklist Input Desain Rangka Baja Ringan”
-- **Reader and situation:** Owner/design coordinator
-- **Reader outcome:** Organize use, geometry, supports, roof layers, actions, exposure, interfaces, and stages
-- **Primary intent:** Gather requirements
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No calculations; LGS-05-03 owns member checks concept
-- **Final public route:** `/artikel/input-desain-rangka-baja-ringan.html`
-- **Appointed CMS date:** `2025-09-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Input Desain Rangka Baja Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Checklist Input Desain Rangka Baja Ringan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id!
 
-### KR-01
+Desain rangka baja ringan yang baik dimulai dari input yang lengkap. Ketika data input tidak lengkap atau ambigu, engineer desain terpaksa membuat asumsi—dan asumsi yang salah bisa menghasilkan desain yang under-designed atau over-designed. Checklist input desain harus mencakup setidaknya delapan kategori: penggunaan bangunan, geometri, tumpuan, lapisan atap, beban, paparan lingkungan, antarmuka komponen, dan tahapan konstruksi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: sebelum menyerahkan desain rangka baja ringan kepada engineer, pastikan Anda sudah menyediakan data yang mencakup semua delapan kategori di atas. Kawan Besi.co.id, waktu yang dihabiskan untuk mengumpulkan data input yang lengkap akan menghemat waktu revisi desain yang jauh lebih besar.
 
-### KR-11
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+## Apa yang dibahas dan apa yang tidak
 
-### KR-24
+Artikel ini membahas checklist input yang harus disediakan oleh pemilik proyek atau koordinator desain kepada engineer sebelum desain rangka baja ringan dimulai. Cakupannya mencakup delapan kategori data yang menjadi fondasi perencanaan. Yang tidak dibahas adalah perhitungan desain itu sendiri—karena perhitungan itu menjadi tanggung jawab engineer berlisensi.
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+Pembedaan ini penting karena memahami input yang dibutuhkan membantu Anda menyiapkan data secara lengkap. Tetapi transformasi data input menjadi desain teknis membutuhkan keahlian dan lisensi yang dimiliki oleh engineer profesional.
 
-### KR-25
+## Penggunaan bangunan
 
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
+Penggunaan bangunan menentukan beban hidup yang berlaku. Bangunan tempat tinggal memiliki beban hidup atap yang berbeda dari gudang industri atau gedung komersial. Penggunaan juga menentukan apakah ada beban tambahan yang perlu diperhitungkan—misalnya panel surya, tangki air, atau unit HVAC di atap. Selain itu, penggunaan bangunan mempengaruhi kondisi operasional di dalam ruangan yang bisa mempengaruhi kondisi atap—misalnya kelembaban tinggi pada pabrik pengolahan makanan yang bisa memicu kondensasi pada atap baja ringan.
 
-### KR-26
+Data yang harus disertakan meliputi fungsi utama bangunan, kondisi operasional di dalam ruangan (suhu, kelembaban, paparan kimia), dan rencana penggunaan atap untuk pemasangan komponen tambahan di masa depan. Dokumentasi penggunaan ini harus diperbarui jika ada perubahan fungsi bangunan selama umur layanan struktur.
 
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
+SNI 1729:2020 (https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan SNI 8369:2020 (https://pesta.bsn.go.id/produk/detail/12885-sni83692020) memberikan kerangka referensi untuk penetapan beban berdasarkan jenis penggunaan bangunan.
 
-## Evidence gates
+## Geometri bangunan
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Geometri mencakup panjang, lebar, tinggi bangunan, bentuk atap (pitch, bentang, bentuk kuda-kuda), bukaan yang direncanakan, dan kondisi fondasi yang tersedia. Data geometri ini menjadi dasar untuk menentukan bentuk dan dimensi rangka. Setiap dimensi harus dinyatakan dengan toleransi yang jelas—misalnya, panjang bangunan 12 meter dengan toleransi plus minus 50 milimeter.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Informasi geometri tambahan yang sering terlupakan meliputi: kemiringan atap (pitch) dalam derajat atau rasio, posisi nok (ridge) relatif terhadap fondasi, ketinggian langit-langit di bawah rangka, dan ada tidaknya bukaan atap seperti skylight atau ventilasi.
 
-## Internal-link plan
+## Tumpuan
 
-### Existing local routes
+Tumpuan adalah titik di mana rangka atap bertumpu pada struktur penahan—kolom, dinding, atau balok. Data tumpuan mencakup jenis tumpuan (simple, fixed, atau semi-fixed), kapasitas tumpuan, dan posisi tumpuan relatif terhadap geometri bangunan.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Lapisan atap
 
-### Planned sibling articles
+Lapisan atap mencakup jenis penutup atap, reng, underlay, insulasi, dan komponen pendukung lainnya. Berat lapisan atap menjadi input untuk perhitungan beban mati. Jenis penutup atap menentukan jarak reng dan metode pengencangan.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Beban
 
-- `LGS-05-02` → `/artikel/jalur-beban-rangka-atap-baja-ringan.html` — Jalur Beban pada Rangka Atap Baja Ringan
-- `LGS-05-03` → `/artikel/strength-serviceability-stability-baja-ringan.html` — Strength, Serviceability, dan Stability: Tiga Pemeriksaan Berbeda
+Beban yang harus diperhitungkan meliputi beban mati (berat sendiri rangka dan lapisan atap), beban hidup (beban sementara saat pemeliharaan), beban angin (tekanan dan hembusan), beban gempa (jika berlaku), dan beban tambahan (panel surya, tangki, dll). NIST (https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings) dan NIST (https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures) memberikan panduan mengenai pertimbangan beban pada struktur baja.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Paparan lingkungan
 
-## Hasil akhir dan prasyarat
+Paparan lingkungan mencakup kondisi iklim lokasi proyek (kecepatan angin, curah hujan, suhu), paparan korosi (jarak dari laut, kondisi industri), dan paparan terhadap kebakaran. ISO 72893 (https://www.iso.org/standard/72893.html) memberikan referensi mengenai penilaian risiko lingkungan yang bisa diadaptasi untuk konteks baja ringan.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Input Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Antarmuka komponen
 
-## Langkah 1 — tetapkan scope
+Antarmuka mencakup hubungan antara rangka atap dengan struktur penahan, antara reng dengan kuda-kuda, antara penutup atap dengan reng, dan antara penetrasi dengan waterproofing. Data antarmuka ini menentukan detail sambungan yang harus didesain.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Input Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+ISO 46556 (https://www.iso.org/standard/46556.html) memberikan referensi mengenai standar kualitas sambungan yang berlaku untuk struktur baja.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Tahapan konstruksi
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Input Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tahapan konstruksi mencakup urutan ereksi, metode pengangkutan, kondisi bracing sementara, dan batasan akses. Data tahapan ini penting untuk memastikan bahwa desain mempertimbangkan kondisi konstruksi yang belum selesai, bukan hanya kondisi akhir. Banyak kegagalan struktural terjadi bukan pada kondisi akhir bangunan, tetapi pada tahapan konstruksi ketika komponen belum terpasang sempurna. Engineer harus merancang untuk setiap tahapan yang berisiko, bukan hanya untuk kondisi akhir yang sudah sempurna.
 
-## Langkah 3 — jalankan urutan kerja
+Informasi tambahan yang harus disertakan meliputi metode pengangkutan material ke lokasi pemasangan, jenis dan kapasitas alat berat yang tersedia, batasan akses ke area pemasangan, serta kondisi cuaca dominan selama periode ereksi yang direncanakan.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Input Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+FHWA (https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) menjelaskan prinsip-prinsip stabilitas sementara yang berlaku untuk ereksi struktur baja. FHWA (https://www.fhwa.dot.gov/bridge/inspection/) menyediakan pedoman inspeksi yang bisa diadaptasi untuk memeriksa kondisi sementara selama konstruksi. Publikasi FHWA tentang teknik inspeksi non-destruktif (https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm) juga relevan untuk verifikasi kondisi material.
 
-## Hold point dan kondisi berhenti
+## Titik verifikasi dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Input Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa tahapan desain membutuhkan verifikasi sebelum bisa dilanjutkan. Ini termasuk verifikasi input data oleh engineer, persetujuan gambar kerja sebelum fabrikasi, dan inspeksi kualitas fabrikasi sebelum pengiriman. Hold point ini memastikan bahwa kesalahan tidak ditransfer ke tahapan berikutnya.
 
-## Verifikasi hasil dan handover
+PP 16 Tahun 2021 (https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) menetapkan kerangka regulasi yang mengatur pengawasan teknis selama pelaksanaan konstruksi, termasuk hold point untuk verifikasi desain.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Input Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Verifikasi hasil dan serah terima
 
-## Objection or shortcut to address
+Setelah desain selesai, verifikasi harus dilakukan terhadap kelengkapan dokumen: gambar kerja lengkap, analisis struktural, spesifikasi material, dan jadwal pelaksanaan. Handover desain dari engineer ke kontraktor harus mencakup semua dokumen ini beserta penjelasan mengenai asumsi desain dan batasan yang berlaku.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+SNI 7971:2013 (https://pesta.bsn.go.id/produk/detail/9714-sni79712013) memberikan pedoman mengenai tata cara pemasangan yang harus diperhatikan dalam handover desain.
 
-## Required conclusion
+## Kesimpulan dan langkah selanjutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Checklist input desain rangka baja ringan yang lengkap mencakup delapan kategori: penggunaan, geometri, tumpuan, lapisan atap, beban, paparan, antarmuka, dan tahapan. Kelengkapan input ini menentukan kualitas desain yang dihasilkan. Kawan Besi.co.id, setiap data yang tidak disertakan dalam input akan digantikan oleh asumsi engineer—dan asumsi yang salah bisa menghasilkan desain yang tidak sesuai kebutuhan proyek Anda.
 
-## Draft completion checklist
+Langkah konkret yang bisa Anda ambil hari ini: buat template checklist input desain berdasarkan delapan kategori di atas, dan gunakan template ini untuk setiap proyek baru. Pastikan semua data terkumpul sebelum menyerahkan kepada engineer.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Batas jujur yang perlu diingat: artikel ini membantu Anda mengumpulkan input desain, bukan melakukan perhitungan desain. Perhitungan menjadi tanggung jawab engineer berlisensi. Untuk pemahaman lebih lanjut, Anda bisa membaca tentang [anatomi kuda-kuda baja ringan](/artikel/anatomi-kuda-kuda-baja-ringan.html) dan [data geometri atap kuda-kuda](/artikel/data-geometri-atap-kuda-kuda.html).

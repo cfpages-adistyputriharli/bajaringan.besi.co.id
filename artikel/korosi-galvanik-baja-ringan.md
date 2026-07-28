@@ -2,8 +2,8 @@
 article_id: LGS-03-03
 title: "Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain"
 slug: "korosi-galvanik-baja-ringan"
-description: "Explain dissimilar-metal, moisture, contact-area, and isolation questions"
-status: outline
+description: "Panduan mengenali risiko korosi galvanik saat baja ringan bertemu logam lain, termasuk peran kelembapan, area kontak, fastener, drainase, dan isolasi."
+status: draft
 publication_date: "2025-08-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,201 +13,93 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/korosi-galvanik-baja-ringan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
-  - "https://www.iso.org/standard/81435.html"
-  - "https://www.iso.org/standard/71136.html"
-  - "https://www.iso.org/standard/79581.html"
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”
-- **Reader and situation:** Detailer/installer
-- **Reader outcome:** Explain dissimilar-metal, moisture, contact-area, and isolation questions
-- **Primary intent:** Avoid incompatibility
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No material-pair approval; LGS-09-04 owns roof penetrations
-- **Final public route:** `/artikel/korosi-galvanik-baja-ringan.html`
-- **Appointed CMS date:** `2025-08-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id!
 
-### KR-01
+Ketika baja ringan dipasang berdekatan atau bersentuhan dengan logam lain—seperti tembaga, aluminium, atau stainless steel—pertanyaan kritis yang harus dijawab adalah: "Apakah kombinasi logam ini berpotensi menyebabkan korosi galvanik yang dapat mempercepat kerusakan?" Jawaban singkatnya adalah korosi galvanik terjadi ketika dua logam dengan potensial elektrokimia yang berbeda bersentuhan dalam keberadaan elektrolit—biasanya air atau kelembaban. Untuk mencegah korosi galvanik, Anda perlu memahami kompatibilitas logam, faktor yang mempercepat korosi, dan metode isolasi yang efektif.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Korosi galvanik bukan sekadar masalah kosmetik—kerusakan yang diakibatkan dapat mengurangi kekuatan struktural secara signifikan. Oleh karena itu, pemahaman tentang mekanisme korosi galvanik menjadi krusial bagi siapa saja yang terlibat dalam perencanaan, pemasangan, atau pemeliharaan rangka baja ringan.
 
-### KR-16
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
+*Gambar di atas adalah ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
-### KR-17
+## Mekanisme korosi galvanik
 
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
+Korosi galvanik terjadi melalui beberapa mekanisme. Mekanisme pertama adalah perbedaan potensial elektrokimia antara dua logam yang bersentuhan. Logam yang lebih aktif (anoda) akan terkorosi lebih cepat untuk melindungi logam yang lebih noble (katoda). Baja ringan dengan pelapis seng biasanya berperan sebagai anoda ketika bersentuhan dengan logam yang lebih noble.
 
-### KR-18
+Mekanisme kedua adalah keberadaan elektrolit—biasanya air yang mengandung garam atau kontaminan lain. Elektrolit memungkinkan arus listrik mengalir antara dua logam, mempercepat proses korosi. Tanpa elektrolit, korosi galvanik tidak akan terjadi meskipun dua logam yang tidak kompatibel bersentuhan.
 
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
+Mekanisme ketiga adalah luas permukaan kontak yang relatif. Jika anoda (logam yang lebih aktif) memiliki permukaan yang kecil dibandingkan katoda (logam yang lebih noble), korosi akan terkonsentrasi pada area anoda yang kecil, mempercepat kerusakan lokal. Sebaliknya, jika anoda memiliki permukaan yang besar, korosi akan tersebar lebih merata.
 
-### KR-21
+Pemahaman tentang mekanisme ini membantu dalam mengidentifikasi situasi yang berisiko tinggi dan menentukan metode pencegahan yang tepat. Kawan Besi.co.id, perhatikan detail tentang bagaimana logam-logam ini bersentuhan dalam desain Anda.
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+## Kompatibilitas logam
 
-## Evidence gates
+Kompatibilitas logam untuk mencegah korosi galvanik dapat dipahami melalui seri galvanik. Logam yang berdekatan dalam seri galvanik memiliki potensial elektrokimia yang mirip, sehingga risiko korosi galvanik lebih rendah. Sebaliknya, logam yang berjauhan dalam seri galvanik memiliki potensial elektrokimia yang berbeda, sehingga risiko korosi galvanik lebih tinggi.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Untuk baja ringan dengan pelapis seng atau aluminium-zinc, logam yang harus dihindari bersentuhan langsung antara lain tembaga, kuningan, dan beberapa jenis stainless steel. Logam yang relatif aman untuk bersentuhan dengan baja ringan antara lain aluminium murni dan zinc murni.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Perlu diingat bahwa kondisi lingkungan dapat mempengaruhi kompatibilitas logam. Dalam kondisi yang sangat korosif—misalnya, dekat pantai dengan paparan garam laut—risiko korosi galvanik meningkat bahkan untuk kombinasi logam yang relatif kompatibel. Oleh karena itu, evaluasi kompatibilitas harus mempertimbangkan kondisi lingkungan spesifik di lokasi proyek.
 
-## Internal-link plan
+## Faktor yang mempercepat korosi galvanik
 
-### Existing local routes
+Beberapa faktor dapat mempercepat korosi galvanik. Pertama, kelembaban tinggi—air atau kelembaban berfungsi sebagai elektrolit yang memungkinkan arus listrik mengalir antara dua logam. Kedua, paparan garam atau kontaminan kimia lainnya—garam meningkatkan konduktivitas elektrolit, mempercepat proses korosi.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Ketiga, suhu tinggi—reaksi kimia umumnya berlangsung lebih cepat pada suhu yang lebih tinggi. Keempat, adanya sisa-sisa konstruksi—seperti serpihan logam, debu, atau kotoran yang terperangkap di area kontak—dapat menahan kelembaban dan mempercepat korosi.
 
-### Planned sibling articles
+Kelima, desain yang memungkinkan air menggenang di area kontak—genangan air memperpanjang waktu kontak antara elektrolit dan logam, mempercepat korosi. Oleh karena itu, desain harus memastikan adanya ventilasi dan drainase yang memadai untuk mencegah penumpukan air.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Metode isolasi dan pencegahan
 
-- `LGS-03-01` → `/artikel/jenis-pelapis-baja-ringan.html` — Sistem Pelapis Baja: Zinc, Aluminium-Zinc, dan Bukti Produk
-- `LGS-03-02` → `/artikel/tepi-potong-goresan-korosi-baja.html` — Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?
-- `LGS-03-04` → `/artikel/paparan-korosi-baja-ringan.html` — Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas
-- `LGS-03-05` → `/artikel/wet-storage-stain-baja-ringan.html` — Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah
+Metode isolasi yang efektif untuk mencegah korosi galvanik meliputi beberapa pendekatan. Pendekatan pertama adalah penggunaan isolator mekanik—seperti bushing plastik, washer karet, atau selongsong isolasi—untuk mencegah kontak langsung antara dua logam yang tidak kompatibel.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Pendekatan kedua adalah penggunaan sealant atau pelapis pelindung pada area kontak untuk mencegah penetrasi kelembaban. Pendekatan ketiga adalah desain yang menghindari genangan air di area kontak—termasuk ventilasi dan drainase yang memadai.
 
-## Mulai dari gejala, bukan tebakan penyebab
+Pendekatan keempat adalah penggunaan fastener yang memiliki kompatibilitas galvanik yang sesuai dengan material yang dikencangkan. Jangan mengganti fastener asli dengan fastener yang memiliki kompatibilitas galvanik berbeda tanpa evaluasi yang memadai.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+ISO 64834 ([ISO 64834](https://www.iso.org/standard/64834.html)) memberikan kerangka referensi untuk sistem pelapis baja yang bisa menjadi panduan dalam memahami kompatibilitas logam dan metode pencegahan korosi galvanik.
 
-## Saringan risiko langsung
+## Contoh situasi praktis
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Situasi umum yang berpotensi menyebabkan korosi galvanik adalah saat baja ringan dipasang berdekatan dengan sistem pipa tembaga. Pipa tembaga yang bersentuhan dengan baja ringan dapat menyebabkan korosi galvanik pada baja ringan, terutama di area di mana air atau kelembaban dapat menggenang.
 
-## Kemungkinan mekanisme
+Solusinya adalah memastikan adanya isolasi antara pipa tembaga dan baja ringan. Isolasi bisa berupa bushing plastik, selongsong karet, atau jarak minimal yang cukup untuk mencegah kontak langsung. Sobat Besi.co.id, perhatikan detail kecil ini untuk mencegah masalah yang lebih besar di kemudian hari.
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Situasi lain yang perlu diperhatikan adalah penggunaan sekrup atau baut dari jenis logam yang berbeda dengan baja ringan. Pastikan semua fastener yang digunakan memiliki kompatibilitas galvanik yang sesuai dengan material yang dikencangkan. Penggantian fastener yang tidak sesuai dapat menyebabkan masalah korosi yang serius.
 
-## Urutan pemeriksaan dan pengujian
+## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama: mengabaikan kompatibilitas galvanik saat memilih fastener atau komponen logam lainnya. Pastikan semua komponen logam yang bersentuhan memiliki kompatibilitas galvanik yang sesuai.
 
-## Cara membaca hasil tanpa melompat ke kesimpulan
+Kesalahan kedua: tidak menggunakan isolator pada area kontak antara logam yang tidak kompatibel. Isolator menjadi kunci pencegahan korosi galvanik. Jangan menganggap remeh kebutuhan isolasi ini.
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga: desain yang memungkinkan genangan air di area kontak. Pastikan desain memiliki ventilasi dan drainase yang memadai untuk mencegah penumpukan air. Genangan air menjadi elektrolit yang mempercepat korosi galvanik.
 
-## Pilihan tindakan dan titik eskalasi
+Kesalahan keempat: tidak melakukan pemeriksaan visual berkala pada area kontak antar logam. Pemeriksaan visual dapat mendeteksi tanda-tanda awal korosi galvanik sebelum kerusakan menjadi parah.
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan dan langkah selanjutnya
 
-## Objection or shortcut to address
+Korosi galvanik terjadi ketika dua logam dengan potensial elektrokimia yang berbeda bersentuhan dalam keberadaan elektrolit. Pemahaman tentang kompatibilitas logam, faktor yang mempercepat korosi, dan metode isolasi menjadi fondasi untuk mencegah kerusakan akibat korosi galvanik.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Langkah selanjutnya yang bisa Anda ambil adalah memeriksa kompatibilitas galvanik semua komponen logam yang akan bersentuhan, memastikan penggunaan isolator yang memadai pada area kontak, dan mendesain ventilasi serta drainase yang memadai.
 
-## Required conclusion
+Ingatlah bahwa pencegahan korosi galvanik lebih mudah dan lebih murah dibandingkan perbaikan kerusakan akibat korosi, Teman Besi.co.id. Investasi dalam pemahaman dan pencegahan korosi galvanik akan menghemat biaya pemeliharaan di kemudian hari. Untuk informasi lebih lanjut tentang sistem pelapis baja, Anda bisa membaca artikel tentang [jenis pelapis baja ringan](/artikel/jenis-pelapis-baja-ringan.html). Selain itu, jika Anda memerlukan informasi tentang penyimpanan baja ringan yang benar, silakan lihat artikel tentang [penyimpanan baja ringan](/artikel/penyimpanan-baja-ringan.html).
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+---

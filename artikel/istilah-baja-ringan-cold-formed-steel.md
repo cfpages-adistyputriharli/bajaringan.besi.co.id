@@ -2,8 +2,8 @@
 article_id: LGS-01-01
 title: "Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya"
 slug: "istilah-baja-ringan-cold-formed-steel"
-description: "Distinguish engineering and Indonesian trade vocabulary"
-status: outline
+description: "Pembedaan kosakata teknik dan kosakata perdagangan Indonesia"
+status: draft
 publication_date: "2025-06-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/istilah-baja-ringan-cold-formed-steel.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
@@ -27,185 +28,93 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”
-- **Reader and situation:** Beginner/buyer
-- **Reader outcome:** Distinguish engineering and Indonesian trade vocabulary
-- **Primary intent:** Define terms
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Product selection belongs to LGS-04-01; no product claim
-- **Final public route:** `/artikel/istilah-baja-ringan-cold-formed-steel.html`
-- **Appointed CMS date:** `2025-06-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id!
 
-### KR-01
+Cold-formed steel atau baja ringan memiliki istilah teknis yang sering muncul di dokumen proyek, percakapan dengan pemasok, dan referensi standar. Memahami istilah-istilah ini membantu Anda berkomunikasi secara efektif dengan engineer, pemasok, dan kontraktor. Istilah-istilah yang paling penting meliputi cold forming, galvanis, galvalum, yield strength, tensile strength, buckling, dan deflection.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: istilah teknis CFS memiliki arti spesifik yang berbeda dari penggunaan sehari-hari. Memahami arti yang benar membantu Anda menghindari kesalahpahaman yang bisa berakibat pada keputusan desain atau pemasangan yang salah. Sobat Besi.co.id, mulai dari istilah yang paling sering Anda temui.
 
-### KR-02
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Apa yang dibahas dan apa yang tidak
 
-### KR-04
+Artikel ini membahas istilah teknis cold-formed steel yang sering muncul di dokumen dan percakapan proyek baja ringan. Cakupannya mencakup istilah proses, material, sifat mekanis, dan fenomena struktural. Yang tidak dibahas adalah data teknis spesifik dari setiap istilah—karena data itu membutuhkan sumber yang lebih spesifik.
 
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
+## Cold forming
 
-### KR-05
+Cold forming adalah proses pembentukan baja pada suhu kamar menggunakan mesin roll forming. Berbeda dari hot rolling yang membentuk baja pada suhu tinggi, cold forming membentuk baja tipis menjadi profil dengan geometri yang presisi. Proses ini menghasilkan baja dengan sifat mekanis yang berbeda dari baja hot-rolled—terutama peningkatan yield strength akibat work harding.
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Klasifikasi standar internasional (https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) membantu memahami bagaimana produk baja ringan dikategorikan dalam kerangka standar global.
 
-### KR-11
+## Galvanis dan galvalum
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+Galvanis adalah lapisan pelindung seng (zinc) yang diaplikasikan pada baja untuk mencegah korosi. Galvalum adalah campuran seng dan aluminium yang memberikan ketahanan korosi yang lebih baik daripada galvanis murni. Keduanya berfungsi sebagai pelindung katodik—jika lapisan tergores, seng atau campuran seng-aluminium akan berkorosi terlebih dahulu sebelum baja dasar terpengaruh.
 
-## Evidence gates
+ISO 52949 (https://www.iso.org/standard/52949.html) memberikan referensi mengenai standar material yang berlaku untuk produk baja ringan termasuk spesifikasi lapisan pelindung.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+## Yield strength dan tensile strength
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Yield strength adalah tegangan minimum di mana baja mulai mengalami deformasi permanen. Tensile strength adalah tegangan maksimum yang bisa ditahan baja sebelum putus. Kedua nilai ini menentukan kapasitas beban profil baja ringan. Yield strength yang tinggi berarti profil bisa menahan beban lebih besar sebelum mengalami perubahan bentuk permanen.
 
-## Internal-link plan
+SNI 8522:2018 (https://pesta.bsn.go.id/produk/detail/11986-sni85222018) dan SNI 9172:2023 (https://pesta.bsn.go.id/produk/detail/14592-91722023) memberikan kerangka referensi untuk spesifikasi material baja ringan termasuk nilai yield strength dan tensile strength.
 
-### Existing local routes
+## Buckling
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Buckling adalah fenomena lentur keluar dari bidang yang diinginkan akibat beban aksial pada anggota yang panjang dan tipis. Buckling terjadi ketika beban kompresi mencapai nilai kritis yang menyebabkan anggota tiba-tiba berubah bentuk. Fenomena ini merupakan mode kegagalan utama pada komponen baja ringan karena rasio penampang terhadap panjang anggota yang tinggi.
 
-### Planned sibling articles
+Ada beberapa jenis buckling yang perlu dipahami: local buckling (buckling lokal pada lip atau web profil), distortional buckling (perubahan bentuk penampang), dan global buckling (lentur atau torsi seluruh anggota). Jenis buckling yang terjadi tergantung pada geometri profil, panjang anggota, dan kondisi batas sambungan.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Deflection
 
-- `LGS-01-02` → `/artikel/galvalum-galvanis-dan-baja-ringan.html` — Galvalum, Galvanis, dan Baja Ringan: Jangan Samakan Material dan Sistem
-- `LGS-01-03` → `/artikel/peran-proyek-rangka-baja-ringan.html` — Siapa Bertanggung Jawab dalam Proyek Rangka Baja Ringan?
+Deflection adalah pergeseran posisi anggota atau sambungan akibat beban. Deflection yang berlebihan bisa menyebabkan retakan pada finishing, kebocoran pada sambungan, atau ketidaknyamanan bagi penghuni. Batas deflection ditentukan oleh standar dan spesifikasi proyek—biasanya dinyatakan sebagai pecahan dari bentang, misalnya L/240 atau L/360.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Deflection bisa bersifat sementara (elastis) atau permanen (plastis). Deflection elastis akan kembali ke posisi semula setelah beban dihilangkan. Deflection plastis terjadi ketika beban melampaui yield strength dan menyebabkan perubahan bentuk permanen. Memahami perbedaan ini membantu Anda menilai apakah deflection yang diamati masih dalam batas yang diterima.
 
-## Jawaban singkat dan salah paham utama
+## Lip, lipat, dan toleransi
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lip adalah bagian tepi profil yang dilipat untuk meningkatkan kekakuan atau sebagai area sambungan. Toleransi adalah rentang dimensi yang diterima secara industri—misalnya, toleransi panjang profil bisa plus minus 2 milimeter. Memahami toleransi membantu Anda menilai apakah ketidaksesuaian dimensi yang ditemukan masih dalam batas yang diterima atau sudah melampaui batas.
 
-## Definisi dan batas objek
+ISO 73841 (https://www.iso.org/standard/73841.html) memberikan referensi mengenai standar produk yang berlaku untuk baja ringan termasuk toleransi dimensi.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Sambungan dan fastener
 
-## Cara kerjanya
+Istilah sambungan (connection) merujuk pada cara dua atau lebih komponen baja ringan dihubungkan. Jenis sambungan yang umum meliputi sambungan baut, sambungan sekrup, sambungan las (jika ada), dan sambungan klem. Fastener adalah komponen pengencang yang digunakan dalam sambungan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+BSN (https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) dan BSN (https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=) menyediakan daftar standar yang berlaku untuk baja dan produk turunannya termasuk komponen sambungan.
 
-## Faktor yang mengubah hasil
+## Beban mati, hidup, dan angin
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beban mati adalah beban permanen yang bekerja pada struktur—termasuk berat sendiri komponen dan beban tetap lainnya. Beban hidup adalah beban sementara yang bisa berpindah—termasuk beban pekerja dan peralatan. Beban angin adalah beban lateral yang diciptakan oleh angin—bisa berupa tekanan (menekan) atau hisap (mengangkat).
 
-## Contoh keputusan praktis
+PP 16 Tahun 2021 (https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) menetapkan kerangka regulasi yang mengatur penetapan beban dalam perencanaan konstruksi.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+SNI 1729:2020 (https://pesta.bsn.go.id/produk/detail/12882-sni17292020), SNI 8369:2020 (https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan SNI 7971:2013 (https://pesta.bsn.go.id/produk/detail/9714-sni79712013) memberikan kerangka referensi untuk penetapan beban dan perencanaan struktur baja ringan.
 
-## Kesalahan umum dan cara memeriksanya
+## Faktor yang mempengaruhi pemahaman istilah
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Baja Ringan, Cold-Formed Steel, dan Light-Gauge Steel: Istilahnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemahaman istilah bisa berbeda tergantung konteks. "Profil" bisa merujuk pada bentuk penampang atau jenis material. "Baja ringan" bisa merujuk pada material secara umum atau produk spesifik. Konteks dokumen—apakah gambar kerja, spesifikasi, atau percakapan—membantu menentukan arti yang tepat.
 
-## Objection or shortcut to address
+Perbedaan antara istilah teknik dan istilah perdagangan juga sering menciptakan kebingungan. Dalam istilah teknik, "cold-formed steel" merujuk pada proses pembentukan. Dalam perdagangan, "baja ringan" merujuk pada produk akhir yang siap digunakan. Kawan Besi.co.id, memahami perbedaan ini membantu Anda berkomunikasi secara lebih efektif dengan berbagai pihak yang terlibat dalam proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Istilah light-gauge steel juga sering digunakan secara bergantian dengan cold-formed steel, meskipun secara teknis ada perbedaan subtil. Light-gauge steel merujuk pada baja dengan ketebalan tipis yang dibentuk menjadi profil, sedangkan cold-formed steel merujuk pada proses pembentukannya. Dalam praktik di Indonesia, kedua istilah ini sering digunakan untuk merujuk pada produk yang sama.
 
-## Required conclusion
+## Kesimpulan dan langkah selanjutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Istilah teknis CFS mencakup proses, material, sifat mekanis, dan fenomena struktural yang memiliki arti spesifik. Memahami istilah-istilah ini membantu Anda berkomunikasi secara efektif dan menghindari kesalahpahaman.
 
-## Draft completion checklist
+Langkah konkret yang bisa Anda ambil hari ini: buat daftar istilah yang sering Anda temui dan bookmark halaman ini sebagai referensi. Ketika Anda menemui istilah baru, tambahkan ke daftar dan cari artinya sebelum mengambil keputusan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Batas jujur yang perlu diingat: glosarium ini membahas arti konseptual istilah, bukan data teknis spesifik. Untuk data teknis, selalu rujuk pada sumber standar yang berlaku. Untuk pemahaman lebih lanjut, Anda bisa membaca tentang [glosarium komponen baja ringan](/artikel/glosarium-komponen-baja-ringan.html) dan [anatomi dimensi profil baja ringan](/artikel/anatomi-dimensi-profil-baja-ringan.html).

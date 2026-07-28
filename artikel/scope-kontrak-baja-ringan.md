@@ -2,8 +2,9 @@
 article_id: LGS-14-05
 title: "Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak"
 slug: "scope-kontrak-baja-ringan"
-description: "Define responsibilities, deliverables, approval, damage, changes, acceptance, warranty, and records"
-status: outline
+description: "Cara membagi tanggung jawab desain, pengadaan, ereksi, garansi, perubahan, penerimaan, dan rekaman kontrak baja ringan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,185 +27,79 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** `LOCAL-001`
+- **Source type:** `local`
+- **Placement:** setelah pembuka menjawab inti, sebelum H2 pertama
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Selection basis:** nama file dan metadata sumber dipakai sebagai label subjek; piksel tidak diperiksa.
+- **Hard boundary:** jangan menebak isi visual, kepemilikan proyek, lokasi, orang, merek, kondisi, performa, atau hasil.
+- **Substitution rule:** bila aset atau asalnya tidak lengkap, gunakan `[NEEDS IMAGE REVIEW: LOCAL-001]`.
+END MANAGED IMAGE PLAN -->
 
 # Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak
 
-## Assignment lock
+Halo, Teman Besi.co.id! Banyak sengketa proyek rangka baja ringan dimulai dari kalimat pendek: “Itu bukan bagian saya.” Pemilik mengira pemasok akan memastikan desain, pemasok mengira gambar sudah final, pelaksana mengira kerusakan ditanggung garansi, dan perubahan lapangan berjalan tanpa catatan. Ketika batas tidak tertulis, biaya dan risiko berpindah lewat asumsi.
 
-- **Writer task:** Expand this file into one complete article answering: “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”
-- **Reader and situation:** Owner/contractor/provider
-- **Reader outcome:** Define responsibilities, deliverables, approval, damage, changes, acceptance, warranty, and records
-- **Primary intent:** Allocate scope
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not legal advice; LGS-01-03 owns generic roles
-- **Final public route:** `/artikel/scope-kontrak-baja-ringan.html`
-- **Appointed CMS date:** `2026-05-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: bagi kontrak berdasarkan keluaran yang dapat diperiksa, bukan hanya nama pekerjaan. Tulis siapa menyediakan desain dan revisinya, siapa memilih serta melacak material, siapa mengerjakan ereksi, bagaimana kerusakan dan penerimaan dibuktikan, apa cakupan garansi, serta bagaimana perubahan disetujui dan dihargai. Artikel ini bukan nasihat hukum; bunyi kontrak, hukum yang berlaku, gambar, dan kompetensi para pihak dapat mengubah keputusan.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-14-03` → `/artikel/membandingkan-penawaran-baja-ringan.html` — Membandingkan Penawaran Baja Ringan secara Apple-to-Apple
-- `LGS-14-04` → `/artikel/komponen-biaya-baja-ringan.html` — Komponen Biaya Baja Ringan: Material hingga Risiko Site
-- `LGS-14-06` → `/artikel/verifikasi-stok-kapasitas-lead-time-baja-ringan.html` — Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Scope (ruang lingkup) yang baik menjawab tiga hal: apa yang harus diserahkan, bukti apa yang menyatakan selesai, dan siapa yang berwenang menerima atau menolak. “Supply rangka” tanpa daftar profil, dokumen mutu, pengemasan, pengiriman, dan batas kerusakan masih terlalu kabur. “Pasang sampai selesai” tanpa gambar berlaku, toleransi, akses, dan pemeriksaan juga menyisakan ruang sengketa.
+
+Dokumen inspeksi perlu ditautkan ke pesanan, produsen, produk, lot, dimensi, pengujian, dan penandaan fisik; laboratorium kompeten pun tidak otomatis membuktikan barang tertentu sesuai ([ISO 10474](https://www.iso.org/standard/53736.html), [ISO/IEC 17025](https://www.iso.org/standard/66912.html)). Jadi, setiap kewajiban kontrak perlu pasangan bukti yang realistis.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Desain mencakup input, gambar, perhitungan, detail sambungan, perubahan, dan persetujuan yang memang disepakati. Supply mencakup pengadaan, pemeriksaan, identitas material, pengemasan, dan pengiriman. Ereksi berarti pekerjaan memasang serta mengatur kondisi lapangan sesuai metode yang disetujui. Garansi adalah janji kontraktual dengan syarat dan pengecualian, bukan jaminan semua kegagalan. Perubahan adalah penyimpangan dari gambar atau kuantitas yang harus direkam.
+
+Artikel ini tidak menggantikan nasihat hukum atau menetapkan siapa yang secara hukum bertanggung jawab. Ia juga tidak menentukan detail struktur. [NEEDS GATE-01: batas scope, dokumen kontrak, dan otoritas persetujuan harus ditinjau menurut proyek dan hukum yang berlaku].
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun matriks tanggung jawab sejak penawaran. Untuk setiap keluaran, tulis pihak penyedia, pihak pemeriksa, dokumen rujukan, titik serah-terima, dan akibat jika tidak terpenuhi. Contohnya: pemasok menyediakan daftar material dan sertifikat; QA memeriksa identitas serta kondisi; pemilik menerima atau mengeluarkan catatan ketidaksesuaian. Hindari satu kata “menjamin” tanpa definisi metode pembuktian.
+
+Untuk fabrikasi, tautkan gambar dengan proses dan toleransi. ISO 9013 beserta amandemennya membahas pemotongan termal, sedangkan ISO 13920 membahas toleransi umum konstruksi las; keduanya tidak otomatis berlaku pada semua material, ketebalan, atau rakitan ([ISO 9013](https://www.iso.org/standard/60321.html), [Amandemen ISO 9013](https://www.iso.org/standard/87851.html), [ISO 13920](https://www.iso.org/standard/86032.html)). Tulis kelas atau kriteria hanya jika dokumen penuh dan gambar proyek sudah disetujui.
+
+Untuk penerimaan, tentukan lot, karakteristik, metode, pemilihan sampel, identitas, frekuensi, kriteria, aturan keputusan, tanggung jawab, dan rekaman. ISO 2859-1 dan ISO 28590 memberi kerangka sampling atribut, bukan angka AQL atau ukuran sampel yang boleh disalin ke semua kontrak ([ISO 2859-1](https://www.iso.org/standard/85464.html), [ISO 28590](https://www.iso.org/standard/64622.html)). [NEEDS GATE-02: ITP dan aturan penerimaan harus disepakati sebelum material datang].
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perubahan gambar, kondisi tumpuan, akses, urutan pekerjaan, dan material pengganti dapat menggeser tanggung jawab. Tulis kapan risiko berpindah: saat barang dimuat, tiba, diterima, disimpan, atau dipasang. Sertakan pengecualian kerusakan akibat penanganan pihak lain dan prosedur pemberitahuannya, tanpa menyimpulkan siapa salah sebelum bukti diperiksa.
+
+Pisahkan juga kewajiban menyediakan informasi dari kewajiban mengambil keputusan. Pemilik mungkin menyediakan data bangunan dan tujuan penggunaan, tetapi perancang yang ditunjuk perlu memeriksa kecukupan input. Pemasok dapat memberi datasheet dan batas produk, tetapi itu bukan persetujuan desain. Pelaksana dapat melaporkan kondisi lapangan, tetapi perubahan harus diputuskan melalui jalur revisi. Teman Besi.co.id, pembagian ini membuat rapat perubahan lebih jernih karena setiap pihak tahu informasi apa yang harus dibawa sebelum meminta persetujuan.
+
+Klaim keberlanjutan atau asal material memerlukan rantai identitas. ISO 22095 membedakan identitas fisik, neraca massa, dan klaim administratif; catatan perlu memuat karakteristik, batas sistem, input-output, transfer, pihak bertanggung jawab, dan pencegahan penghitungan ganda ([ISO 22095](https://www.iso.org/standard/72532.html), [Amandemen ISO 22095](https://www.iso.org/standard/90678.html), [pembaruan ISO 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)). [NEEDS GATE-04: klaim material dan dokumen serah-terima harus memiliki skema serta bukti yang jelas].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika pemasok mengusulkan profil pengganti karena stok kosong, jangan cukup menandai “disetujui lewat telepon”. Minta lembar data, dampak pada sambungan, revisi gambar, dan persetujuan pihak yang bertanggung jawab atas desain. Jika perubahan diterima, perbarui daftar material serta harga dan waktu secara tertulis.
+
+Jika sebagian bundel rusak sebelum ereksi, catat kondisi, lokasi, tanggal, foto, dan siapa yang menguasai barang. Kontrak harus menyebut apakah pemasok mengganti, memperbaiki, atau menunggu keputusan bersama; jangan menjadikan garansi sebagai jawaban otomatis. Teman Besi.co.id, bukti saat serah-terima sering lebih menentukan daripada perdebatan setelah penutup terpasang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menggabungkan desain, supply, dan ereksi dalam satu harga tanpa daftar keluaran. Kesalahan kedua adalah memakai kata “standar” tanpa edisi, ruang lingkup, atau dokumen yang berlaku. Kesalahan ketiga adalah menjanjikan garansi berdasarkan umur tahun tanpa menyebut kondisi penggunaan, perawatan, dan pengecualian. Kesalahan keempat adalah memperlakukan perubahan lapangan sebagai pekerjaan kecil yang tidak perlu revisi.
 
-## Objection or shortcut to address
+Buat pemeriksaan kontrak: setiap scope memiliki keluaran, kriteria, dokumen, pihak pemeriksa, waktu, dan jalur perubahan. Cocokkan nomor gambar dengan daftar material dan berita acara. Jika data belum cukup, tandai [NEEDS GATE-05: penerimaan dan garansi belum dapat diputuskan].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Periksa pula bahasa penerimaan sementara dan akhir. Penerimaan fisik barang tidak selalu berarti desain atau kinerja sistem telah diterima. Berita acara sebaiknya menyebut bagian yang diterima, pengecualian terbuka, dokumen yang masih kurang, dan tindakan berikutnya. Dengan begitu, pembayaran, garansi, dan pemeliharaan tidak bergantung pada satu tanda tangan yang maknanya tidak jelas.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah menyalin template kontrak lama lalu mengganti nama proyek. Template dapat melewatkan perubahan teknologi, kondisi lokasi, standar produk, atau pembagian risiko yang berbeda. Alternatifnya adalah melakukan sesi klarifikasi singkat berbasis matriks: apa yang disediakan, siapa memeriksa, bukti apa yang diterima, dan apa yang terjadi bila berubah.
 
-## Draft completion checklist
+Untuk konteks produk, Anda dapat melihat [hub Kanal C Galvalum](/kanal-c-galvalum); bila perlu mengirim spesifikasi atau pertanyaan scope, gunakan [halaman kontak](/kontak). Rute informasi produk tidak menggantikan negosiasi scope dan review dokumen kontrak.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Scope desain, supply, ereksi, garansi, dan perubahan kontrak harus dibagi melalui keluaran, bukti, otoritas, dan titik serah-terima yang jelas. Jangan mengandalkan slogan garansi atau asumsi bahwa satu pihak otomatis menanggung seluruh sistem.
+
+Langkah berikutnya, buat matriks tanggung jawab, lampirkan gambar serta daftar material, tetapkan aturan penerimaan dan perubahan, lalu minta review untuk [NEEDS GATE-07: kelengkapan dokumen kontrak] dan [NEEDS GATE-08: persetujuan teknis serta rekaman handover].
+
+Aturan operasionalnya: setiap janji kontrak harus dapat dijawab dengan “siapa, apa, kapan, berdasarkan dokumen mana, dan diterima oleh siapa”.

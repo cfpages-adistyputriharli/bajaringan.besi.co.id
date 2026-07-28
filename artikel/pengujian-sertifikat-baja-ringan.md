@@ -2,8 +2,9 @@
 article_id: LGS-13-05
 title: "Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?"
 slug: "pengujian-sertifikat-baja-ringan"
-description: "Separate material, coating, profile, fastener, assembly, and project evidence scopes"
-status: outline
+description: "Cara memisahkan bukti material, lapisan, profil, pengikat, perakitan, dan proyek saat membaca sertifikat baja ringan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -25,185 +26,83 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** `LOCAL-001`
+- **Source type:** `local`
+- **Placement:** setelah pembuka menjawab inti, sebelum H2 pertama
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Selection basis:** nama file dan metadata sumber dipakai sebagai label subjek; piksel tidak diperiksa.
+- **Hard boundary:** jangan menebak isi visual, kepemilikan proyek, lokasi, orang, merek, kondisi, performa, atau hasil.
+- **Substitution rule:** bila aset atau asalnya tidak lengkap, gunakan `[NEEDS IMAGE REVIEW: LOCAL-001]`.
+END MANAGED IMAGE PLAN -->
 
 # Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?
 
-## Assignment lock
+Halo, Teman Besi.co.id! Sertifikat sering diperlakukan sebagai stempel bahwa semua baja ringan yang datang pasti benar dan bangunan yang terpasang pasti aman. Padahal satu dokumen hanya menjawab pertanyaan tertentu: material apa yang diperiksa, sampelnya dari lot mana, metode apa yang dipakai, dan kapan hasil itu berlaku.
 
-- **Writer task:** Expand this file into one complete article answering: “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”
-- **Reader and situation:** Buyer/specifier
-- **Reader outcome:** Separate material, coating, profile, fastener, assembly, and project evidence scopes
-- **Primary intent:** Interpret evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No certification claim; LGS-14-02 owns supplier due diligence
-- **Final public route:** `/artikel/pengujian-sertifikat-baja-ringan.html`
-- **Appointed CMS date:** `2026-04-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: baca sertifikat berdasarkan ruang buktinya. Bukti material tidak otomatis membuktikan profil terpasang; hasil lapisan tidak membuktikan sambungan; laporan uji laboratorium tidak membuktikan seluruh lot; dan keberhasilan pengujian satu benda tidak membuktikan desain atau pekerjaan lapangan. Cocokkan setiap klaim dengan identitas barang, kriteria proyek, metode, serta rantai dokumen. Kesimpulan dapat berubah setelah pesanan, gambar, standar yang berlaku, dan rencana inspeksi proyek diperiksa; artikel ini bukan klaim sertifikasi atau pengganti review profesional.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-13-03` → `/artikel/verifikasi-material-baja-ringan-datang.html` — Verifikasi Dokumen dan Produk saat Material Datang
-- `LGS-13-04` → `/artikel/inspeksi-rangka-baja-ringan-terpasang.html` — Inspeksi Rangka Terpasang: Member, Fastener, Bracing, dan Interface
-- `LGS-13-06` → `/artikel/ncr-cacat-baja-ringan.html` — Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada perbedaan antara “produk diuji”, “dokumen diterbitkan”, dan “produk ini sesuai untuk proyek saya”. Dokumen inspeksi perlu ditautkan ke pesanan, produsen, produk, heat atau batch, dimensi, hasil uji, dan penandaan fisik; itulah inti yang dijelaskan dalam kerangka ISO 10474 ([ISO 10474](https://www.iso.org/standard/53736.html)). Jika nomor lot pada sertifikat tidak dapat ditemukan pada label atau catatan penerimaan, hubungan bukti terputus meskipun kertasnya terlihat resmi.
+
+Salah paham lain adalah mengira laboratorium terakreditasi otomatis menjamin hasilnya cocok untuk keputusan Anda. ISO/IEC 17025 membantu menilai kompetensi laboratorium, tetapi akreditasi tidak membuktikan bahwa benda tertentu berasal dari lot yang benar atau memenuhi kriteria kontrak ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)). Teman Besi.co.id, pertanyaan yang tepat bukan “ada sertifikat atau tidak?”, melainkan “klaim apa yang ditopang sertifikat ini, dan apa yang masih harus diperiksa?”
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Material berarti identitas dan sifat bahan dasar yang tercantum dalam pesanan atau dokumen inspeksi. Lapisan berarti perlindungan permukaan yang harus dikaitkan dengan produk dan prosesnya. Profil berarti bentuk, ukuran, tebal, dan orientasi penampang. Pengikat mencakup sekrup, baut, atau komponen lain yang memiliki identitas dan kriteria tersendiri. Perakitan berarti cara anggota dipotong, disambung, dan dipasang. Bukti proyek mencakup gambar, kondisi lapangan, inspeksi, dan keputusan yang menghubungkan semuanya.
+
+Enam ruang ini sengaja dipisahkan karena satu bukti jarang meliputi semuanya. Sertifikat bahan tidak menetapkan kapasitas rangka; hasil uji profil tidak menilai posisi pemasangan; dan foto pemasangan tidak menggantikan identitas heat atau batch. Artikel ini juga tidak menetapkan metode sertifikasi pemasok atau melakukan audit vendor; proses tuntas itu berada di ruang uji tuntas pemasok. [NEEDS GATE-01: klaim kesesuaian harus dipetakan ke persyaratan kontrak, gambar, dan standar proyek yang berlaku].
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan matriks bukti sederhana. Di kolom pertama tulis klaim yang ingin dibuktikan—misalnya “profil yang datang sesuai pesanan”. Kolom berikutnya memuat objek, identitas lot, dokumen sumber, metode pemeriksaan, kriteria pembanding, hasil, dan pihak yang berwenang memutuskan. Dengan begitu, Anda melihat bagian yang kosong sebelum menyatakan barang diterima.
+
+Untuk material, cocokkan nama produsen, kode produk, heat atau batch, dimensi, dokumen inspeksi, dan penandaan fisik. Untuk profil, cek bentuk serta ukuran di beberapa titik sesuai rencana, lalu tautkan hasilnya ke bundel dan nomor batang. Untuk lapisan, pastikan laporan menyebut benda dan metode yang benar; jangan mengubah satu angka dari lembar pemasok menjadi jaminan ketahanan di lingkungan proyek Anda.
+
+Untuk pengikat, pisahkan sertifikat bahan pengikat dari bukti pemasangan. Diameter atau mutu pada kotak tidak menunjukkan bahwa sekrup dipasang dengan pola, torsi, atau posisi yang benar. Bukti perakitan memerlukan gambar yang dipakai, alat atau metode kerja, pemeriksaan lokasi, dan catatan perubahan. [NEEDS GATE-02: kriteria penerimaan tiap ruang bukti harus ditetapkan di spesifikasi dan rencana inspeksi proyek].
+
+Jika sambungan las diperiksa dengan NDT (pengujian tak merusak), minta rekaman yang mengenali objek dan sambungan, metode serta prosedur, petugas, peralatan dan kalibrasi, permukaan dan akses, cakupan, sensitivitas, temuan, sumber kriteria, hasil, dan disposisi. ISO 17635 dan ISO 9712 memberi aturan umum serta kerangka kompetensi personel, bukan angka cakupan atau tingkat penerimaan yang dapat dipilih dari abstraknya ([ISO 17635](https://www.iso.org/standard/85705.html), [ISO 9712](https://www.iso.org/standard/75614.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Identitas fisik dapat berubah ketika bundel dipindah, label terlepas, atau lot berbeda dicampur. Catatan rantai penguasaan perlu menjelaskan karakteristik yang diklaim, batas sistem, rekaman masuk-keluar, aturan transfer, penanggung jawab, dan pencegahan penghitungan ganda. ISO 22095 membedakan model identitas fisik, neraca massa, dan klaim administratif; standar itu bersifat umum dan harus disesuaikan dengan skema proyek ([ISO 22095](https://www.iso.org/standard/72532.html), [Amandemen ISO 22095](https://www.iso.org/standard/90678.html), [pembaruan ISO 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)).
+
+Kondisi pengujian juga mengubah makna hasil. Permukaan yang tidak dapat diakses, alat yang belum dikalibrasi, prosedur berbeda, atau sampel yang dipilih karena paling mudah dijangkau dapat membuat kesimpulan tidak mewakili populasi. Rencana sampling harus mendefinisikan lot, karakteristik, metode, pemilihan dan identitas sampel, frekuensi atau ukuran, kriteria, aturan keputusan, tanggung jawab, dan rekaman. ISO 2859-1 dan ISO 28590 menjelaskan kerangka sampling atribut, tetapi tidak memberi izin untuk menyalin AQL atau ukuran sampel tanpa standar produk dan ITP (rencana inspeksi dan pengujian) proyek ([ISO 2859-1](https://www.iso.org/standard/85464.html), [ISO 28590](https://www.iso.org/standard/64622.html)).
+
+Perubahan lapangan pun penting. Profil dapat dipotong, dilubangi, atau dipasang pada kondisi yang berbeda dari gambar. Bukti material yang sah sebelum pemasangan tidak menjelaskan apakah elemen masih identik setelah diproses. Minta jejak perubahan, pengukuran terpasang, dan persetujuan revisi. [NEEDS GATE-03: dampak pemrosesan, kondisi lapangan, dan perubahan desain harus dinilai oleh pihak kompeten].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemasok mengirim bundel profil dengan sertifikat yang mencantumkan kode lot, tetapi label di lapangan hanya menampilkan kode produk. Jangan langsung menerima atau menolak. Tahan penggunaan bundel itu, foto penandaan, cocokkan jumlah dan dimensi, hubungi penerbit dokumen melalui jalur resmi, lalu minta pemasok menunjukkan bagaimana kode lot terhubung ke barang. Jika rantai identitas tidak dapat ditutup, keputusan sementaranya adalah karantina sampai otoritas proyek menetapkan disposisi.
+
+Pada kasus lain, laporan uji menyatakan permukaan memenuhi kriteria, tetapi beberapa batang di lokasi tampak tergores setelah dipindahkan. Hasil lama tetap berguna untuk kondisi saat diuji, namun tidak menjawab kondisi baru. Catat kerusakan, pisahkan batang terdampak, minta kriteria perbaikan atau penggantian, dan lakukan pemeriksaan ulang sesuai rencana. Jangan menghapus goresan lalu memakai laporan lama sebagai bukti kondisi akhir.
+
+Untuk rangka yang sudah terpasang, gambar dan sertifikat produk perlu dipasangkan dengan nomor elemen serta lokasi. Jika satu laporan hanya menyebut “profil baja ringan” tanpa identitas lot, dimensi, atau objek, mintalah klarifikasi sebelum memasukkannya ke paket serah-terima. [NEEDS GATE-04: kecukupan bukti untuk elemen terpasang dan batas penerapannya harus disetujui QA serta perancang].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap logo atau tanda tangan sebagai isi teknis. Periksa penerbit, ruang lingkup, tanggal, nomor dokumen, objek, lot, metode, hasil, kriteria, dan otorisasi laporan. Kesalahan kedua adalah menyamakan “terakreditasi” dengan “barang saya sesuai”. Tanyakan hubungan fisik dan administratif antara sampel, laporan, dan barang yang datang.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menambah pengujian acak ketika hasil pertama tidak disukai. Tes tambahan harus punya pertanyaan, metode, kriteria, dan aturan keputusan yang disetujui; kalau tidak, jumlah kertas bertambah tetapi kepastian tidak. Kesalahan keempat adalah menyimpulkan seluruh proyek dari satu profil atau satu sambungan. Tandai batas populasi dan ruang lingkup setiap hasil.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Buat pemeriksaan penutupan: setiap klaim memiliki sumber, identitas barang dapat ditelusuri, metode sesuai objek, hasil dibandingkan dengan kriteria yang benar, perubahan lapangan tercatat, dan pihak berwenang menandatangani keputusan. Jika satu kotak kosong, statusnya “bukti belum lengkap”, bukan “dianggap sesuai”.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering ditawarkan adalah meminta satu sertifikat umum lalu menggunakannya untuk material, lapisan, profil, pengikat, perakitan, dan kinerja rangka sekaligus. Ini gagal karena setiap klaim memiliki objek dan batas berbeda. Sertifikat umum dapat menjadi petunjuk awal, tetapi tidak menutup celah identitas, sampling, atau kondisi pemasangan.
 
-## Draft completion checklist
+Alternatif yang lebih aman adalah meminta paket bukti berlapis dan ringkasan satu halaman yang menyebut apa yang dibuktikan serta apa yang belum. Sobat Besi.co.id, ringkasan seperti ini memudahkan pembeli mengambil keputusan tanpa mengubah dokumen menjadi janji yang tidak pernah diuji. [NEEDS GATE-05: format paket bukti dan aturan pelepasan material harus disetujui proyek].
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Pengujian dan sertifikat baja ringan hanya bermakna jika ruang buktinya jelas. Pisahkan identitas material, lapisan, profil, pengikat, perakitan, dan bukti proyek; tautkan setiap hasil ke objek serta lot; baca metode dan kriterianya; lalu minta keputusan berwenang ketika ada celah.
+
+Langkah berikutnya, buat matriks klaim-bukti untuk pesanan Anda, kumpulkan dokumen penerbit dan catatan penerimaan, cocokkan penandaan fisik, dan minta QA atau perancang menutup [NEEDS GATE-07: keputusan akhir atas kelengkapan serta kesesuaian bukti]. Untuk memeriksa konteks produk rangka atau reng, Anda dapat melihat [hub Kanal C Galvalum](/kanal-c-galvalum) dan [hub Reng Galvalum](/reng-galvalum); bila data pemasok belum lengkap, gunakan [halaman kontak](/kontak) untuk mengirim dokumen yang ada, bukan meminta tebakan.
+
+Aturan operasionalnya: sebuah sertifikat membuktikan hanya klaim, objek, lot, metode, dan waktu yang benar-benar tertulis serta dapat ditelusuri; semua hal di luar itu masih menunggu bukti proyek dan review kompeten.

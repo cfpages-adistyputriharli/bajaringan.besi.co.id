@@ -2,8 +2,9 @@
 article_id: LGS-13-06
 title: "Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi"
 slug: "ncr-cacat-baja-ringan"
-description: "Classify observation, isolate risk, gather evidence, obtain engineering decision, repair/reject, and close"
-status: outline
+description: "Cara mencatat gejala, membatasi risiko, mengumpulkan bukti, meminta keputusan teknis, dan menutup laporan ketidaksesuaian baja ringan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -25,184 +26,85 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** `LOCAL-001`
+- **Source type:** `local`
+- **Placement:** setelah pembuka menjawab inti, sebelum H2 pertama
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Selection basis:** nama file dan metadata sumber dipakai sebagai label subjek; piksel tidak diperiksa.
+- **Hard boundary:** jangan menebak isi visual, kepemilikan proyek, lokasi, orang, merek, kondisi, performa, atau hasil.
+- **Substitution rule:** bila aset atau asalnya tidak lengkap, gunakan `[NEEDS IMAGE REVIEW: LOCAL-001]`.
+END MANAGED IMAGE PLAN -->
 
 # Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi
 
-## Assignment lock
+Halo, Teman Besi.co.id! Ketika tim melihat lubang salah posisi, profil penyok, lapisan terkelupas, atau sertifikat yang tidak cocok, godaan pertama biasanya langsung menebak penyebab dan menyuruh tukang memperbaiki. Itu justru dapat menghapus bukti dan membuat keputusan berikutnya makin kabur. Perlakukan temuan sebagai gejala yang harus dicatat, dibatasi risikonya, lalu diputuskan melalui NCR (laporan ketidaksesuaian) yang dapat ditelusuri.
 
-- **Writer task:** Expand this file into one complete article answering: “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”
-- **Reader and situation:** QA/site team
-- **Reader outcome:** Classify observation, isolate risk, gather evidence, obtain engineering decision, repair/reject, and close
-- **Primary intent:** Manage defect
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No remote safe verdict or unauthorized repair; LGS-17-04 owns repair evidence
-- **Final public route:** `/artikel/ncr-cacat-baja-ringan.html`
-- **Appointed CMS date:** `2026-04-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: jangan menyatakan “cacat” atau “aman” hanya dari foto. Catat apa yang terlihat, di mana dan kapan ditemukan, apa yang berubah, serta bagian mana yang terpengaruh; kendalikan akses atau pekerjaan bila ada risiko; cocokkan identitas material dan dokumen; pilih pemeriksaan yang disetujui; kemudian minta otoritas proyek menetapkan disposisi—diterima dengan alasan, diperbaiki, diganti, atau ditolak. Kesimpulan bisa berubah setelah kriteria kontrak, gambar, beban, metode inspeksi, dan hasil pemeriksaan kompeten tersedia. Artikel ini bukan izin untuk memberi vonis jarak jauh atau memperbaiki tanpa persetujuan.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-13-04` → `/artikel/inspeksi-rangka-baja-ringan-terpasang.html` — Inspeksi Rangka Terpasang: Member, Fastener, Bracing, dan Interface
-- `LGS-13-05` → `/artikel/pengujian-sertifikat-baja-ringan.html` — Pengujian dan Sertifikat Baja Ringan: Apa yang Sebenarnya Dibuktikan?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu catatan awal harus menjawab lima pertanyaan: apa yang terlihat atau terukur, di lokasi mana, kapan ditemukan, pada tahap apa, dan siapa yang mengamati. Tulis “lubang berjarak berbeda dari gambar pada batang B-17 di sisi timur, ditemukan saat pemeriksaan sebelum penutup” lebih berguna daripada “pemasangan jelek”. Sertakan foto dengan penanda lokasi, ukuran alat yang dipakai, nomor elemen, dan kondisi akses. Jangan menggosok permukaan, mengecat ulang, atau memotong bagian temuan sebelum bukti dasar disalin.
+
+Pisahkan observasi dari interpretasi. “Lapisan terlihat tergores” adalah observasi; “perlindungan korosi gagal” adalah dugaan yang masih memerlukan pemeriksaan. Jika dokumen material datang belakangan, catat sebagai fakta waktu: barang sudah terpasang sebelum identitasnya diverifikasi. Teman Besi.co.id, disiplin kecil ini mencegah perdebatan ingatan ketika pemasok, pelaksana, dan pengawas membaca kejadian yang sama.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tidak semua deviasi memerlukan tindakan yang sama, tetapi setiap temuan memerlukan keputusan tentang pekerjaan yang sedang berjalan. Bila elemen tampak kehilangan tumpuan, berubah bentuk, retak, longgar, atau berpotensi jatuh, batasi akses dan hentikan aktivitas di area terkait sampai orang berwenang menilai. Bila isu hanya pada label dokumen dan elemen belum dipakai, karantina fisik dan administratif mungkin lebih tepat daripada membongkar instalasi. Bentuk pengendalian sementara harus mengikuti rencana keselamatan dan keputusan proyek, bukan instruksi umum dari internet.
+
+Gunakan kalimat yang jelas di NCR: “pekerjaan di zona X ditahan sampai verifikasi identitas dan pemeriksaan sambungan selesai.” Jangan menulis “aman untuk dilanjutkan” jika Anda bukan pihak yang memiliki kewenangan dan data. [NEEDS GATE-01: tingkat risiko, kebutuhan isolasi, dan otoritas penghentian harus dikonfirmasi pada proyek].
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah gejala tercatat dan risiko dibatasi, kelompokkan kemungkinan mekanisme tanpa mengunci diagnosis. Deviasi geometri dapat berasal dari data ukur yang berubah, toleransi tumpuan, urutan pemasangan, atau perubahan gambar. Kerusakan lapisan dapat terkait penanganan, penyimpanan, pemotongan, atau kondisi lingkungan. Lubang atau sambungan yang tidak sesuai dapat berasal dari detail yang keliru, alat, atau pekerjaan ulang yang tidak terdokumentasi.
+
+Untuk identitas material, selisih dapat muncul karena lot tercampur, label lepas, dokumen salah kirim, atau klaim rantai pasok yang tidak jelas. ISO 10474 menekankan bahwa dokumen inspeksi perlu direkonsiliasi dengan pesanan, produsen, produk, heat atau batch, dimensi, hasil uji, dan penandaan fisik ([ISO 10474](https://www.iso.org/standard/53736.html)). Itu bukan bukti otomatis bahwa barang terpasang sudah sesuai; identitas dan kesesuaian adalah dua pertanyaan berbeda.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan aman biasanya dimulai dari dokumen dan pemeriksaan visual, lalu pengukuran non-destruktif, dan hanya kemudian pengujian atau pembongkaran yang disetujui. Kumpulkan gambar revisi terakhir, instruksi kerja, daftar material, catatan penerimaan, foto pemasangan, dan riwayat perubahan. Cocokkan nomor elemen dengan lokasi aktual sebelum memesan tes. Jika laboratorium terlibat, akreditasi atau kompetensi membantu menilai kepercayaan pada hasil, tetapi tidak membuktikan item tertentu otomatis memenuhi syarat ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)).
+
+Untuk sambungan las, catatan NDT (pengujian tak merusak) yang dapat dipertanggungjawabkan menyebut objek dan sambungan, metode, prosedur, petugas, peralatan dan kalibrasi, akses permukaan, cakupan, sensitivitas, temuan, sumber kriteria, hasil, serta disposisi. ISO 17635 dan ISO 9712 memberi kerangka umum tentang aturan NDT dan kompetensi personel, bukan resep memilih metode atau jumlah pemeriksaan untuk proyek Anda ([ISO 17635](https://www.iso.org/standard/85705.html), [ISO 9712](https://www.iso.org/standard/75614.html)). [NEEDS GATE-02: metode, cakupan, kriteria penerimaan, dan personel NDT wajib ditetapkan dalam rencana inspeksi yang disetujui].
+
+Untuk inspeksi penerimaan atau sampling, jangan mengambil satu batang yang mudah dijangkau lalu menyimpulkan seluruh lot. Rencana harus mendefinisikan populasi, karakteristik, metode, pemilihan sampel, identitas sampel, frekuensi atau ukuran, kriteria, aturan keputusan, tanggung jawab, dan jalur NCR. ISO 2859-1 dan ISO 28590 menjelaskan kerangka sampling atribut, tetapi abstrak publik tidak memberi angka sampel atau AQL yang boleh langsung dipakai ([ISO 2859-1](https://www.iso.org/standard/85464.html), [ISO 28590](https://www.iso.org/standard/64622.html)).
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan hanya menjawab pertanyaan yang memang diuji. Foto menunjukkan kondisi permukaan saat itu; pengukuran menunjukkan nilai pada lokasi dan alat tertentu; laporan NDT menunjukkan indikasi menurut metode dan kriteria yang dipakai. Tidak satu pun otomatis menjelaskan akar penyebab, kapasitas terpasang, atau akibat terhadap seluruh bangunan.
+
+Baca empat lapisan secara terpisah: hasil, kriteria pembanding, konsekuensi teknis, dan otoritas keputusan. “Tidak ada indikasi pada area yang diperiksa” bukan “seluruh elemen bebas cacat”. “Dokumen laboratorium sah” bukan “material ini pasti lot yang terpasang”. Catatan rantai penguasaan material juga perlu menjelaskan karakteristik yang diklaim, batas sistem, rekaman masuk-keluar, aturan transfer, pihak bertanggung jawab, dan pencegahan penghitungan ganda; ISO 22095 membedakan model identitas fisik, neraca massa, dan klaim administratif ([ISO 22095](https://www.iso.org/standard/72532.html), [Amandemen ISO 22095](https://www.iso.org/standard/90678.html), [pembaruan ISO 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)).
+
+Jika bukti saling bertentangan, jangan memilih hasil yang paling menyenangkan. Tandai rantai identitas putus, ulangi pemeriksaan sesuai rencana, dan eskalasikan. [NEEDS GATE-03: kriteria proyek dan keputusan teknis atas hasil yang berbeda harus disahkan oleh pihak berwenang].
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Deviasi dan Cacat Baja Ringan: NCR hingga Disposisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Disposisi bukan sinonim perbaikan. Penerimaan dengan alasan memerlukan bukti bahwa deviasi masih memenuhi kriteria dan ada otoritas yang menyetujuinya. Perbaikan memerlukan metode, batas area, pemeriksaan ulang, dan pembaruan dokumen. Penggantian memerlukan identitas lot baru serta pemeriksaan penerimaan. Penolakan memerlukan pemisahan barang dan rute pengembalian atau pembuangan yang tercatat.
 
-## Objection or shortcut to address
+Kontrol sementara, seperti pembatasan akses atau penyanggaan yang dirancang, harus dicatat sebagai tindakan sementara dengan penanggung jawab dan batas waktu. Jangan mengebor ulang, mengelas tambahan, meluruskan paksa, atau menutup permukaan hanya agar foto terlihat rapi. LGS-17-04 memiliki ruang khusus untuk bukti perbaikan; artikel ini berhenti pada keputusan dan pengendalian awal. [NEEDS GATE-04: disposisi dan metode tindakan harus berasal dari review proyek, bukan keputusan penulis NCR].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dipilih
 
-## Required conclusion
+Jalan pintas yang paling umum adalah menutup NCR setelah foto “sesudah” terlihat baik. Cara itu gagal bila tidak ada hubungan antara elemen awal, material pengganti, metode tindakan, pemeriksaan ulang, dan persetujuan. Foto baru dapat menyembunyikan masalah lama dan tidak membuktikan bagian yang tertutup.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatifnya adalah memakai daftar penutupan: nomor NCR dan lokasi, deskripsi awal, bukti identitas, keputusan tertulis, rekaman tindakan, hasil verifikasi ulang, gambar atau daftar material yang diperbarui, serta tanda otoritas yang menutup. Kawan Besi.co.id, penutupan yang rapi bukan birokrasi tambahan; itu yang membuat tim berikutnya tahu apa yang benar-benar berubah.
 
-## Draft completion checklist
+Ambil contoh sederhana: saat penerimaan, satu bundel profil tampak memiliki tanda yang berbeda dari daftar material. Jangan langsung menyatakan barang palsu atau menolak seluruh pengiriman. Pisahkan bundel itu, catat label, ukur beberapa dimensi sesuai rencana, minta dokumen inspeksi, dan cocokkan nomor lot dengan pesanan. Jika identitas tetap tidak tersambung, keputusan sementara adalah menahan penggunaan, bukan menyimpulkan mutu dari tampilan. Jika dokumen cocok tetapi ada penyok pada beberapa batang, buat NCR terpisah untuk kondisi fisik agar isu identitas dan isu kerusakan tidak bercampur.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pada pekerjaan terpasang, misalnya lubang sambungan terlihat lebih besar dari detail, catat elemen dan sambungan yang terpengaruh, hentikan penutupan area itu, lalu minta pemeriksa menentukan apakah perlu pengukuran tambahan atau pemeriksaan NDT. Jangan memperbesar lubang lain agar tampak seragam. Perubahan kecil pada satu sambungan dapat memerlukan pemeriksaan elemen yang menerima gaya serupa; batas pemeriksaan itu harus muncul di keputusan tertulis, bukan tersirat dari kebiasaan tukang.
+
+Setiap NCR juga sebaiknya punya tanggal jatuh tempo dan pemilik tindakan. Pemilik bukan berarti orang yang otomatis disalahkan; ia adalah pihak yang memastikan bukti dan keputusan bergerak sampai selesai. Pengawas memeriksa bukti, perancang menjawab konsekuensi teknis ketika diperlukan, dan QA menjaga bahwa versi dokumen yang dipakai memang versi yang disetujui. Pembagian peran ini perlu disesuaikan dengan kontrak proyek, sehingga [NEEDS GATE-05: penanggung jawab dan jalur persetujuan NCR] tidak boleh diisi dengan asumsi umum.
+
+Simpan juga jejak versi. Lampirkan gambar yang dipakai ketika temuan dibuat, bukan hanya gambar revisi terakhir. Beri nama berkas yang menghubungkan foto, hasil ukur, laporan laboratorium, dan keputusan ke nomor NCR yang sama. Saat paket diserahkan, pembaca baru harus bisa mengikuti urutannya tanpa membuka percakapan pribadi atau menebak file mana yang berlaku. Bila ada dokumen pemasok yang dikoreksi, simpan versi lama sebagai rekaman dan tandai mana yang menggantikannya; jangan menimpa bukti awal.
+
+## Kesimpulan dan langkah berikutnya
+
+Kelola deviasi dan cacat baja ringan dari gejala menuju disposisi, bukan dari tebakan menuju perbaikan cepat. Catat kondisi dan identitas, batasi risiko, susun mekanisme yang masih mungkin, pilih pemeriksaan sesuai rencana, baca hasil bersama kriterianya, lalu minta keputusan penerimaan, perbaikan, penggantian, atau penolakan dari otoritas proyek.
+
+Siapkan satu paket NCR berisi foto berpenanda, lokasi, waktu, gambar revisi, dokumen material, catatan pemeriksaan, hasil tes, dan keputusan yang belum tertutup. Minta review untuk [NEEDS GATE-05: status kesesuaian akhir dan dampak pada elemen terkait] serta [NEEDS GATE-07: kelengkapan bukti penutupan dan serah-terima]. Jika Anda membutuhkan konteks produk sebelum verifikasi, lihat [hub Kanal C Galvalum](/kanal-c-galvalum) atau sampaikan dokumen yang tersedia melalui [halaman kontak](/kontak); jangan meminta pengganti data dengan tebakan.
+
+Aturan operasionalnya: NCR boleh ditutup hanya ketika kondisi awal dapat ditelusuri, keputusan memiliki kriteria dan otoritas yang jelas, tindakan telah diverifikasi, dan bukti serah-terima tidak menyisakan pertanyaan penting.

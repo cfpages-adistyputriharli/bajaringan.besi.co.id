@@ -3,7 +3,7 @@ article_id: LGS-07-06
 title: "Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil"
 slug: "perubahan-fastener-baja-ringan"
 description: "Show effects on force path, spacing, holes, corrosion, and records"
-status: outline
+status: draft
 publication_date: "2025-11-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,199 +13,85 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/perubahan-fastener-baja-ringan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Menambah satu sekrup atau mengganti sekrup yang terasa longgar tampak seperti pekerjaan kecil. Padahal, setiap pengikat mengubah cara gaya berpindah, posisi lubang, tekanan pada lembaran, risiko korosi, dan catatan pekerjaan. Karena itu, perubahan harus diperiksa terhadap gambar dan spesifikasi, bukan diputuskan dari stok sekrup yang kebetulan tersedia.
 
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”
-- **Reader and situation:** Site team
-- **Reader outcome:** Show effects on force path, spacing, holes, corrosion, and records
-- **Primary intent:** Escalate modification
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No field substitution; LGS-05-06 owns change approval
-- **Final public route:** `/artikel/perubahan-fastener-baja-ringan.html`
-- **Appointed CMS date:** `2025-11-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: hentikan perubahan spontan, identifikasi sambungan dan pengikat yang terdampak, lalu minta peninjauan teknis sebelum mengebor atau melepas. Hasilnya dapat berbeda menurut profil, ketebalan, jenis sekrup, jarak, beban, kondisi lapisan, dan tahap pekerjaan. Artikel ini menjelaskan alasan eskalasi; bukan persetujuan substitusi lapangan.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-07-04` → `/artikel/overdriving-sekrup-baja-ringan.html` — Setting Alat Pemasang Sekrup dan Risiko Overdriving
-- `LGS-07-05` → `/artikel/kompatibilitas-fastener-dan-profil.html` — Kompatibilitas Korosi Fastener, Washer, dan Profil
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<p><em>Aset lokal proyek; bukan dokumentasi proyek tertentu.</em></p>
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sekrup bukan hanya “paku berulir”. Ia membentuk sambungan dengan lubang, washer bila digunakan, profil yang dijepit, dan gaya yang harus diteruskan. Menambah pengikat tidak otomatis menggandakan kapasitas; lubang tambahan dapat melemahkan penampang atau membuat jarak tepi tidak memadai. Mengganti ukuran atau bahan juga dapat mengubah kecocokan ulir, tekanan kepala, dan ketahanan terhadap lingkungan.
+
+Rekaman publik tentang PP 16/2021 dan SNI 1729:2020, SNI 8369:2020, serta SNI 7971:2013 membantu menemukan lapisan aturan dan desain, tetapi halaman tersebut bukan perhitungan sambungan proyek ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021); [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)). [NEEDS GATE-01: pastikan gambar dan spesifikasi sambungan yang berlaku sebelum perubahan.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas adalah pengikat pada sambungan baja ringan atau komponen terkait: sekrup yang ditambah, dilepas, dipindah, atau diganti. Tidak dibahas keputusan memilih sekrup pengganti, menghitung kapasitas, atau menyatakan pekerjaan aman tanpa data proyek. Jika kebutuhan Anda berkaitan dengan profil kanal, kenali konteks produknya di [hub Kanal C Galvalum](/kanal-c-galvalum), lalu kembali ke gambar sambungan yang sebenarnya.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gaya dari penutup, rangka, angin, atau beban lain mengalir melalui elemen ke sambungan, lalu ke elemen berikutnya. Sekrup membantu menahan tarik, geser, atau kecenderungan lembaran terlepas, sesuai rancangan. Menambah sekrup memindahkan pembagian gaya, tetapi distribusinya dipengaruhi kekakuan lembaran, urutan pemasangan, kualitas lubang, dan jarak antar pengikat.
+
+Jika sekrup dilepas, lubang lama tetap menjadi kondisi material. Jika lubang baru dibuat terlalu dekat, dua lubang dapat mengurangi luas efektif atau memicu robekan. Kepala yang menekan berlebihan bisa merusak lapisan; kepala yang kurang menjepit dapat meninggalkan celah. Dampaknya tidak terlihat dari jumlah sekrup saja.
+
+Untuk pekerjaan yang melibatkan las atau modifikasi fabrikasi, rantai mutu harus mencakup persyaratan, koordinasi, prosedur, personel, peralatan, inspeksi, dan rekaman. ISO 3834-2, ISO 14731, dan ISO 17662 menunjukkan mengapa pemeriksaan akhir tidak dapat merekonstruksi proses yang tidak dikendalikan ([ISO 3834-2](https://www.iso.org/standard/81651.html); [ISO 14731](https://www.iso.org/standard/68893.html)). Sekrup tambahan tidak menghapus kebutuhan dokumentasi perubahan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Periksa lima kelompok faktor. Pertama, geometri: profil, tebal, jarak tepi, arah gaya, dan akses alat. Kedua, pengikat: diameter, panjang, bahan, kepala, washer, lapisan, dan kecocokan dengan material. Ketiga, lingkungan: kelembapan, garam, bahan kimia, dan logam berbeda yang dapat mempercepat korosi. Keempat, pelaksanaan: alat, tegak lurus, torsi atau tekanan yang dipersyaratkan, dan urutan kerja. Kelima, rekaman: nomor revisi gambar, lokasi perubahan, foto, inspeksi, dan siapa yang menyetujui.
+
+NDT atau pemeriksaan tak merusak tidak otomatis memberi izin perubahan. ISO 17635 dan ISO 9712 menekankan identitas objek, metode, prosedur, personel, peralatan, cakupan, temuan, kriteria, hasil, dan disposisi ([ISO 17635](https://www.iso.org/standard/85705.html); [ISO 9712](https://www.iso.org/standard/75614.html)). [NEEDS GATE-02: tetapkan metode dan kriteria pemeriksaan dari rencana proyek, bukan dari label “sudah dites”.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan satu sekrup hilang pada sambungan rangka. Status awalnya bukan “tinggal tambah”, melainkan “sambungan perlu identifikasi”. Cocokkan lokasi dengan gambar, cek apakah lubang rusak, catat ukuran dan kondisi sekrup yang ada, lalu karantina pekerjaan bila perubahan dapat memengaruhi jalur gaya. Peninjau kemudian menentukan apakah cukup mengganti sesuai spesifikasi, memperbaiki material, atau membuka pemeriksaan lebih luas.
+
+Untuk sekrup berkarat, dokumentasikan sumber kelembapan dan kondisi profil. Mengganti sekrup dengan bahan berbeda tanpa memeriksa kompatibilitas dapat memindahkan masalah ke korosi kontak atau merusak lapisan. [NEEDS GATE-04: keputusan penggantian dan dampak sambungan harus disetujui pihak berwenang.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Menambah atau Mengganti Sekrup Bukan Perubahan Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai ukuran dari proyek lain. Kedua, menganggap lebih banyak sekrup selalu lebih kuat. Ketiga, mengebor ulang tanpa mencatat lubang lama. Keempat, menutup kepala sekrup dengan cat sebelum inspeksi. Kelima, mengandalkan foto tanpa nomor lokasi atau revisi gambar.
 
-## Objection or shortcut to address
+Gunakan daftar periksa: identitas sambungan, alasan perubahan, gambar revisi, spesifikasi pengikat, kondisi material, risiko korosi, metode pemasangan, pemeriksaan, foto sebelum-sesudah, dan persetujuan. Simpan daftar ini bersama berita acara. Bila perubahan berkaitan dengan pekerjaan di ketinggian atau alat angkat, ikuti penilaian risiko dan aturan K3 yang berlaku; Permenaker 9/2016 memberi rujukan lingkup kerja di ketinggian, bukan izin otomatis untuk metode tertentu ([Permenaker 9/2016](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Catatan yang rapi juga membantu tim berikutnya memahami mengapa keputusan diambil. Tulis kondisi awal, opsi yang dipertimbangkan, alasan opsi dipilih, dan siapa yang memverifikasi. Simpan nomor revisi gambar dan tanggal pemeriksaan secara konsisten. Jika ada bagian yang tidak dapat dilihat karena tertutup, catat sebagai batas inspeksi, bukan sebagai kondisi baik. Dengan cara ini, pekerjaan tidak bergantung pada ingatan orang yang kebetulan berada di lokasi.
 
-## Required conclusion
+## Jalan pintas yang sering dicoba
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah membawa kotak sekrup ke lokasi dan menambah beberapa buah sampai sambungan terlihat rapat. Cara ini gagal karena penyebab masalah bisa berupa profil salah posisi, lubang robek, beban tak sesuai, atau korosi tersembunyi. Tampilan rapat hanya membuktikan kepala menekan permukaan, bukan bahwa jalur gaya kembali seperti rancangan.
 
-## Draft completion checklist
+Alternatifnya, hentikan pekerjaan, tandai lokasi, kumpulkan bukti, dan ajukan permintaan perubahan tertulis. Kawan Besi.co.id, pertanyaan yang tepat bukan “sekrup apa yang ada?”, tetapi “sambungan apa yang harus dipulihkan, bukti apa yang diperlukan, dan siapa yang berwenang menyetujuinya?”
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: perlakukan pengikat sebagai bagian sistem
+
+Menambah atau mengganti sekrup bukan perubahan kecil karena memengaruhi jalur gaya, lubang, jarak, lapisan, korosi, pelaksanaan, dan rekaman. Keputusan yang benar bergantung pada gambar, spesifikasi, kondisi aktual, serta peninjauan kompeten—bukan jumlah pengikat yang terlihat.
+
+Langkah berikutnya adalah membuat catatan perubahan berisi lokasi, alasan, identitas pengikat, foto, gambar revisi, pemeriksaan, dan persetujuan. Untuk menyampaikan kebutuhan produk atau klarifikasi dokumen, gunakan [halaman kontak](/kontak). [NEEDS GATE-05: jangan lepaskan pekerjaan atau menutup perubahan sebelum persetujuan proyek dan rekaman penerimaan lengkap.] Teman Besi.co.id, pegang aturan ini: bila sebuah sekrup mengubah sambungan, perlakukan ia sebagai perubahan sistem.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

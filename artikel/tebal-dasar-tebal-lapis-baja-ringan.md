@@ -2,8 +2,9 @@
 article_id: LGS-02-02
 title: "Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?"
 slug: "tebal-dasar-tebal-lapis-baja-ringan"
-description: "Separate thickness bases and measurement context"
-status: outline
+description: "Panduan membedakan ketebalan dasar baja, lapisan pelindung, dan hasil ukur saat membandingkan produk baja ringan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,193 +20,75 @@ sources:
   - "https://www.iso.org/standard/89449.html"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Saat membandingkan dua produk baja ringan, angka ketebalan yang tampak sama belum tentu berbicara tentang hal yang sama. Satu penjual dapat menulis tebal dasar, penjual lain menulis tebal lapis, sementara alat ukur di gudang menghasilkan tebal terukur. Jika tiga istilah ini dicampur, Anda bisa memilih material yang tidak sesuai dokumen pembelian atau salah membaca hasil pemeriksaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”
-- **Reader and situation:** Buyer comparing products
-- **Reader outcome:** Separate thickness bases and measurement context
-- **Primary intent:** Understand thickness
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal minimum; exact product evidence governs
-- **Final public route:** `/artikel/tebal-dasar-tebal-lapis-baja-ringan.html`
-- **Appointed CMS date:** `2025-07-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tebal dasar adalah ketebalan baja sebelum lapisan pelindung diperhitungkan; tebal lapis biasanya menyatakan ketebalan baja bersama lapisan pada permukaan; tebal terukur adalah angka yang benar-benar terbaca dari metode dan titik ukur tertentu. Tidak ada satu angka “paling benar” untuk semua produk. Acuan yang mengikat adalah spesifikasi produk, cara ukur yang disepakati, dan dokumen pesanan. Catatan standar hanya membantu mengenali identitas dan ruang lingkupnya, bukan menggantikan pemeriksaan produk.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi material baja ringan dari aset lokal situs, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-02-01` → `/artikel/membaca-data-material-baja-ringan.html` — Cara Membaca Data Material Baja Ringan
-- `LGS-02-03` → `/artikel/cara-mengukur-tebal-baja-ringan.html` — Mengukur Tebal Baja Ringan: Alat, Titik, dan Keterbatasan
-- `LGS-02-04` → `/artikel/sifat-mekanik-baja-tipis.html` — Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001; source type: local; placement: after opening; **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+Caption: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.; selection basis: filename/source metadata only; hard boundary: do not infer visual details; substitution rule: if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan lembar atau profil baja tipis yang sudah diberi pelapis untuk membantu melindungi permukaannya. Ada badan baja, ada lapisan di satu atau dua sisi, dan ada cara membaca keseluruhan penampang. Tebal dasar merujuk pada badan bajanya saja. Tebal lapis memasukkan badan dan lapisan yang melekat, tetapi arti tepatnya tetap harus mengikuti istilah pada lembar data atau standar produk. Tebal terukur bukan nama mutu; ia adalah hasil observasi dengan alat, gaya tekan, lokasi, arah, dan kondisi permukaan tertentu.
+
+Batas ini penting karena artikel ini tidak menetapkan batas minimum universal, tidak menentukan kapasitas struktur, dan tidak memilih merek. Standar produk untuk profil, produk datar, atau komponen lain bisa berada pada keluarga yang berbeda. Katalog BSN menampilkan banyak bidang dan edisi; status “berlaku” pada satu catatan tidak otomatis menjadikannya acuan untuk setiap jenis baja ringan. Periksa catatan produk yang benar dan dokumen pemasok sebelum menerima barang ([katalog profil baja](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [katalog produk baja datar](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=)). Untuk melihat konteks produk di situs ini, mulai dari [beranda Besi.co.id](/) lalu buka [kanal C galvanum](/kanal-c-galvalum) atau [reng galvanum](/reng-galvalum) bila profil yang Anda bandingkan termasuk keluarga tersebut.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan membaca ketebalan dimulai dari pertanyaan: angka ini mendeskripsikan apa? Jika tertulis tebal dasar, tanyakan apakah lapisan dikeluarkan dari definisi dan bagaimana penentuannya. Jika tertulis tebal lapis, tanyakan apakah angka itu merupakan total penampang atau istilah dagang yang punya definisi khusus. Terakhir, cocokkan dengan tebal terukur: alat dan metode harus mampu membaca objek yang sama, pada titik yang mewakili, dengan kondisi permukaan yang dicatat.
+
+Hasil ukur dapat berbeda tanpa berarti salah satu pihak berbohong. Pengukuran di dekat lipatan profil, tepi potongan, goresan, atau tumpukan lapisan yang tidak rata tidak menggambarkan bagian lain. Alat yang menekan permukaan juga dapat memberikan angka berbeda dari metode laboratorium atau pengukuran pada benda uji yang disiapkan. ISO 6892-1 menjelaskan kerangka pengujian tarik pada suhu ruang, sedangkan ISO 377 menjelaskan pemilihan benda uji; keduanya menunjukkan bahwa hasil pengujian selalu terkait asal, orientasi, persiapan, kondisi, dan identitas benda uji, bukan sekadar satu angka lepas ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html), [ISO 377:2017](https://www.iso.org/standard/72529.html), [amendemen ISO 377](https://www.iso.org/standard/89449.html)).
+
+Karena itu, catat tiga hal dalam berita acara penerimaan: istilah ketebalan yang diminta, cara dan titik ukur, serta dokumen yang menghubungkan hasil tersebut dengan lot atau identitas produk. Sertifikat material, lembar data, dan hasil ukur lapangan saling melengkapi; satu dokumen tidak otomatis membuktikan kesesuaian seluruh stok.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, bentuk produk mengubah cara angka dibaca. Profil kanal, reng, atau lembar datar memiliki bagian datar dan lipatan dengan akses alat yang berbeda. Kedua, lapisan pelindung dapat menambah ketebalan total sekaligus mengubah kondisi permukaan. Jangan mengurangi angka dengan perkiraan sendiri untuk “mencari” tebal dasar; minta definisi pengukuran dari pemasok atau laboratorium.
+
+Ketiga, suhu, kebersihan, karat, cat tambahan, dan tekanan alat dapat memengaruhi pembacaan. Keempat, lokasi pengukuran mungkin tidak mewakili seluruh panjang. Kelima, toleransi dan aturan pembulatan hanya boleh diambil dari spesifikasi produk yang berlaku. ISO 4200 dan ASME B36.10 menunjukkan bahwa tabel dimensi dan massa teoritis bergantung pada geometri, panjang, asumsi kerapatan, serta aturan pembulatan; angka tabel bukan pengganti penimbangan atau pengukuran penerimaan aktual.
+
+Untuk proyek bangunan, ketebalan hanyalah satu bagian dari bukti. Peraturan, standar desain, sambungan, stabilitas, jalur beban, kondisi api, dan perubahan lapangan memerlukan data proyek serta peninjauan kompeten. Catatan BSN untuk SNI 1729:2020, SNI 8369:2020, dan SNI 7971:2013 membantu menemukan identitas dokumen, tetapi tidak memberikan persetujuan desain untuk produk tertentu ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)). [NEEDS GATE-01: spesifikasi produk dan edisi acuan yang mengikat proyek ini perlu dikonfirmasi.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan penawaran A menulis “0,75 mm tebal dasar”, sedangkan penawaran B menulis “0,75 mm tebal lapis”. Jangan menyimpulkan keduanya setara. Minta penjual A menjelaskan apakah lapisan dikeluarkan dari angka dan minta penjual B menyebutkan definisi total penampangnya. Setelah itu, cocokkan metode ukur yang tercantum dengan alat penerimaan Anda. Jika definisinya berbeda, bandingkan kembali menggunakan satu basis yang sama atau minta revisi dokumen penawaran.
+
+Contoh kedua: alat di gudang membaca angka lebih kecil pada satu sisi profil. Berhenti dulu sebelum menolak satu bundel. Pastikan titik ukur, kebersihan, arah alat, dan identitas lot dicatat; ulangi pada beberapa lokasi yang disepakati. Bila hasil tetap tidak cocok, kirim sampel dan dokumen ke pihak pemeriksa yang ruang lingkupnya sesuai. Sobat Besi.co.id, keputusan ini mungkin terasa lebih lambat, tetapi jauh lebih aman daripada mengubah istilah setelah barang terpasang.
+
+Gunakan tabel sederhana berikut saat meminta klarifikasi:
+
+| Pertanyaan | Mengapa perlu |
+| --- | --- |
+| Angka menyatakan tebal dasar atau tebal total dengan lapisan? | Menyamakan basis perbandingan. |
+| Metode, alat, titik, dan kondisi ukur apa yang dipakai? | Menilai apakah hasil dapat diulang. |
+| Dokumen mana yang mengikat dan edisinya apa? | Mencegah memakai acuan yang keliru. |
+| Lot, tanggal, dan identitas produk tercatat di mana? | Menghubungkan hasil dengan barang nyata. |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap angka terbesar selalu paling kuat. Ketebalan berbeda dapat datang bersama mutu baja, bentuk penampang, dan lapisan yang berbeda; kapasitas tidak boleh disimpulkan dari angka tebal saja. Kesalahan kedua adalah memakai alat ukur sebagai hakim tunggal tanpa menyimpan cara dan titik ukurnya. Kesalahan ketiga adalah menyalin tabel standar dari produk lain karena namanya mirip. Katalog BSN sendiri memisahkan keluarga produk dan dapat memuat beberapa edisi, sehingga identitas dokumen harus dikunci lebih dulu.
 
-## Objection or shortcut to address
+Kesalahan keempat adalah menganggap sertifikat satu sampel mewakili semua bundel. Metode uji mendefinisikan cara mendapatkan hasil, sedangkan spesifikasi produk menentukan nilai dan keputusan penerimaan. Tanpa rencana sampling, identitas heat atau lot, dan laporan lengkap, jangan menyebut stok “pasti sesuai”. [NEEDS GATE-02: laporan uji, rencana sampling, dan keterlacakan lot belum tersedia dalam paket ini.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak praktis
 
-## Required conclusion
+Jalan pintas yang sering dipilih ialah meminta penjual mengirim satu foto angka mikrometer lalu langsung menyamakan dua merek. Foto dapat menjadi petunjuk awal, bukan bukti akhir. Foto tidak menjelaskan apakah lapisan ikut terbaca, apakah titiknya mewakili, atau apakah alat terkalibrasi dan dipakai dengan cara yang benar. Alternatif yang lebih andal adalah menyepakati definisi ketebalan di pesanan, meminta lembar data dan identitas lot, lalu melakukan pemeriksaan penerimaan dengan metode yang sama.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Tebal dasar berbicara tentang badan baja, tebal lapis tentang badan plus lapisan menurut definisi produk, dan tebal terukur tentang angka yang dihasilkan metode serta titik ukur tertentu. Ketiganya dapat berbeda secara wajar. Jadi, jangan membandingkan angka sebelum basisnya sama.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda sekarang: tandai istilah ketebalan pada penawaran, minta definisi tertulis dan dokumen edisinya, sepakati metode serta titik ukur penerimaan, lalu hubungkan hasil dengan lot barang. Bila ketebalan berpengaruh pada desain atau keselamatan, serahkan keputusan akhir kepada perencana atau pemeriksa kompeten. Aturan operasinya sederhana, Teman Besi.co.id: satu angka tanpa basis, metode, dan identitas barang belum cukup untuk menyatakan produk sesuai.

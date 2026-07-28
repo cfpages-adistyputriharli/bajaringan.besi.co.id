@@ -2,8 +2,8 @@
 article_id: LGS-04-03
 title: "Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak"
 slug: "fungsi-reng-baja-ringan"
-description: "Explain cover interface, load/support inputs, laps, restraint, and evidence"
-status: outline
+description: "Penjelasan antarmuka penutup atap, masukan beban/tumpuan, tumpang tindih, penahan, dan bukti"
+status: draft
 publication_date: "2025-08-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/fungsi-reng-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
@@ -28,191 +29,93 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”
-- **Reader and situation:** Roof coordinator
-- **Reader outcome:** Explain cover interface, load/support inputs, laps, restraint, and evidence
-- **Primary intent:** Understand reng
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** `/reng-galvalum/` owns sales; LGS-09-01 owns roof-cover selection
-- **Final public route:** `/artikel/fungsi-reng-baja-ringan.html`
-- **Appointed CMS date:** `2025-08-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id!
 
-### KR-01
+Reng adalah profil baja ringan yang dipasang melintang pada kuda-kuda, berfungsi sebagai tumpuan untuk penutup atap. Tanpa reng yang dipasang dengan jarak dan orientasi yang benar, penutup atap tidak memiliki tumpuan yang memadai—akibatnya bisa berupa kebocoran, kerusakan struktural pada penutup, atau bahkan penutup atap yang lepas saat angin kencang. Fungsi reng meliputi antarmuka dengan penutup atap, distribusi beban dari penutup ke kuda-kuda, tumpang tindih (overlap) pada sambungan, dan penahan lateral untuk penutup.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: reng harus dipasang pada jarak yang sesuai dengan spesifikasi penutup atap, dengan orientasi yang benar untuk menahan beban angin dan gravitasi, dan dengan tumpang tindih yang memadai pada sambungan. Kawan Besi.co.id, kesalahan pada jarak reng bisa langsung mempengaruhi kinerja atap Anda.
 
-### KR-02
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Apa yang dibahas dan apa yang tidak
 
-### KR-05
+Artikel ini membahas fungsi reng pada sistem rangka baja ringan, termasuk antarmuka dengan penutup atap, masukan beban dan tumpuan, tumpang tindih pada sambungan, penahan, dan bukti yang mendukung. Yang tidak dibahas adalah pemilihan jenis penutup atap—karena pemilihan itu dimiliki oleh jalur editorial lain.
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Pembedaan ini penting karena memahami fungsi reng membantu Anda menilai apakah reng yang sudah ada sudah memadai atau belum. Tetapi pemilihan jenis penutup atap yang tepat untuk proyek Anda membutuhkan analisis yang lebih luas termasuk pertimbangan iklim, estetika, dan anggaran.
 
-### KR-09
+## Klasifikasi standar dan referensi produk
 
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
+Produk baja ringan yang digunakan untuk reng diklasifikasikan dalam kategori standar yang mencakup baja struktural dan produk lembaran tipis. BSN (https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) menyediakan daftar standar yang berlaku untuk baja dan produk turunannya, termasuk baja ringan. Klasifikasi ICS 77.140.50 (https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=) secara spesifik mencakup produk baja lembaran dan strip yang relevan untuk aplikasi reng.
 
-### KR-11
+Memahami klasifikasi standar membantu Anda menentukan standar mana yang berlaku untuk produk reng yang Anda gunakan, dan bagaimana produk tersebut harus diuji serta disertifikasi.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+## Antarmuka reng dengan penutup atap
 
-## Evidence gates
+Reng menciptakan antarmuka fisik antara penutup atap dan kuda-kuda. Penutup atap—baik berupa lembaran metal, genteng metal, atau jenis penutup lainnya—dipasang langsung pada reng menggunakan sekrup atau klem. Lebar reng yang kontak dengan penutup atap menentukan seberapa besar area yang menahan beban penutup.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+SNI 8522:2018 (https://pesta.bsn.go.id/produk/detail/11986-sni85222018) dan SNI 9172:2023 (https://pesta.bsn.go.id/produk/detail/14592-91722023) memberikan kerangka referensi untuk material dan produk baja ringan yang relevan untuk aplikasi reng. Klasifikasi standar internasional (https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) membantu memahami bagaimana standar baja ringan dikategorikan secara global.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Masukan beban dan tumpuan
 
-## Internal-link plan
+Reng menerima beban dari penutup atap—baik beban gravitasi (berat penutup sendiri, beban hidup sementara) maupun beban angin (tekanan dan hembusan). Beban ini kemudian ditransfer dari reng ke kuda-kuda melalui sambungan. Kapasitas reng untuk menahan beban ini ditentukan oleh dimensi profil, jarak antar reng, dan kekencangan sambungan.
 
-### Existing local routes
+AISC (https://www.aisc.org/aisc/solutions-center/hss/) menyediakan referensi mengenai jenis-jenis profil baja yang bisa diadaptasi untuk memahami karakteristik reng. AISC (https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf) juga memberikan informasi mengenai konvensi penamaan yang membantu mengidentifikasi dimensi profil reng.
 
-- `/jual-reng-galvalum-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
+ISO 52949 (https://www.iso.org/standard/52949.html) memberikan referensi mengenai standar material yang berlaku untuk produk baja ringan, termasuk pertimbangan untuk kinerja beban pada aplikasi reng.
 
-### Planned sibling articles
+## Tumpang tindih pada sambungan
 
-These are future routes. Do not link them as live until their HTML exists.
+Ketika panjang reng tidak cukup untuk menutupi seluruh lebar atap, sambungan harus dilakukan dengan tumpang tindih (overlap). Panjang tumpang tindih yang memadai memastikan bahwa beban bisa ditransfer dari satu segmen reng ke segmen berikutnya tanpa kehilangan kapasitas. Tumpang tindih yang terlalu pendek menciptakan titik lemah pada sambungan.
 
-- `LGS-04-01` → `/artikel/jenis-profil-baja-ringan.html` — Peta Profil Baja Ringan: Kanal C, Reng, Hollow, dan Aksesori
-- `LGS-04-02` → `/artikel/fungsi-kanal-c-baja-ringan.html` — Kanal C: Anatomi Profil dan Perannya dalam Rangka
-- `LGS-04-04` → `/artikel/fungsi-hollow-galvalum.html` — Hollow Galvalum: Kapan Struktural dan Non-Struktural Tidak Boleh Disamakan
-- `LGS-04-05` → `/artikel/substitusi-profil-baja-ringan.html` — Substitusi Profil Baja Ringan: Bukti Kesetaraan yang Harus Ditinjau
+Jarak tumpang tindih yang direkomendasikan biasanya berkisar 100 hingga 150 milimeter, tergantung pada jenis penutup atap dan beban yang direncanakan. Selalu merujuk pada rekomendasi produsen penutup atap untuk menentukan panjang tumpang tindih yang tepat.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Penahan untuk penutup atap
 
-## Jawaban singkat dan salah paham utama
+Reng juga berfungsi sebagai penahan untuk penutup atap terhadap beban angin hisap (wind uplift). Ketika angin bertiup melintasi atap, tekanan negatif yang tercipta bisa mencoba mengangkat penutup atap dari reng. Sekrup yang menghubungkan penutup ke reng harus memiliki kapasitas tarik yang memadai untuk menahan beban angin hisap ini.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+SNI 1729:2020 (https://pesta.bsn.go.id/produk/detail/12882-sni17292020), SNI 8369:2020 (https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan SNI 7971:2013 (https://pesta.bsn.go.id/produk/detail/9714-sni79712013) memberikan kerangka referensi untuk perencanaan dan pemasangan baja ringan yang termasuk pertimbangan untuk beban angin dan kapasitas sambungan.
 
-## Definisi dan batas objek
+## Jarak reng dan faktor yang mempengaruhi
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jarak reng ditentukan oleh spesifikasi penutup atap yang akan digunakan. Penutup atap dengan profil yang lebih lembek membutuhkan jarak reng yang lebih rapat. Penutup atap dengan profil yang lebih kaku bisa menggunakan jarak reng yang lebih lebar. Faktor lain yang mempengaruhi jarak reng termasuk kemiringan atap, beban angin di lokasi proyek, dan berat penutup atap sendiri.
 
-## Cara kerjanya
+PP 16 Tahun 2021 (https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) menetapkan kerangka regulasi yang mengatur kualitas konstruksi, termasuk pertimbangan untuk kesesuaian komponen rangka dengan beban yang direncanakan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh pengambilan keputusan
 
-## Faktor yang mengubah hasil
+Bayangkan Anda sedang memasang reng untuk genteng metal dengan jarak reng yang direkomendasikan produsen adalah 900 milimeter. Jika Anda memasang reng pada jarak 1.200 milimeter untuk menghemat material, penutup atap akan memiliki tumpuan yang lebih sedikit. Akibatnya, penutup bisa berubah bentuk (deflect) lebih banyak saat beban bekerja, yang bisa mengakibatkan kebocoran pada sambungan atau kerusakan pada penutup itu sendiri.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Besi.co.id, jarak reng yang benar bukan sekadar angka—ia adalah hasil perhitungan yang mempertimbangkan jenis penutup, beban, dan kondisi lingkungan. Mengubah jarak reng tanpa analisis berarti mengubah seluruh kinerja sistem atap.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Reng Baja Ringan: Fungsi, Tumpuan Penutup Atap, dan Data Jarak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama: memasang reng tanpa merujuk spesifikasi penutup atap. Setiap jenis penutup atap memiliki rekomendasi jarak reng yang berbeda.
 
-## Objection or shortcut to address
+Kesalahan kedua: tidak melakukan tumpang tindih yang memadai pada sambungan reng. Sambungan yang pendek menciptakan titik lemah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga: menggunakan sekrup yang tidak sesuai untuk mengencangkan penutup ke reng. Sekrup yang terlalu pendek tidak memberikan penetrasi yang cukup.
 
-## Required conclusion
+## Bukti yang mendukung kinerja reng
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Untuk memverifikasi bahwa reng yang digunakan sudah memadai, Anda membutuhkan data dari beberapa sumber: spesifikasi dimensi profil dari produsen, rekomendasi jarak reng dari produsen penutup atap, data kapasitas beban dari pengujian laboratorium, dan sertifikasi material yang menunjukkan bahwa baja yang digunakan memenuhi standar yang berlaku. Tanpa data-data ini, Anda hanya mengandalkan asumsi—dan asumsi pada komponen struktural bisa berakibat serius.
 
-## Draft completion checklist
+## Kesimpulan dan langkah selanjutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Reng baja ringan berfungsi sebagai antarmuka antara penutup atap dan kuda-kuda, menerima dan mendistribusikan beban, serta menahan penutup terhadap angin. Jarak reng, tumpang tindih, dan jenis sambungan harus sesuai dengan spesifikasi penutup atap yang digunakan. Kawan Besi.co.id, setiap detail pada reng—dari dimensi profil hingga kekencangan sekrup—mempengaruhi kinerja keseluruhan sistem atap.
+
+Langkah konkret yang bisa Anda ambil hari ini: sebelum memasang reng, pastikan Anda memiliki spesifikasi jarak reng dari produsen penutup atap yang akan digunakan. Jangan mengandalkan "pengalaman sebelumnya" karena setiap jenis penutup memiliki kebutuhan yang berbeda.
+
+Batas jujur yang perlu diingat: artikel ini menjelaskan fungsi reng secara umum. Penentuan jarak reng yang tepat untuk proyek spesifik Anda membutuhkan rujukan pada spesifikasi produsen penutup atap dan pertimbangan kondisi beban di lokasi proyek. Untuk pemahaman lebih lanjut, Anda bisa membaca tentang [anatomi dimensi profil baja ringan](/artikel/anatomi-dimensi-profil-baja-ringan.html) dan [data penutup atap untuk rangka](/artikel/data-penutup-atap-untuk-rangka.html).

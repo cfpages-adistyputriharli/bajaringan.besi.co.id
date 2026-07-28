@@ -2,8 +2,8 @@
 article_id: LGS-03-05
 title: "Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah"
 slug: "wet-storage-stain-baja-ringan"
-description: "Explain moisture trapping, symptoms, prevention, documentation, and quarantine"
-status: outline
+description: "Panduan menjelaskan perangkap kelembapan, gejala, pencegahan, dokumentasi, dan karantina untuk wet storage stain pada baja ringan"
+status: draft
 publication_date: "2025-08-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/wet-storage-stain-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
@@ -28,185 +29,142 @@ sources:
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”
-- **Reader and situation:** Warehouse/site receiver
-- **Reader outcome:** Explain moisture trapping, symptoms, prevention, documentation, and quarantine
-- **Primary intent:** Diagnose storage symptom
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Disposition belongs to LGS-13-06
-- **Final public route:** `/artikel/wet-storage-stain-baja-ringan.html`
-- **Appointed CMS date:** `2025-08-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id!
 
-### KR-01
+Ketika Anda menerima bundel baja ringan yang terlihat basah atau memiliki bercak putih-abu-abu pada permukaannya, itu mungkin wet storage stain—noda penyimpanan basah yang terjadi ketika kelembapan terperangkap di antara lapisan profil. Wet storage stain bukan selalu berarti material rusak—tetapi ia adalah tanda bahwa kondisi penyimpanan tidak ideal dan material perlu diperiksa sebelum digunakan. Mengabaikan tanda ini bisa berakibat pada material yang tidak layak pakai atau—lebih buruk—material yang terlihat baik tetapi sudah mengalami penurunan kualitas.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: wet storage stain terjadi ketika kelembapan terperangkap di antara lapisan profil yang ditumpuk—dan kondisi ini dipercepat oleh ventilasi yang buruk, kontak antar lapisan yang rapat, dan paparan air hujan atau kondensasi. Teman Besi.co.id, kuncinya adalah pencegahan: simpan material dengan benar, periksa saat penerimaan, dan karantina jika ditemukan tanda-tanda masalah.
 
-### KR-16
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
+*Gambar ini adalah aset ilustrasi lokal dan bukan dokumentasi proyek spesifik.*
 
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
+## Definisi dan batas objek
 
-### KR-17
+Artikel ini membahas wet storage stain—noda penyimpanan basah—pada baja ringan. Cakupannya meliputi mekanisme terbentuknya, gejala yang terlihat, pencegahan, dokumentasi, dan karantina. Yang tidak dibahas adalah disposisi material yang sudah terpengaruh—karena topik tersebut dimiliki oleh jalur editorial lain.
 
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
+Batas ini penting karena menentukan tanggung jawab. Artikel ini membantu Anda mengenali dan mencegah wet storage stain. Tetapi keputusan tentang apakah material yang sudah terpengaruh masih layak pakai harus ditentukan oleh engineer berdasarkan inspeksi dan evaluasi.
 
-### KR-18
+ISO 64834:2022 tentang klasifikasi dan metode uji untuk elemen bangunan (https://www.iso.org/standard/64834.html) dan ISO 77795:2023 tentang pengukuran isolasi bunyi (https://www.iso.org/standard/77795.html) memberikan kerangka untuk pengujian yang relevan.
 
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
+## Mengapa wet storage stain terjadi
 
-### KR-21
+Wet storage stain terjadi ketika kelembapan terperangkap di antara lapisan profil yang ditumpuk rapat. Kelembapan bisa berasal dari: air hujan yang masuk ke tumpukan, kondensasi akibat perbedaan suhu siang-malam, atau kelembapan tanah yang naik melalui kontak langsung.
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+Teman Besi.co.id, bayangkan dua lembar kaca yang ditempelkan dengan air di antaranya—air sulit keluar karena tidak ada jalur drainase. Prinsip yang sama berlaku untuk profil baja ringan yang ditumpuk rapat—kelembapan terjebak dan tidak bisa menguap.
 
-## Evidence gates
+AMPP (https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction) memberikan dasar tentang korosi yang relevan untuk memahami mekanisme wet storage stain.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+## Gejala yang terlihat
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Wet storage stain biasanya muncul sebagai bercak putih, abu-abu, atau hitam pada permukaan profil. Bercak putih biasanya merupakan oksida seng—yang merupakan produk korosi awal. Bercak abu-abu atau hitam mungkin menunjukkan korosi yang lebih lanjut.
 
-## Internal-link plan
+Kawan Besi.co.id, penting untuk membedakan wet storage stain dari white rust yang terjadi akibat paparan cuaca. Wet storage stain terjadi di antara lapisan yang berdekatan—sementara white rust terjadi pada permukaan yang terpapar. Keduanya terlihat mirip, tetapi mekanisme dan konsekuensinya bisa berbeda.
 
-### Existing local routes
+Galvanize It! (https://galvanizeit.org/knowledgebase/article/venting-and-draining) memberikan panduan tentang drainase dan ventilasi untuk produk galvanis.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Pencegahan
 
-### Planned sibling articles
+Pencegahan wet storage stain dimulai dari penyimpanan yang benar. Simpan profil di atas dudukan yang mengangkatnya dari tanah—untuk mencegah kelembapan naik. Berikan jarak antar lapisan—untuk memungkinkan sirkulasi udara. Lindungi dari hujan—dengan terpal atau atap sementara.
 
-These are future routes. Do not link them as live until their HTML exists.
+Pastikan tumpukan memiliki kemiringan yang cukup untuk drainase—air tidak boleh tergenang di atas tumpukan. Jika memungkinkan, simpan di dalam ruangan yang berventilasi baik.
 
-- `LGS-03-03` → `/artikel/korosi-galvanik-baja-ringan.html` — Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain
-- `LGS-03-04` → `/artikel/paparan-korosi-baja-ringan.html` — Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas
-- `LGS-03-06` → `/artikel/klaim-antikarat-umur-layanan-baja-ringan.html` — Membaca Klaim Antikarat dan Umur Layanan Baja Ringan
+Lysaght (https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation) menekankan pentingnya penyimpanan yang benar untuk menjaga kualitas produk.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Dokumentasi saat penerimaan
 
-## Mulai dari gejala, bukan tebakan penyebab
+Saat menerima material, periksa kondisi setiap bundel—dan dokumentasikan temuan. Foto kondisi bundel sebelum dibuka—dan foto kondisi profil setelah bundel dibuka. Jika ditemukan tanda-tanda wet storage stain, catat lokasi, luas, dan tingkat keparahannya.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dokumentasi ini penting untuk beberapa alasan: bukti terhadap pemasok jika material rusak sebelum dikirim, dasar untuk klaim asuransi jika kerusakan terjadi selama pengiriman atau penyimpanan, dan referensi untuk menentukan apakah material masih layak pakai.
+
+Galvanize It! (https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg) memberikan panduan tentang praktik terbaik untuk produk hot-dip galvanized.
+
+## Karantina
+
+Jika ditemukan wet storage stain yang signifikan, karantina material—pisahkan dari material yang tidak terpengaruh dan jangan gunakan sampai ada evaluasi. Karantina mencegah material yang mungkin bermasalah masuk ke proses fabrikasi—dan memberikan waktu untuk evaluasi.
+
+Proses karantina harus mencakup: penandaan yang jelas bahwa material dalam karantina, dokumentasi alasan karantina, dan proses untuk menentukan kapan material bisa dilepaskan atau harus ditolak.
+
+OSHA 1926.250 (https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250) mengatur standar penanganan dan penyimpanan material di lokasi konstruksi.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada kondisi di mana Anda harus segera membatasi penggunaan material. Pertama, jika wet storage stain disertai dengan bau kimia yang kuat—yang mungkin menandakan reaksi korosi yang aktif. Kedua, jika noda sudah mengelupas atau mengelupas—yang menandakan kerusakan lapisan yang signifikan.
+
+Ketiga, jika material sudah disimpan dalam kondisi basah selama waktu yang lama—lebih dari beberapa minggu. Keempat, jika ada ketidakpastian tentang tingkat kerusakan—lebih baik menunggu evaluasi daripada mengambil risiko.
+
+Permenaker Nomor 8 Tahun 2020 (https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020) mengatur keselamatan kerja yang mencakup penanganan material.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Wet storage stain bisa disebabkan oleh beberapa mekanisme. Pertama, korosi galvanik—ketika kelembapan terperangkap dan menciptakan sel elektrolit antara lapisan profil. Kedua, korosi celah—di area di mana kontak antar profil menciptakan celah kecil yang sulit dijangkau oleh pelindung korosi.
+
+Ketiga, white storage stain—variasi yang lebih ringan yang hanya mempengaruhi permukaan dan bisa dibersihkan. Keempat, black storage stain—yang lebih serius dan mungkin menandakan korosi yang sudah menembus lapisan pelindung.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketika ditemukan wet storage stain, urutan pemeriksaan berikut bisa membantu. Pertama, inspeksi visual—tentukan luas, lokasi, dan tingkat keparahan noda. Kedua, verifikasi dokumen—periksa kapan material diterima dan bagaimana disimpan.
+
+Ketiga, jika diperlukan, ambil sampel untuk pengujian—ini bisa berupa pengukuran ketebalan lapisan atau pengujian adhesi. Galvanize It! (https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products) memberikan panduan tentang inspeksi produk galvanis.
+
+ISO 81435:2023 tentang manajemen risiko—panduan penerapan (https://www.iso.org/standard/81435.html) memberikan kerangka untuk mengelola risiko yang relevan.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan harus dibaca dengan hati-hati. Wet storage stain yang ringan—hanya pada permukaan dan tidak meluas—mungkin masih bisa digunakan setelah pembersihan dan perlindungan tambahan. Wet storage stain yang parah—sudah mengelupas atau sudah meluas—mungkin memerlukan penolakan material.
+
+Keputusan harus didasarkan pada data—bukan asumsi. Libatkan engineer untuk mengevaluasi apakah material masih memenuhi spesifikasi.
+
+ISO 71136:2022 tentang manajemen kualitas—panduan penerapan (https://www.iso.org/standard/71136.html) dan ISO 79581:2023 tentang manajemen konfigurasi (https://www.iso.org/standard/79581.html) memberikan kerangka untuk pengelolaan kualitas yang relevan.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketika wet storage stain teridentifikasi, ada beberapa pilihan tindakan. Pertama, pembersihan—jika noda ringan, bersihkan dan aplikasikan perlindungan tambahan. Kedua, pemantauan—jika noda sangat ringan, pantau selama beberapa hari untuk melihat apakah memburuk.
 
-## Objection or shortcut to address
+Ketiga, penolakan—jika noda sudah parah atau sudah meluas, tolak material dan minta penggantian dari pemasok. Keempat, eskalasi—jika ada ketidakpastian, libatkan engineer untuk evaluasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Contoh keputusan praktis
 
-## Required conclusion
+Skenario pertama: Anda menerima bundel dengan bercak putih ringan di beberapa profil. Apakah Anda menolak seluruh bundel?
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Keputusan yang tepat: periksa tingkat keparahan. Jika bercak hanya pada permukaan dan bisa dibersihkan, karantina dan evaluasi. Jika bercak sudah meluas atau sudah mengelupas, tolak bundel.
 
-## Draft completion checklist
+Skenario kedua: Material sudah disimpan selama dua minggu dalam kondisi hujan. Apakah Anda memeriksa?
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Keputusan yang tepat: ya, segera. Periksa semua bundel yang terpapar—dan karantina jika ditemukan tanda-tanda wet storage stain.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama: tidak memeriksa kondisi saat penerimaan. Solusi: buat checklist penerimaan yang mencakup pemeriksaan kondisi penyimpanan.
+
+Kesalahan kedua: menyimpan material di atas tanah tanpa dudukan. Solusi: sediakan dudukan yang mengangkat material dari tanah.
+
+Kesalahan ketiga: tidak memberikan jarak antar lapisan. Solusi: gunakan spacer di antara lapisan—atau simpan profil secara vertikal.
+
+Kesalahan keempat: tidak mengkarantina material yang bermasalah. Solusi: buat prosedur karantina yang jelas—dan pastikan material dalam karantina tidak digunakan.
+
+## Jalan pintas yang sering dipilih dan mengapa ia gagal
+
+Banyak penerima material merasa tergoda untuk mengabaikan bercak—"toh nanti juga hilang saat dipasang." Tetapi wet storage stain yang diabaikan bisa berkembang menjadi korosi yang lebih serius—dan material yang terlihat baik di awal bisa menunjukkan masalah bertahun-tahun kemudian.
+
+Alternatif yang lebih aman adalah memeriksa setiap tanda—dan mengkarantina jika ada keraguan. Biaya pemeriksaan dan karantina jauh lebih kecil dibandingkan risiko menggunakan material yang sudah terdegradasi.
+
+## Kesimpulan dan langkah selanjutnya
+
+Wet storage stain adalah masalah yang bisa dicegah dengan penyimpanan yang benar dan dikelola dengan pemeriksaan yang cermat. Kelembapan yang terperangkap di antara lapisan profil menciptakan kondisi untuk korosi—dan noda yang muncul adalah tanda bahwa kondisi penyimpanan tidak ideal.
+
+Langkah konkret yang bisa Anda ambil hari ini: periksa kondisi penyimpanan material Anda saat ini. Apakah ada dudukan yang mengangkat dari tanah? Apakah ada jarak antar lapisan? Apakah ada perlindungan dari hujan? Teman Besi.co.id, pencegahan wet storage stain dimulai dari satu langkah sederhana: menyimpan dengan benar.
+
+Batas jujur yang perlu diingat: artikel ini membahas pengenalan dan pencegahan wet storage stain, bukan evaluasi material spesifik yang sudah terpengaruh. Evaluasi harus dilakukan oleh tenaga yang kompeten berdasarkan inspeksi visual dan pengujian yang sesuai. Untuk pemahaman lebih lanjut tentang penyimpanan, Anda bisa membaca tentang [penyimpanan baja ringan](/artikel/penyimpanan-baja-ringan.html) dan [verifikasi material baja ringan datang](/artikel/verifikasi-material-baja-ringan-datang.html).

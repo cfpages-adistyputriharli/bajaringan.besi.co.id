@@ -2,8 +2,9 @@
 article_id: LGS-02-04
 title: "Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis"
 slug: "sifat-mekanik-baja-tipis"
-description: "Explain distinct properties and why certificates matter"
-status: outline
+description: "Menjelaskan perbedaan kuat leleh, kuat tarik, dan daktilitas pada baja tipis serta cara membaca sertifikat pengujiannya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,194 +20,80 @@ sources:
   - "https://www.iso.org/standard/89449.html"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis
 
-## Assignment lock
+Halo, Teman Besi.co.id! Tiga istilah pada sertifikat baja tipis sering dibaca sebagai satu hal: “semakin besar angkanya, semakin kuat.” Padahal kuat leleh, kuat tarik, dan daktilitas menjawab pertanyaan berbeda. Salah membaca perbedaannya dapat membuat orang menyamakan satu nilai uji dengan kapasitas seluruh rangka.
 
-- **Writer task:** Expand this file into one complete article answering: “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”
-- **Reader and situation:** Non-engineer
-- **Reader outcome:** Explain distinct properties and why certificates matter
-- **Primary intent:** Understand properties
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No grade/capacity choice; LGS-05 owns design inputs
-- **Final public route:** `/artikel/sifat-mekanik-baja-tipis.html`
-- **Appointed CMS date:** `2025-07-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, kuat leleh menunjukkan kapan perubahan bentuk permanen mulai terjadi, kuat tarik menunjukkan puncak tegangan pada uji tarik, dan daktilitas menunjukkan kemampuan mengalami perubahan bentuk sebelum putus. Ketiganya harus dibaca bersama identitas benda uji, metode, arah, satuan, dan spesifikasi produk. ISO 6892-1 menjelaskan cara uji tarik pada suhu ruang, sedangkan ISO 377 menjelaskan pemilihan serta penyiapan sampel; metode uji tidak sendirian menetapkan material lulus ([ISO 6892-1](https://www.iso.org/standard/78322.html); [ISO 377](https://www.iso.org/standard/72529.html)).
 
-## Opening instructions
+![Ilustrasi besi baja 1](/wp-content/uploads/2025/04/besi-baja-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2025/04/besi-baja-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-02-02` → `/artikel/tebal-dasar-tebal-lapis-baja-ringan.html` — Tebal Dasar, Tebal Lapis, dan Tebal Terukur: Apa Bedanya?
-- `LGS-02-03` → `/artikel/cara-mengukur-tebal-baja-ringan.html` — Mengukur Tebal Baja Ringan: Alat, Titik, dan Keterbatasan
-- `LGS-02-05` → `/artikel/anatomi-dimensi-profil-baja-ringan.html` — Dimensi Profil, Lip, Web, Flange, dan Toleransi
-- `LGS-02-06` → `/artikel/berat-per-meter-baja-ringan.html` — Berat per Meter dan Identitas Produk: Pemeriksaan Silang yang Berguna
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<p><em>Aset lokal proyek; bukan dokumentasi proyek tertentu.</em></p>
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda menarik kupon baja sampai putus. Pada awalnya, kupon kembali mendekati bentuk semula saat beban dilepas. Setelah melewati titik tertentu, sebagian perubahan bentuk menetap; itulah gagasan di balik kuat leleh. Beban dapat naik lagi sampai nilai puncak sebelum penampang akhirnya putus; nilai puncak tersebut berkaitan dengan kuat tarik. Jarak perubahan bentuk yang mampu ditanggung sebelum putus memberi gambaran daktilitas.
+
+Angka-angka itu bukan janji langsung tentang kapasitas kanal, reng, atau rangka terpasang. Bentuk profil, lubang, pengikat, pengekangan, tekuk, beban, dan kondisi sambungan ikut menentukan perilaku. [NEEDS GATE-01: grade dan kapasitas hanya boleh dipilih dari spesifikasi proyek serta review desain yang berwenang.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kuat leleh adalah tegangan pada saat deformasi permanen mulai menjadi berarti menurut definisi dan metode yang dipakai. Kuat tarik adalah tegangan maksimum yang tercatat selama benda uji ditarik. Daktilitas biasanya dibaca melalui kemampuan memanjang atau berubah bentuk sebelum putus, tetapi cara pelaporan dan kriteria dapat berbeda menurut produk.
+
+Baja tipis dapat berbentuk lembaran atau profil yang dibentuk dingin. Katalog BSN memisahkan keluarga profil dan produk baja datar; karena itu standar yang cocok untuk satu bentuk tidak otomatis mengatur bentuk lain ([katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=); [katalog produk baja datar BSN](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=)). Artikel ini tidak menentukan grade, ketebalan, atau kapasitas yang harus dibeli.
+
+Jika angka akan dipakai untuk menilai profil rangka, [hub Kanal C Galvalum](/kanal-c-galvalum) dapat membantu memastikan nama bentuk yang sedang dibicarakan; keputusan material tetap mengikuti gambar dan sertifikat batch, bukan halaman produk.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam uji tarik, laboratorium menyiapkan benda uji dengan bentuk, arah, dan ukuran tertentu, lalu memberi beban secara terkendali. Mesin merekam hubungan gaya dan perubahan panjang. Lokasi sampel, arah terhadap proses pembentukan, kondisi permukaan, metode pengukuran, dan satuan memengaruhi cara membaca hasil.
+
+Karena itu, lihat lebih dari tiga angka utama. Cari nomor benda uji, identitas produk atau heat, tanggal, metode, kondisi pengujian, serta tanda tangan atau otorisasi laporan. Amandemen ISO 377 tahun 2025 memperlihatkan bahwa dokumen metode dapat berubah; nomor edisi pada laporan harus cocok dengan persyaratan yang berlaku ([ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)).
+
+Sertifikat yang menampilkan kuat tarik tinggi tetapi tidak menyebut asal sampel belum cukup untuk membuktikan seluruh bundel. Sebaliknya, nilai yang berbeda dari brosur tidak otomatis berarti material gagal jika produk, arah, metode, atau kriteria pembandingnya berbeda. [NEEDS GATE-02: minta spesifikasi produk, rencana pengambilan sampel, dan laporan laboratorium yang dapat ditelusuri.]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perhatikan lima faktor. Pertama, bentuk dan proses pembentukan dapat membuat arah memanjang dan melintang memberikan hasil berbeda. Kedua, lokasi sampel—ujung, tengah, atau bagian tertentu—membatasi apa yang diwakili. Ketiga, lapisan, goresan, dan lubang dapat memengaruhi benda uji atau perilaku komponen, meskipun tidak selalu mengubah nilai kupon dasar. Keempat, suhu dan kondisi pengujian harus cocok dengan metode. Kelima, identitas heat atau batch menghubungkan angka dengan barang yang diterima.
+
+Satu nilai uji juga tidak menjelaskan daktilitas sambungan. Sekrup yang salah, jarak terlalu dekat, atau tepi profil yang rusak dapat membuat sistem kehilangan kemampuan sebelum baja dasar mencapai angka sertifikat. Rekaman SNI 1729:2020, SNI 8369:2020, dan SNI 7971:2013 membantu membedakan lapisan aturan dan desain; halaman rekaman publik tidak menggantikan perhitungan, gambar, dan persetujuan proyek ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020); [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika dua sertifikat menunjukkan kuat leleh berbeda, jangan langsung memilih angka lebih tinggi. Tanyakan apakah keduanya memakai standar produk yang sama, arah sampel yang sama, satuan yang sama, dan identitas batch yang dapat dicocokkan. Jika salah satu hanya menampilkan nilai tipikal tanpa laporan, statusnya “belum terbukti”, bukan “lebih rendah”.
+
+Jika nilai daktilitas tidak tercantum, jangan mengisinya dari angka kuat tarik. Minta pemasok menjelaskan apakah sifat itu diwajibkan oleh spesifikasi produk dan bagaimana pengujiannya. [NEEDS GATE-03: keputusan penerimaan harus mengikuti kriteria produk yang disetujui, bukan asumsi bahwa tiga istilah selalu tersedia di setiap sertifikat.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kuat Leleh, Kuat Tarik, dan Daktilitas pada Baja Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap kuat tarik sama dengan kuat leleh. Kedua, menganggap daktilitas hanya berarti “tidak mudah patah” tanpa melihat ukuran dan metode. Ketiga, memakai sertifikat batch lain karena nama produk sama. Keempat, mengubah angka kupon menjadi kapasitas batang tanpa memperhitungkan bentuk dan sambungan.
 
-## Objection or shortcut to address
+Gunakan daftar periksa: nama dan bentuk produk, grade, nomor heat atau batch, metode, arah dan lokasi sampel, unit, nilai kuat leleh, nilai kuat tarik, nilai daktilitas, kriteria penerimaan, dan hubungan dengan barang fisik. Tandai kolom yang kosong. Kawan Besi.co.id, kolom kosong adalah alasan untuk bertanya, bukan undangan untuk menebak.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dicoba
 
-## Required conclusion
+Jalan pintasnya adalah memilih material dari satu angka terbesar di brosur. Cara ini gagal karena angka tersebut mungkin nilai tipikal, bukan persyaratan minimum; bisa berasal dari bentuk produk lain; atau tidak mewakili batch yang dikirim. Ia juga tidak menjawab tekuk, sambungan, beban, dan kondisi pemasangan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah membuat tabel “angka–benda uji–metode–batas–identitas”. Minta pemasok mengisi bukti yang hilang, kemudian minta peninjau desain menilai apakah data itu boleh dipakai. Jika Anda perlu mengklarifikasi kode profil atau dokumen produk, [halaman kontak](/kontak) dapat menjadi titik penyampaian yang rapi; jangan kirim angka tanpa identitas.
 
-## Draft completion checklist
+## Kesimpulan: baca sifat sebagai satu paket bukti
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kuat leleh, kuat tarik, dan daktilitas menggambarkan tahap perilaku yang berbeda. Nilai tersebut baru berguna ketika terikat pada benda uji, metode, arah, kondisi, produk, dan kriteria penerimaan. Sertifikat membantu menelusuri bukti, tetapi tidak berubah menjadi keputusan grade atau kapasitas.
+
+Langkah berikutnya, ambil satu sertifikat dan periksa semua kolom identitas sebelum membaca angkanya. [NEEDS GATE-04: minta review kompeten bila data akan dipakai untuk desain, penerimaan struktural, atau perubahan material.] Teman Besi.co.id, pegang aturan ini: angka mekanik tanpa konteks benda uji dan spesifikasi adalah petunjuk awal, bukan izin memasang.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2025/04/besi-baja-1.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

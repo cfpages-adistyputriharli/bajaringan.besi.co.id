@@ -3,7 +3,8 @@ article_id: LGS-09-01
 title: "Data Penutup Atap untuk Desain Rangka Baja Ringan"
 slug: "data-penutup-atap-untuk-rangka"
 description: "Capture material, weight, support spacing, fixings, slope, movement, access, and warranty constraints"
-status: outline
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2025-12-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,8 +21,6 @@ sources:
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings"
@@ -29,183 +28,83 @@ sources:
   - "https://www.iso.org/standard/72893.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Data Penutup Atap untuk Desain Rangka Baja Ringan
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Data Penutup Atap untuk Desain Rangka Baja Ringan”
-- **Reader and situation:** Architect/roof designer
-- **Reader outcome:** Capture material, weight, support spacing, fixings, slope, movement, access, and warranty constraints
-- **Primary intent:** Gather roof inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No cover selection; LGS-05 owns structural inputs
-- **Final public route:** `/artikel/data-penutup-atap-untuk-rangka.html`
-- **Appointed CMS date:** `2025-12-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Data Penutup Atap untuk Desain Rangka Baja Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-004`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi rangka atap 1](/wp-content/uploads/2024/07/rangka-atap-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `rangka atap 1` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Caption/credit:** Aset lokal proyek; gambar ini disajikan sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
+Halo, Sobat Besi.co.id!
 
-## Evidence packet
+Rangka baja ringan tidak dapat dirancang hanya dari nama penutup atap. Data yang harus dikunci lebih dulu adalah jenis material, massa per satuan luas, ukuran dan jarak tumpuan, cara pengencangan, kemiringan, ruang gerak akibat perubahan suhu, kebutuhan akses, serta syarat perawatan dan garansi. Jika satu saja masih berupa tebakan, perancang sebaiknya menandainya sebagai asumsi sementara, bukan menganggapnya sebagai beban pasti.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: minta lembar data produk dan gambar susunan aktual dari pemasok, lalu cocokkan dengan kondisi bangunan. Berat lembar bukan satu-satunya masukan. Sekrup, reng, insulasi, talang, plafon, orang yang mengakses atap, dan air yang tertahan dapat mengubah jalur beban. Kemiringan dan detail sambungan juga memengaruhi apakah penutup menyalurkan beban ke tumpuan yang dimaksud. Kesimpulan final tetap memerlukan pemeriksaan profesional dan data proyek yang berlaku.
 
-### KR-01
+![Ilustrasi rangka atap 1](/wp-content/uploads/2024/07/rangka-atap-1.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-25
-
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-09-02` → `/artikel/lapisan-underlay-insulasi-ventilasi-atap.html` — Underlay, Insulasi, dan Ventilasi pada Susunan Atap
-- `LGS-09-03` → `/artikel/kondensasi-bawah-atap-metal.html` — Kondensasi di Bawah Atap Metal: Mekanisme dan Input Pencegahan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Data Penutup Atap untuk Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; gambar ini disajikan sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Data Penutup Atap untuk Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Data penutup atap” berarti informasi yang melekat pada produk dan cara pemasangannya, bukan sekadar jenis genteng atau lembar metal. Kumpulkan identitas produk, edisi lembar data, ukuran modul, massa, lapisan, aksesori, dan batas pemakaian yang dinyatakan produsennya. Catat pula apakah material dipasang di atas reng, panel, atau sistem lain. Dua produk dengan nama dagang mirip dapat memiliki geometri dan pola tumpuan berbeda.
+
+Artikel ini membahas input untuk desainer rangka. Ia tidak memilih produk, menghitung ukuran profil, atau menggantikan persetujuan struktur. Pemilihan kelas lingkungan dan sistem perlindungan korosi harus dimulai dari paparan nyata—kondensasi, garam, polutan, celah, kontak logam, dan akses pemeliharaan—sebagaimana kerangka ISO 12944-2 dan ISO 12944-5; katalog ISO juga menunjukkan dokumen tersebut sedang mengalami revisi, sehingga kategori dan ketebalan tidak boleh ditebak dari label “cat” saja (https://www.iso.org/standard/64834.html; https://www.iso.org/standard/77795.html). Dasar mekanismenya dapat dibaca pada pengantar AMPP tentang korosi (https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction).
+
+Batas ini penting karena data penutup belum menjadi keputusan struktur. Perancang masih perlu menilai beban angin, hujan, gempa, kombinasi pembebanan, kondisi tumpuan, dan aturan proyek yang relevan. Bila dokumen produk tidak menyebut massa atau jarak tumpuan dengan jelas, sisakan penanda `[NEEDS DATA REVIEW]` dan minta klarifikasi tertulis.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Data Penutup Atap untuk Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan lembar pengumpulan data. Kolom pertama berisi identitas: pabrikan, nama produk, kode, tanggal atau edisi dokumen, dan satuan. Kolom berikutnya memuat massa per lembar dan massa per meter persegi. Gunakan satuan yang konsisten; massa per lembar harus dibagi luas efektif modul, bukan luas nominal sebelum tumpang tindih.
+
+Setelah itu petakan geometri. Tulis panjang bentang lembar, lebar efektif, arah gelombang atau rusuk, kebutuhan tumpang tindih, dan posisi reng. Jarak tumpuan yang tertulis pada brosur belum tentu sama dengan jarak rangka di lapangan. Mintalah gambar potongan yang menunjukkan reng, klip, sekrup, dan arah aliran air. Setiap perubahan pola tumpuan harus kembali ke perancang struktur.
+
+Pengencangan adalah antarmuka antara penutup dan rangka. Catat jenis pengikat, diameter, washer, bahan, pola, dan apakah lubang dibuat pabrik atau di lapangan. Jangan menyimpulkan kapasitas tarik atau geser dari nama sekrup saja. Data itu memerlukan spesifikasi produk, bahan dasar, dan kondisi pemasangan. Tulis juga batas pengencangan agar washer tidak rusak dan lembar tidak terjepit berlebihan.
+
+Kemiringan atap memengaruhi panjang lintasan air, tumpang tindih, dan kemungkinan air tertahan. Ambil kemiringan dari gambar, bukan dari perkiraan visual. Tanyakan batas minimum yang dipersyaratkan produk dan bagaimana detail lembah, bubungan, talang, serta penetrasi dibuat. Jika atap berinsulasi, pisahkan massa insulasi, lapisan kedap uap, dan rangka sekundernya sebagai item sendiri. Untuk memahami hubungan kelembapan dan ruang bawah penutup, pembaca dapat melanjutkan ke [penjelasan kondensasi di bawah atap metal](/artikel/kondensasi-bawah-atap-metal.html). Susunan lapisan dapat dibandingkan dengan [panduan underlay dan ventilasi atap](/artikel/lapisan-underlay-insulasi-ventilasi-atap.html).
+
+Perubahan suhu memerlukan ruang gerak. Panjang lembar, warna, paparan matahari, serta pola pengikat menentukan apakah gerak terkonsentrasi pada satu sambungan. Mintalah detail sambungan memanjang dan melintang. Jangan mengarang nilai pemuaian atau jarak celah; gunakan data material dan detail pemasok yang telah ditinjau.
+
+Terakhir, catat akses. Apakah teknisi harus berjalan di atas penutup, menggunakan papan pijak, atau bekerja dari bawah? Jalur akses, titik angkat, dan area servis dapat menambah beban sementara. Rencana penyimpanan dan pengangkatan juga perlu memuat massa, geometri, pusat gravitasi, penahan agar tidak menggelinding, ventilasi, drainase, dan inspeksi. OSHA 1926.250 dan panduan penyimpanan LYSAGHT dapat menjadi referensi praktik, tetapi bukan pengganti penilaian lokasi atau kewajiban Indonesia (https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250; https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation). Untuk peralatan angkat, cocokkan dengan dokumen dan tinjauan kompeten berdasarkan Permenaker 8/2020 (https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Data Penutup Atap untuk Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lingkungan adalah pengubah pertama. Atap dekat pantai, area industri, ruang lembap, atau lokasi dengan kondensasi berulang membutuhkan catatan paparan yang berbeda. Masukkan sumber air, arah angin, genangan, celah sempit, pasangan logam, dan kemampuan inspeksi. Istilah kategori lingkungan hanya berguna jika didukung survei; ia tidak otomatis menentukan masa layan.
+
+Material tambahan sering luput. Plafon, panel surya, pipa, talang, insulasi basah, dan lapisan peredam suara mempunyai massa dan titik tumpu. Buat daftar “terpasang permanen” dan “sementara saat pemeliharaan”. Jangan memasukkan angka produk lain hanya karena bentuknya serupa.
+
+Pelaksanaan mengubah kondisi ideal. Lembaran yang disimpan menempel tanah dapat menerima kelembapan dan kerusakan tepi. Ikatan yang terlalu kencang dapat merusak lapisan; ikatan yang terlalu jarang dapat mengubah perilaku saat angin. Rencana K3 harus menyatukan pekerjaan di ketinggian, pengangkatan, kondisi lingkungan kerja, dan pengawasan. Permen PUPR 10/2021 serta sumber Permenaker terkait membantu mengarahkan dokumen SMKK dan K3, tetapi penerapan spesifik harus ditentukan dari metode kerja, izin, personel, dan kondisi lokasi (https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi; https://jdih.kemnaker.go.id/peraturan/detail/1546; https://jdih.kemnaker.go.id/peraturan/detail/1210).
+
+Kawan Besi.co.id, perlakukan garansi sebagai syarat yang harus dibaca, bukan janji performa umum. Tanyakan pekerjaan apa yang membatalkan garansi, siapa yang memeriksa, dokumen apa yang disimpan, dan bagaimana perbaikan lapisan dicatat. Garansi tidak membuktikan rangka mampu menahan beban atau bahwa pemasangan di proyek Anda sesuai.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Data Penutup Atap untuk Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan arsitek menerima dua penawaran penutup. Penawaran A hanya menyebut “metal ringan”. Penawaran B menyertakan kode produk, massa per meter persegi, gambar tumpuan, pola sekrup, kemiringan minimum, dan petunjuk penyimpanan. Pilih B sebagai basis desain sementara, sambil meminta konfirmasi bahwa edisi dokumennya masih berlaku. A belum dapat dipakai untuk menghitung karena identitas dan antarmukanya tidak lengkap.
+
+Gunakan tabel keputusan sederhana:
+
+| Pertanyaan | Jika jawabannya jelas | Jika belum jelas |
+|---|---|---|
+| Massa dan luas efektif tersedia? | Masukkan sebagai item beban | Tandai `[NEEDS DATA REVIEW]` |
+| Jarak tumpuan sama dengan gambar? | Bekukan detail reng | Hentikan perubahan dan minta gambar revisi |
+| Pola pengikat dan material diketahui? | Cocokkan dengan spesifikasi | Jangan menyimpulkan kapasitas |
+| Akses pemeliharaan ditentukan? | Tambahkan jalur dan beban akses | Minta metode kerja |
+| Paparan dan drainase dipetakan? | Pilih kajian perlindungan | Lakukan survei lingkungan |
+
+Teman Besi.co.id, bila proyek berubah dari lembar metal ke genteng berat, jangan hanya mengganti angka massa. Periksa ulang jarak reng, detail pengikat, kemiringan, talang, dan beban akses. Perubahan produk berarti perubahan antarmuka.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Data Penutup Atap untuk Desain Rangka Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai massa katalog tanpa tumpang tindih dan aksesori. Periksa apakah angka mencakup sekrup, insulasi, dan talang. Kedua, menganggap jarak tumpuan “standar” berlaku di semua lokasi. Cocokkan dengan gambar pemasangan dan ukuran bentang nyata. Ketiga, menyamakan lapisan permukaan dengan kelas korosi. Minta dasar pemilihan berdasarkan paparan dan rencana inspeksi, bukan warna.
 
-## Objection or shortcut to address
+Kesalahan keempat adalah mengabaikan gerak. Cari detail lubang, sambungan, dan titik tetap. Kelima, menyimpan lembar tanpa ventilasi atau penahan. Verifikasi alas, kemiringan drainase, pelindung tepi, dan catatan kerusakan saat penerimaan. Keenam, menganggap inspeksi visual setelah kebakaran cukup. NIST menekankan perlunya riwayat kejadian, kondisi sambungan, catatan material, survei, dan alasan pengujian; jangan menyimpulkan aman dari warna atau satu perkiraan suhu (https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings; https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures; https://www.iso.org/standard/72893.html).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu dihindari
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “pakai berat penutup lama agar cepat”. Cara itu gagal ketika produk baru memiliki lebar efektif, pola tumpang tindih, pengikat, atau akses yang berbeda. Alternatif yang lebih aman adalah membekukan lembar data dan gambar pemasangan, menuliskan asumsi yang tersisa, lalu meminta pemeriksaan perancang struktur dan penanggung jawab K3. Jika jawaban pemasok berubah, revisi daftar input dan jejak persetujuannya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah penutup
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Data penutup atap untuk desain rangka baja ringan harus menjelaskan material, massa, geometri tumpuan, pengikat, kemiringan, gerak, akses, lingkungan, penyimpanan, dan syarat garansi. Langkah berikutnya adalah membuat matriks input berbasis dokumen produk, memeriksa setiap antarmuka dengan gambar, dan menutup semua `[NEEDS DATA REVIEW]` melalui bukti proyek serta review kompeten. Anda dapat menyimpan matriks dan dokumen persetujuan di [halaman utama Besi.co.id](/) agar mudah ditemukan tim. Aturan operasinya sederhana: tanpa identitas produk dan detail pemasangan yang dapat diverifikasi, angka desain hanyalah asumsi—dan asumsi harus terlihat sebelum pekerjaan berjalan.

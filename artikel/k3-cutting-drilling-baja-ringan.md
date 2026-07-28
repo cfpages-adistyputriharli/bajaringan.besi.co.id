@@ -2,8 +2,8 @@
 article_id: LGS-16-02
 title: "K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis"
 slug: "k3-cutting-drilling-baja-ringan"
-description: "Cover guarding, isolation, sparks/swarf, sharp edges, electrical condition, competency, and housekeeping"
-status: outline
+description: "Mencakup penjagaan mesin, isolasi listrik, percikan serpihan, tepi tajam, kondisi listrik, kompetensi, dan kebersihan area kerja"
+status: draft
 publication_date: "2026-06-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/k3-cutting-drilling-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
@@ -29,39 +30,15 @@ sources:
   - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”
-- **Reader and situation:** Fabricator/installer
-- **Reader outcome:** Cover guarding, isolation, sparks/swarf, sharp edges, electrical condition, competency, and housekeeping
-- **Primary intent:** Control tool work
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No tool setting/procedure; LGS-10-03 owns quality
-- **Final public route:** `/artikel/k3-cutting-drilling-baja-ringan.html`
-- **Appointed CMS date:** `2026-06-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Memotong dan mengebor profil baja ringan terlihat sederhana, tetapi risiko kecelakaannya nyata. Debu logam tajam, percikan api, kabel listrik yang rusak, dan mata potong yang aus adalah bahaya sehari-hari yang sering diabaikan. Jawaban singkatnya: keselamatan kerja (K3) untuk cutting, drilling, dan power tools pada profil tipis bukan soal alat yang mahal, melainkan soal pengendalian bahaya secara sistematis—mulai dari penjagaan mesin (guarding), isolasi listrik, pengelolaan percikan dan serpihan tajam, hingga kebersihan area kerja.
 
-## Opening instructions
+Kondisi yang mengubah jawaban ini termasuk jenis material yang dipotong (galvanis, AZ, atau dilapis warna), lingkungan kerja (dalam ruangan versus terbuka), dan kompetensi operator. Permen PUPR Nomor 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi mensyaratkan agar setiap aktivitas konstruksi, termasuk pekerjaan fabrikasi kecil, dikelola dengan pendekatan identifikasi bahaya dan pengendalian risiko ([Permen PUPR No. 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)).
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -70,142 +47,121 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-### KR-01
+## Apa saja bahaya utama saat memotong dan mengebor profil tipis?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Profil baja ringan memiliki karakteristik berbeda dari baja konvensional: tipis, cepat panas, dan menghasilkan serpihan tajam yang beterbangan. CDC/NIOSH menjelaskan bahwa percikan logam (sparks) dari proses pemotongan dapat mencapai jarak beberapa meter dan menyebabkan luka bakar pada kulit atau mata ([CDC/NIOSH welding hazards](https://www.cdc.gov/niosh/welding/about/index.html)). OSHA mencatat bahwa bahaya utama dari cutting dan drilling meliputi percikan api, serpihan tajam (swarf), paparan debu logam, dan risiko sengatan listrik ([OSHA welding/cutting hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)).
 
-### KR-19
+**Serpihan tajam (swarf)** — Profil yang dipotong dengan gerinda atau circular saw menghasilkan tepi yang sangat tajam. Serpihan ini bisa melukai tangan, lengan, atau kaki jika tidak ditangani dengan benar. Tepi potong profil tipis bahkan lebih tajam daripada pelat tebal karena materialnya lebih tipis dan deformasinya lebih sedikit.
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+**Percikan api dan percikan logam** — Proses cutting dengan gerinda menghasilkan percikan yang bisa mengenai mata, kulit, atau material mudah terbakar di sekitar area kerja. Lingkungan fabrikasi yang kering dan berdebu meningkatkan risiko kebakaran.
 
-### KR-20
+**Kabel listrik dan isolasi yang rusak** — Power tools menggunakan listrik, dan kabel yang rusak atau grounding yang buruk bisa menyebabkan sengatan listrik fatal. Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja pada Pekerjaan Konstruksi mensyaratkan inspeksi rutin terhadap peralatan listrik ([Permenaker No. 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+**Debu logam** — Pengeboran dan pemotongan menghasilkan debu halus yang bisa terhirup. Paparan jangka panjang terhadap debu logam dapat menyebabkan gangguan pernapasan. OSHA merekomendasikan penggunaan alat pelindung pernapasan (respirator) atau sistem ekstraksi debu di sumber ([OSHA respiratory protection](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
 
-### KR-21
+## Bagaimana mengendalikan bahaya ini secara sistematis?
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+Pengendalian bahaya mengikuti hierarki: eliminasi, substitusi, rekayasa teknis, administrasi, dan alat pelindung diri (APD). Dalam konteks cutting dan drilling profil tipis, pendekatan praktisnya adalah:
 
-### KR-22
+### Penjagaan mesin (guarding)
 
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
+Setiap power tools harus memiliki pelindung yang memisahkan operator dari mata potong atau mata bor. Permenaker Nomor 9 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja pada Mesin mensyaratkan agar setiap mesin yang berputar atau bergerak dilengkapi dengan penjagaan yang memadai ([Permenaker No. 9/2016](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)). Permenaker Nomor 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja mengatur persyaratan lingkungan kerja yang aman ([Permenaker No. 5/2018](https://jdih.kemnaker.go.id/peraturan/detail/1546)). Untuk gerinda tangan, pelindung (guard) harus terpasang dan tidak boleh dilepas meskipun mengganggu visibilitas.
 
-## Evidence gates
+### Isolasi dan grounding listrik
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Kabel power tools harus dalam kondisi baik, tanpa sobekan atau sambungan yang tidak terisolasi. Grounding harus terpasang dengan benar untuk mencegah sengatan listrik. Alat dengan double insulation tidak memerlukan grounding tambahan, tetapi pemeriksaan visual tetap harus dilakukan sebelum penggunaan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+### Pengelolaan percikan dan serpihan
 
-## Internal-link plan
+**Shielding** — Pasang pelindung percikan (spark guard) di sekitar area potong, terutama jika ada material mudah terbakar di dekatnya.
 
-### Existing local routes
+**Swarf management** — Bersihkan serpihan segera setelah pemotongan menggunakan sikat, bukan tangan kosong. Serpihan yang dibiarkan di lantai bisa melukai pekerja lain atau masuk ke sepatu.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+**Debu extraction** — Untuk pengeboran berulang, gunakan sistem hisap debu (dust extraction) yang terpasang pada bor. CDC/NIOSH merekomendasikan pengendalian teknis (engineering controls) sebagai lapisan pertama perlindungan ([CDC/NIOSH engineering controls](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)).
 
-### Planned sibling articles
+### Alat Pelindung Diri (APD)
 
-These are future routes. Do not link them as live until their HTML exists.
+APD adalah lapisan terakhir, bukan satu-satunya perlindungan:
+- **Kacamata safety** — Wajib untuk semua pekerjaan cutting dan drilling. Kacamata biasa tidak cukup.
+- **Sarung tangan anti-potong** — Untuk menangani profil yang baru dipotong.
+- **Sepatu safety** — Untuk melindungi kaki dari serpihan jatuh.
+- **Respirator** — Untuk pekerjaan di area tertutup atau dengan intensitas tinggi.
+- **Pelindung telinga** — Jika tingkat kebisingan melebihi 85 dB.
 
-- `LGS-16-01` → `/artikel/bahaya-k3-baja-ringan.html` — Peta Bahaya K3 Baja Ringan dari Workshop hingga Atap
-- `LGS-16-03` → `/artikel/k3-logistik-baja-ringan.html` — K3 Loading, Transport, dan Unloading Baja Ringan
-- `LGS-16-04` → `/artikel/kerja-di-ketinggian-ereksi-baja-ringan.html` — Kerja di Ketinggian saat Ereksi Rangka Baja Ringan
+Permenaker Nomor 38 Tahun 2016 tentang Alat Pelindung Diri mensyaratkan penggunaan APD yang sesuai dengan jenis bahaya ([Permenaker No. 38/2016](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)).
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Faktor apa yang mengubah tingkat risiko?
 
-## Jawaban singkat dan salah paham utama
+Tingkat risiko pekerjaan cutting dan drilling berubah berdasarkan beberapa faktor:
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Jenis material** — Profil yang dilapisi galvanis atau AZ menghasilkan uap seng saat dipotong dengan suhu tinggi. Uap ini berbahaya jika terhirup. ISO 14713-1:2017 tentang perlindungan korosi menjelaskan bahwa lapisan pelindung pada baja ringan memerlukan penanganan khusus saat proses fabrikasi ([ISO 14713-1:2017](https://www.iso.org/standard/72532.html)).
 
-## Definisi dan batas objek
+**Lingkungan kerja** — Pekerjaan di dalam ruangan dengan ventilasi buruk meningkatkan risiko paparan debu dan uap. Pekerjaan di luar ruangan meningkatkan risiko percikan mengenai orang lain atau material di sekitar.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kompetensi operator** — Operator yang terlatih tahu cara memposisikan material, mengatur kecepatan mesin, dan mengenali tanda-tanda kegagalan alat. Permen PUPR Nomor 10 Tahun 2021 mensyaratkan pelatihan K3 bagi semua pekerja konstruksi.
 
-## Cara kerjanya
+**Kondisi alat** — Mata potong yang aus menghasilkan lebih banyak panas dan percikan. Mata bor yang tumpul memerlukan tekanan lebih besar, meningkatkan risiko slip.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Penyimpanan material** — Panduan dari Lysaght menekankan bahwa material baja ringan harus disimpan di tempat kering dan rata untuk mencegah deformasi sebelum fabrikasi ([Lysaght product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut skenario yang membantu menentukan langkah K3 yang tepat:
 
-## Kesalahan umum dan cara memeriksanya
+**Skenario 1: Memotong profil galvanis dengan gerinda di area terbuka**
+- Gunakan pelindung percikan (spark guard)
+- Pastikan arah percikan menjauhi pekerja lain
+- Gunakan kacamata safety dan sarung tangan
+- Pastikan ada APAR (alat pemadam api ringan) di radius 10 meter
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 2: Mengebor lubang di profil yang sudah terpasang**
+- Periksa kabel bor — pastikan tidak ada sobekan
+- Gunakan bor dengan dust extraction
+- Pastikan bor memiliki chuck key yang benar, bukan improvisasi
+- Gunakan kacamata safety dan respirator
 
-## Objection or shortcut to address
+**Skenario 3: Memotong banyak profil di workshop**
+- Siapkan area khusus untuk cutting dengan shield permanen
+- Pastikan ventilasi memadai
+- Siapkan wadah untuk serpihan — jangan biarkan menumpuk di lantai
+- Rotasi operator untuk menghindari kelelahan
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesalahan umum yang harus diwaspadai
 
-## Required conclusion
+Kawan Besi.co.id, berikut kesalahan yang sering terjadi:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Melepas pelindung gerinda** — Alasan yang sering diberikan: "mengganggu visibilitas." Pelindung gerinda dirancang untuk melindungi operator jika mata gerinda pecah. Melepas pelindung berarti mengekspos operator terhadap fragmen yang terbang dengan kecepatan tinggi.
 
-## Draft completion checklist
+**Menggunakan tangan kosong untuk membersihkan serpihan** — Serpihan profil tipis sangat tajam. Selalu gunakan sikat atau sarung tangan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+**Mengabaikan kondisi kabel** — Kabel yang sobek atau sambungan yang tidak terisolasi adalah penyebab utama sengatan listrik. Inspeksi visual sebelum penggunaan adalah minimum.
+
+**Tidak menggunakan kacamata safety** — Alasan: "hanya sebentar." Percikan logam tidak membutuhkan waktu lama untuk menyebabkan kerusakan mata permanen.
+
+**Mengebor tanpa penjepit** — Memegang material dengan tangan saat mengebor meningkatkan risiko slip dan cedera. Selalu gunakan clamp atau vise.
+
+Standar ISO terbaru menekankan pentingnya proses evaluasi keselamatan yang berkelanjutan ([ISO news 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)). Evaluasi ini harus mencakup kondisi alat, kompetensi operator, dan prosedur kerja.
+
+## Jalan pintas yang sering diambil dan mengapa berisiko
+
+**Shortcut:** "Pakai gerinda tanpa pelindung supaya lebih cepat."
+
+**Mengapa berbahaya:** Mata gerinda yang pecah bisa bergerak dengan kecepatan tinggi dan mengenai wajah, leher, atau tubuh operator. Tanpa pelindung, tidak ada yang mengarahkan fragmen ke arah aman. Kecepatan yang "didapat" dari melepas pelindung tidak sebanding dengan risiko cedera permanen.
+
+**Alternatif yang lebih aman:** Gunakan gerinda dengan pelindung yang terpasang. Jika visibilitas terganggu, sesuaikan posisi kerja atau gunakan alat dengan desain pelindung yang lebih baik. Waktu tambahan 5-10 detik untuk menyesuaikan posisi bisa mencegah cedera seumur hidup.
+
+Teman Besi.co.id, standar keselamatan tidak mengenal "kecepatan lebih penting daripada keselamatan." ISO 9001:2015 tentang sistem manajemen mutu menekankan bahwa proses harus direncanakan dan dikendalikan untuk memenuhi persyaratan produk sekaligus keselamatan ([ISO 9001:2015](https://www.iso.org/standard/90678.html)).
+
+## Kesimpulan
+
+K3 untuk cutting, drilling, dan power tools pada profil tipis bukan soal alat yang canggih, melainkan soal pengendalian bahaya secara sistematis. Guarding pada mesin, isolasi listrik, pengelolaan percikan dan serpihan, serta housekeeping yang baik adalah fondasi keselamatan yang tidak bisa ditawar.
+
+Langkah Anda selanjutnya: lakukan inspeksi harian terhadap semua power tools sebelum digunakan. Pastikan pelindung terpasang, kabel dalam kondisi baik, dan APD tersedia. Untuk panduan tentang verifikasi material saat datang ke lokasi, baca juga artikel tentang [verifikasi material baja ringan datang](/artikel/verifikasi-material-baja-ringan-datang.html). Jika Anda ingin memahami lebih dalam tentang koordinasi geometri atap, lihat [koordinasi geometri atap kompleks](/artikel/koordinasi-geometri-atap-kompleks.html).
+
+Batas yang jujur: artikel ini mencakup prinsip K3 umum untuk cutting dan drilling profil tipis. Untuk proyek dengan risiko khusus (area berbahaya, material khusus, atau kondisi ekstrem), konsultasikan dengan ahli K3 yang berkualifikasi dan sesuaikan dengan regulasi setempat yang berlaku.

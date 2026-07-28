@@ -2,8 +2,9 @@
 article_id: LGS-14-06
 title: "Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan"
 slug: "verifikasi-stok-kapasitas-lead-time-baja-ringan"
-description: "Request product, design approval, fabrication, labour, logistics, backlog, and contingency evidence"
-status: outline
+description: "Panduan memeriksa bukti stok, kapasitas produksi, persetujuan desain, tenaga kerja, antrean, dan waktu tunggu baja ringan sebelum menyusun jadwal proyek."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,192 +19,116 @@ sources:
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
+  - "https://www.iso.org/standard/86032.html"
   - "https://www.iso.org/standard/85464.html"
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Kalau pemasok berkata “stok ada” dan “bisa selesai minggu depan”, jangan langsung memindahkan kalimat itu ke jadwal proyek. Jawaban yang lebih aman adalah: klaim tersebut baru layak dipakai setelah Anda memeriksa barang yang dimaksud, kapasitas yang benar-benar tersedia, pekerjaan yang sudah mengantre, serta syarat yang membuat hitungan waktu itu berlaku.
 
-- **Writer task:** Expand this file into one complete article answering: “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”
-- **Reader and situation:** Buyer/planner
-- **Reader outcome:** Request product, design approval, fabrication, labour, logistics, backlog, and contingency evidence
-- **Primary intent:** Validate schedule
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No stock/capacity/date promise; LGS-11-04 owns transport plan
-- **Final public route:** `/artikel/verifikasi-stok-kapasitas-lead-time-baja-ringan.html`
-- **Appointed CMS date:** `2026-05-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Stok, kapasitas, dan lead time bukan tiga istilah untuk hal yang sama. Stok adalah identitas dan jumlah barang yang dapat dialokasikan; kapasitas adalah kemampuan mengerjakan pesanan pada periode tertentu; lead time adalah rentang waktu dari pemicu yang disepakati sampai keluaran siap diserahkan. Ketiganya harus disambungkan dengan dokumen, bukan hanya janji lisan. Jika salah satu mata rantai belum terbukti, tandai jadwal sebagai perkiraan dan minta [NEEDS GATE-01: bukti proyek dan review kompeten untuk mengunci keputusan jadwal]. Untuk konteks produk yang akan dipesan, Anda dapat melihat daftar [kanal C galvalum](/kanal-c-galvalum) sebagai titik awal pertanyaan spesifikasi, bukan sebagai bukti stok saat ini.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-14-04` → `/artikel/komponen-biaya-baja-ringan.html` — Komponen Biaya Baja Ringan: Material hingga Risiko Site
-- `LGS-14-05` → `/artikel/scope-kontrak-baja-ringan.html` — Scope Desain, Supply, Ereksi, Garansi, dan Perubahan Kontrak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi material baja ringan dari aset lokal situs, bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kalimat “barang tersedia” bisa berarti ada material dengan profil serupa di gudang, bukan berarti ukuran, lapisan, panjang, jumlah, dan identitasnya cocok dengan pesanan Anda. Kalimat “kapasitas penuh” juga tidak otomatis berarti pemasok tidak bisa menerima order; bisa saja kapasitas mesin tersedia tetapi tenaga kerja, gambar yang belum disetujui, atau antrean pemotongan menjadi penghambat. Karena itu, minta pemasok menyatakan objek klaimnya secara spesifik.
+
+Lead time juga tidak boleh dibaca sebagai angka berdiri sendiri. Tanyakan titik mulai dan titik selesai: apakah hitungan dimulai saat uang muka diterima, gambar disetujui, atau pesanan lengkap? Apakah selesai berarti selesai dipotong, selesai dirakit, lolos pemeriksaan, atau sudah siap diambil? Tanpa definisi itu, dua pihak dapat menyebut “tujuh hari” sambil membayangkan tahapan berbeda.
+
+Dokumen pemeriksaan membantu menghubungkan pesanan, produsen, produk, nomor lebur atau batch, ukuran, hasil uji, dan penandaan fisik. Rujukan ISO 10474:2013 dapat dipakai untuk menata rekonsiliasi dokumen tersebut, tetapi abstraknya tidak menggantikan persyaratan pesanan dan dokumen lengkap proyek ([ISO 10474:2013](https://www.iso.org/standard/53736.html)). Jadi, bukti yang Anda cari bukan tumpukan sertifikat, melainkan jejak identitas yang nyambung dari barang sampai pesanan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “stok” berarti material yang dapat diidentifikasi dan dialokasikan untuk pekerjaan tertentu. Minta daftar profil, ketebalan, panjang, jumlah, lokasi penyimpanan, status alokasi, dan cara identifikasi fisiknya. Jangan menganggap foto gudang sebagai bukti jumlah; foto tidak menunjukkan apakah barang sudah dipesan pihak lain atau tercampur dengan batch berbeda.
+
+“Kapasitas” berarti kemampuan yang tersisa setelah memperhitungkan mesin, alat bantu, operator, jam kerja, pekerjaan berjalan, waktu pemeriksaan, dan pekerjaan ulang yang mungkin muncul. Kapasitas nominal di brosur hanya titik awal. Yang relevan untuk jadwal Anda adalah kapasitas yang tersedia pada rentang tanggal tertentu, untuk jenis profil dan tingkat kerumitan yang sama.
+
+“Lead time” adalah waktu tunggu bersyarat, bukan janji tanggal mutlak. Tuliskan pemicu, keluaran, kalender kerja yang dipakai, ketergantungan pada persetujuan, dan kejadian yang menghentikan hitungan. Pengiriman berada di luar bahasan ini; rencana transportasi harus diperiksa pada paket pekerjaan yang memang mengaturnya. Jangan menyelipkan janji angkutan ke dalam angka produksi.
+
+Batas ini penting agar Anda tidak menilai kemampuan pemasok hanya dari kecepatan memotong. Ketepatan ukuran, kesiapan gambar, pemeriksaan, penandaan, dan serah terima dapat mengubah tanggal siap. Standar pemotongan termal dan toleransi umum membantu membahas kemampuan proses, tetapi penerapannya tetap bergantung pada material, ketebalan, gambar, prosedur, dan fungsi hilir ([ISO 9013:2017](https://www.iso.org/standard/60321.html); [Amd 1:2024](https://www.iso.org/standard/87851.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari satu lembar permintaan yang menyebut profil, spesifikasi, kuantitas, panjang, bentuk pekerjaan, kebutuhan dokumen, dan tanggal yang diinginkan. Minta pemasok menanggapi setiap baris, bukan mengirim jawaban umum. Jika gambar belum final, pisahkan waktu untuk klarifikasi dan persetujuan dari waktu fabrikasi.
+
+Setelah itu, minta bukti stok yang dapat ditelusuri. Nomor batch atau heat, penandaan pada material, catatan penerimaan, dan daftar alokasi harus menunjuk pada barang yang sama. Bila pemasok memakai klaim keberlanjutan atau asal material, tanyakan sistem penelusurannya; kerangka chain of custody membedakan model segregasi fisik, neraca massa, dan klaim administratif, sehingga batas sistem dan catatan input-output harus jelas ([ISO 22095:2020](https://www.iso.org/standard/72532.html)).
+
+Langkah berikutnya adalah menguji kapasitas aktual. Minta jadwal mesin atau lini yang disamarkan secukupnya untuk menunjukkan slot Anda, jumlah pekerjaan yang sedang berjalan, operator yang tersedia, dan titik pemeriksaan. Anda tidak perlu meminta rahasia dagang; yang perlu terlihat adalah alasan mengapa slot tertentu memang dapat dipertanggungjawabkan. Jika pekerjaan serupa sedang menumpuk, minta skenario dasar dan skenario ketika terjadi pekerjaan ulang.
+
+Kemudian pecah lead time menjadi tahapan: penerimaan pesanan lengkap, tinjauan gambar, pembelian atau pengambilan material, pemotongan dan pembentukan, perakitan bila ada, pemeriksaan, perbaikan, lalu status siap diserahkan. Untuk setiap tahapan, tulis penanggung jawab, bukti selesai, dan pemicu tahap berikutnya. Dengan cara ini, keterlambatan tidak menghilang di balik satu angka total.
+
+Bukti pengujian juga perlu dibaca secara proporsional. Kompetensi laboratorium menurut ISO/IEC 17025 relevan untuk menilai kepercayaan pada hasil, tetapi akreditasi laboratorium saja tidak membuktikan bahwa barang tertentu memenuhi pesanan Anda ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)). Cocokkan penerbit, ruang lingkup akreditasi, metode, otorisasi laporan, dan identitas sampel dengan nomor batch yang diterima.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Faktor pertama adalah kelengkapan desain. Gambar yang belum disetujui dapat mengubah jumlah, panjang, lubang, sambungan, atau urutan kerja. “Bisa mulai” mungkin hanya berarti pemasok dapat menyiapkan material, bukan memulai fabrikasi final. Pisahkan pekerjaan pendahuluan yang reversibel dari pekerjaan yang mengunci ukuran agar perubahan tidak menjadi pemborosan.
+
+Faktor kedua adalah jenis proses dan variasinya. Profil standar dengan potongan berulang tidak memiliki beban yang sama dengan komponen yang memerlukan banyak bentuk, penyetelan, atau pemeriksaan. Toleransi umum untuk konstruksi las pun tidak otomatis berlaku pada setiap potongan atau rakitan; kelas toleransi, cara ukur, dan kriteria terima perlu berasal dari gambar serta prosedur yang disetujui ([ISO 13920:2023](https://www.iso.org/standard/86032.html)).
+
+Faktor ketiga adalah antrean tersembunyi. Mesin bisa kosong pada pagi hari, tetapi slot pemeriksaan, operator berpengalaman, alat ukur, atau pekerjaan ulang dapat menjadi bottleneck—titik yang membatasi aliran. Tanyakan pekerjaan apa yang harus selesai sebelum pesanan Anda masuk, bukan hanya berapa jam mesin tersedia.
+
+Faktor keempat adalah aturan keputusan ketika hasil tidak sesuai. Rencana inspeksi yang baik menyebut populasi atau lot, karakteristik, metode, identitas sampel, frekuensi, sumber kriteria, penanggung jawab, rekaman, dan jalur ketidaksesuaian. ISO 2859-1 dan ISO 28590 dapat menjadi rujukan kerangka sampling, tetapi jangan mengambil AQL atau jumlah sampel dari ringkasan standar tanpa dokumen lengkap dan ITP yang disetujui ([ISO 2859-1:2026](https://www.iso.org/standard/85464.html); [ISO 28590:2017](https://www.iso.org/standard/64622.html)).
+
+Faktor terakhir adalah batas bukti komersial. Ketersediaan hari ini dapat berubah karena alokasi pelanggan lain, perubahan pemasok bahan, atau keputusan internal. Minta masa berlaku penawaran dan kondisi yang membatalkan slot, lalu catat siapa yang berwenang mengonfirmasi perubahan. Jangan mengubah ketidakpastian itu menjadi tanggal pasti di kontrak tanpa [NEEDS GATE-04: bukti alokasi, backlog, dan mekanisme perubahan yang ditinjau kompeten].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda menerima tiga jawaban. Pemasok A mengirim foto tumpukan material dan berkata stok aman. Pemasok B mengirim daftar profil dengan nomor batch, jumlah yang dialokasikan, dan meminta persetujuan gambar sebelum menghitung tujuh hari produksi. Pemasok C menjanjikan lima hari selesai tetapi tidak menjelaskan antrean pemeriksaan. Untuk keputusan jadwal, B memiliki dasar yang lebih dapat diuji meskipun angkanya bukan yang paling singkat.
+
+Gunakan tabel pertanyaan sederhana berikut saat rapat:
+
+| Klaim | Bukti minimum yang diminta | Keputusan sementara |
+|---|---|---|
+| Stok tersedia | Profil, ukuran, jumlah, batch, penandaan, dan status alokasi | Boleh dipakai setelah identitas cocok |
+| Kapasitas tersedia | Slot periode, jenis proses, antrean, operator, dan titik pemeriksaan | Masukkan sebagai kapasitas bersyarat |
+| Lead time tujuh hari | Pemicu, tahapan, bukti selesai, kalender, dan kondisi penghenti | Jangan ubah menjadi tanggal pasti sebelum syarat lengkap |
+| Hasil uji dapat dipercaya | Penerbit, ruang lingkup laboratorium, metode, sampel, dan rantai identitas | Perlu rekonsiliasi dan review |
+
+Jika gambar belum disetujui, keputusan yang masuk akal adalah mengunci material yang memang bisa ditelusuri, tetapi menahan komitmen fabrikasi final. Jika slot produksi sudah dekat, minta dua skenario tanggal: skenario gambar disetujui sesuai target dan skenario terjadi satu putaran revisi. Skenario bukan janji; ia alat untuk melihat konsekuensi.
+
+Kawan Besi.co.id, bila pemasok tidak dapat membuka seluruh jadwalnya, Anda masih bisa meminta bukti yang lebih sempit: nomor pekerjaan sebelum dan sesudah slot Anda, tanggal pemeriksaan, serta aturan prioritas ketika ada perubahan. Bukti terbatas yang konsisten lebih berguna daripada angka besar tanpa definisi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Klaim Stok, Kapasitas, dan Lead Time Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan sertifikat dengan stok. Sertifikat tanpa nomor batch dan penandaan fisik belum menghubungkan dokumen dengan benda yang akan diterima. Cocokkan tiga hal itu sebelum mencatat material sebagai tersedia.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menerima kapasitas mesin sebagai kapasitas proyek. Tanyakan proses lengkap, termasuk persiapan, pengukuran, pemeriksaan, perbaikan, dan pelepasan. Jika salah satu belum punya pemilik atau bukti selesai, kapasitas tersebut masih berupa asumsi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menghitung lead time sejak tanggal chat. Tetapkan peristiwa pemicu yang dapat dibuktikan—misalnya pesanan lengkap dan gambar disetujui—kemudian minta cap waktu atau dokumen penerimaannya. Tanpa itu, setiap pihak bebas memilih tanggal mulai yang menguntungkan.
 
-## Required conclusion
+Kesalahan keempat adalah menggunakan satu hasil uji untuk mewakili seluruh lot tanpa aturan. Populasi, metode sampling, dan keputusan terima harus tertulis. Bila belum ada ITP atau kriteria yang disetujui, tinggalkan [NEEDS GATE-05: rencana inspeksi, kriteria terima, dan jalur ketidaksesuaian].
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kesalahan kelima adalah menganggap “bisa dipercepat” sebagai rencana. Tanyakan apa yang berubah: penambahan shift, pengurangan pemeriksaan, pembelian material lain, atau perubahan urutan kerja. Setiap percepatan yang memengaruhi mutu, biaya, atau keselamatan harus ditinjau oleh pihak berwenang; artikel ini tidak menggantikan persetujuan teknis proyek.
 
-## Draft completion checklist
+## Jalan pintas yang tampak praktis, tetapi rapuh
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang sering dipilih adalah memasukkan tanggal tercepat dari penawaran ke jadwal utama, lalu berharap detail menyusul. Cara ini terasa efisien karena kalender segera terlihat rapi. Masalahnya, tanggal tersebut mencampur asumsi tentang stok, desain, antrean, tenaga kerja, dan pemeriksaan. Begitu satu asumsi berubah, seluruh urutan ikut bergeser dan Anda terlambat menyadari penyebabnya.
+
+Alternatif yang lebih aman adalah membuat dua kolom: “terbukti” dan “bersyarat”. Masukkan nomor batch, gambar yang disetujui, slot yang dikonfirmasi, dan rekaman pemeriksaan ke kolom terbukti. Masukkan kapasitas yang menunggu persetujuan, slot yang masih tentatif, atau waktu tunggu yang bergantung pada bahan ke kolom bersyarat. Tinjau kolom bersyarat pada setiap perubahan, lalu naikkan status hanya ketika bukti dan penanggung jawabnya jelas.
+
+## Kesimpulan dan aturan operasi
+
+Untuk menguji klaim stok, kapasitas, dan lead time baja ringan, jangan mencari satu angka yang terdengar meyakinkan. Pecah klaim menjadi identitas material, alokasi nyata, kapasitas proses, antrean, persetujuan desain, pemeriksaan, dan kondisi penghenti; minta bukti yang dapat ditelusuri untuk setiap bagian.
+
+Langkah berikutnya: kirim lembar permintaan terstruktur kepada pemasok, minta jawaban per tahapan, cocokkan dokumen dengan penandaan fisik saat penerimaan, lalu minta review teknis sebelum tanggal bersyarat dijadikan komitmen proyek. Jika Anda perlu menyampaikan permintaan bukti atau pertanyaan spesifikasi, gunakan [halaman kontak](/kontak) yang tersedia di situs. Jika bukti utama belum tersedia, pertahankan [NEEDS GATE-07: konfirmasi jadwal dan kapasitas dari pihak proyek yang berwenang] dan jangan menjanjikan tanggal kepada tim lain.
+
+Aturan operasinya sederhana: stok tanpa identitas bukan stok terverifikasi, kapasitas tanpa slot dan antrean bukan kapasitas tersedia, dan lead time tanpa pemicu serta bukti selesai bukan tanggal. Teman Besi.co.id, jadwal yang jujur mungkin terlihat kurang mulus di awal, tetapi jauh lebih mudah dikendalikan ketika kondisi lapangan berubah.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image plan
+- Image ID: LOCAL-001
+- Source type: local
+- Placement: after opening, before first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- Exact Markdown inserted: ![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

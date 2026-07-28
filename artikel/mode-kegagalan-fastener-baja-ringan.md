@@ -2,8 +2,9 @@
 article_id: LGS-07-02
 title: "Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan"
 slug: "mode-kegagalan-fastener-baja-ringan"
-description: "Explain distinct mechanisms and inputs"
-status: outline
+description: "Mengenali mekanisme pull-out, pull-over, bearing, dan tear-out pada sambungan baja ringan serta data yang perlu diverifikasi sebelum mengambil keputusan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,195 +19,92 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Sekrup yang tampak masih menempel belum tentu menyampaikan gaya dengan aman. Pada sambungan baja ringan, kerusakan dapat terjadi karena ulir tertarik keluar dari lembaran (pull-out), kepala sekrup menembus lembaran (pull-over), lembaran tertekan di sekitar lubang (bearing), atau bagian tepi merobek sampai sekrup terlepas (tear-out). Keempat istilah ini menjelaskan mekanisme yang berbeda, sehingga foto “sekrup lepas” saja belum cukup untuk memilih perbaikan.
 
-- **Writer task:** Expand this file into one complete article answering: “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”
-- **Reader and situation:** Designer/QA reader
-- **Reader outcome:** Explain distinct mechanisms and inputs
-- **Primary intent:** Understand failure
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No calculations/capacities; LGS-05 owns structural design
-- **Final public route:** `/artikel/mode-kegagalan-fastener-baja-ringan.html`
-- **Appointed CMS date:** `2025-11-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: baca arah gaya, jejak kerusakan pada sekrup dan lembaran, serta kondisi material dan pemasangan. Setelah itu cocokkan dengan gambar kerja dan data fastener yang disetujui. Kapasitas atau keputusan boleh-tidaknya sambungan tetap memerlukan perhitungan dan review kompeten; halaman ini membantu Anda mengenali pertanyaan yang tepat, bukan menggantikan desain. [NEEDS REVIEW: konfirmasi proyek, material, dan edisi standar yang mengatur kapasitas sambungan sebelum keputusan struktural.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-07-01` → `/artikel/data-fastener-baja-ringan.html` — Data Fastener Baja Ringan yang Wajib Diverifikasi
-- `LGS-07-03` → `/artikel/inspeksi-sekrup-baja-ringan.html` — Inspeksi Sekrup: Missing, Stripped, Miring, dan Salah Posisi
-- `LGS-07-04` → `/artikel/overdriving-sekrup-baja-ringan.html` — Setting Alat Pemasang Sekrup dan Risiko Overdriving
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat apa yang benar-benar terlihat sebelum menyebut mode kegagalan. Tulis lokasi sambungan, jumlah sekrup, arah tarikan atau geser yang diperkirakan, serta apakah kerusakan muncul saat pemasangan, setelah pembebanan, atau sesudah perubahan di lapangan. Foto dari dekat harus memperlihatkan kepala sekrup, bibir lubang, tepi lembaran, dan apakah ada lembaran kedua di belakangnya. Ukur hanya hal yang memang dapat diukur dengan alat yang tersedia, lalu simpan tanggal dan identitas titik pemeriksaan.
+
+Perubahan kecil sering mengubah mekanisme. Sekrup yang dipindah terlalu dekat tepi membuat robekan tepi lebih mungkin; lubang yang membesar mengubah bidang tekan di sekitar batang; ulir yang tidak menggigit lapisan belakang dapat tampak seperti masalah material padahal masalahnya posisi atau panjang fastener. Jangan menyimpulkan “bajanya tipis” sebelum ketebalan, lapisan, dan jenis sekrup dibuktikan dari dokumen atau pemeriksaan yang sah.
+
+Dokumen standar membantu menempatkan persoalan pada lapisan yang benar. Catatan publik SNI 1729:2020, SNI 8369:2020, dan SNI 7971:2013 menunjukkan bahwa desain baja struktural, pelaksanaan, dan baja canai dingin adalah rujukan yang berbeda; halaman katalog itu tidak memberi kapasitas khusus untuk sambungan Anda ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)).
+
+Saat sambungan mengikat penutup atap ke reng, pahami juga fungsi [reng galvalum](/reng-galvalum) agar lapisan yang seharusnya digigit sekrup tidak disalahartikan.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pekerjaan di sekitar sambungan bila ada bagian yang bergerak, celah yang membesar cepat, lembaran robek pada elemen penyangga, kepala sekrup hilang pada jalur beban, atau beban sementara sedang dipindahkan di dekatnya. Batasi akses dan pasang penyangga sementara hanya berdasarkan instruksi orang kompeten; jangan menambah sekrup secara acak sambil orang tetap bekerja di bawah elemen yang dicurigai.
+
+Keselamatan kerja tidak selesai dengan label “inspeksi visual”. Pengendalian konstruksi perlu mengikuti rencana keselamatan proyek, penilaian risiko, metode kerja, dan pengawasan yang sesuai. Kerangka umum keselamatan konstruksi di Indonesia dirujuk dalam Permen PUPR 10/2021 ([pedoman SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)); penerapan konkretnya tetap harus ditinjau terhadap lokasi, pekerjaan, dan organisasi Anda.
+
+Kawan Besi.co.id, jika sambungan berada pada bagian yang menahan orang, atap, atau peralatan penting, perlakukan temuan sebagai isu teknik dan keselamatan sekaligus. Minta penanggung jawab lapangan menetapkan area aman, status beban, dan siapa yang berwenang memberi izin lanjut. Jangan menguji dengan menaikkan beban secara sengaja.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pull-out (ulir tertarik keluar).** Batang sekrup masih terlihat, tetapi ulir tidak lagi menggigit material lapisan belakang. Jejaknya bisa berupa lubang yang memanjang atau ulir yang membawa serpihan dari lembaran. Mekanisme ini berkaitan dengan keterlibatan ulir, ketebalan material yang digigit, arah gaya yang menarik sekrup keluar, dan kualitas pemasangan. Sekrup yang terlalu pendek atau tidak menembus lapisan yang direncanakan patut dicurigai, tetapi buktikan dengan data produk dan pemeriksaan—jangan menebak dari panjang yang tampak.
+
+**Pull-over (kepala menembus lembaran).** Di sini yang gagal lebih dulu adalah bidang lembaran di bawah kepala atau washer. Kepala dapat menekan, mengiris, lalu menarik keluar melalui lubang yang melebar. Cari cincin deformasi, lembaran yang terangkat di sekitar kepala, atau kepala yang miring tanpa ulir tertarik. Washer dan diameter kepala memengaruhi bidang tumpu, namun pilihan pengganti harus mengikuti detail sambungan yang disetujui. [NEEDS REVIEW: verifikasi tipe kepala, washer, ketebalan lembaran, dan detail desain sebelum mengganti fastener.]
+
+**Bearing (tekanan lokal di sekitar lubang).** Lembaran menerima tekanan dari batang sekrup pada sisi lubang. Tanda awal dapat berupa lubang yang memanjang searah gaya, penyok lokal, atau permainan sambungan yang bertambah tanpa robekan penuh. Bearing bukan otomatis berarti sambungan aman atau gagal total; ia adalah mekanisme yang harus dibandingkan dengan mode lain dan tuntutan deformasi proyek. Periksa apakah lubang sudah dibor, dipukul, atau terkikis saat pemasangan karena bentuk lubang memengaruhi jejak tekanan.
+
+**Tear-out (robekan menuju tepi).** Lembaran terbelah dari lubang ke tepi bebas, biasanya meninggalkan jalur robek yang mudah terlihat. Jarak sekrup ke tepi, arah gaya terhadap tepi, susunan sekrup, dan kondisi tepi menjadi pertanyaan utama. Robekan sebagian dapat berkembang ketika beban berubah, sehingga menutupinya dengan sealant atau menambah sekrup tanpa review bukan perbaikan yang dapat diasumsikan efektif.
+
+Satu sambungan dapat mengalami lebih dari satu mekanisme secara berurutan. Misalnya, lubang yang melebar karena bearing dapat membuat kepala kehilangan bidang tumpu lalu terjadi pull-over; pada konfigurasi lain, robekan tepi dapat mendahului ulir tertarik keluar. Karena itu istilah yang paling cocok bukan sekadar nama kerusakan terakhir yang terlihat, melainkan urutan sebab-akibat yang didukung bukti.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan pemeriksaan aman dan tidak merusak: cocokkan nomor titik dengan gambar, hitung fastener, amati arah gaya, dan tandai setiap perubahan. Lanjutkan dengan telaah dokumen—jenis dan ukuran fastener, ketebalan material, detail tepi, toleransi lubang, catatan perubahan, serta siapa yang menyetujui pemasangan. Bila dokumen saling bertentangan, tahan keputusan sampai penanggung jawab teknik menetapkan rujukan.
+
+Setelah itu, gunakan pengukuran yang memang disetujui dalam rencana inspeksi: diameter dan bentuk lubang, jarak ke tepi, posisi kepala, serta kondisi ulir yang dapat dilihat tanpa membongkar sambungan. Pengujian tarik atau pembongkaran sampel adalah tindakan khusus; metode, jumlah sampel, dan kriteria penerimaan harus ditetapkan oleh perancang atau pemeriksa kompeten. Hasil satu titik tidak otomatis mewakili seluruh atap atau rangka.
+
+Pisahkan bukti lokasi dari bukti material. Sertifikat atau lembar data produk dapat membantu mengidentifikasi fastener, tetapi tidak membuktikan pemasangan di lapangan atau kapasitas sambungan tertentu. Catat rantai identifikasi: kode produk, batch bila tersedia, alat pemasang, operator, tanggal, dan foto sebelum perubahan. [NEEDS REVIEW: pastikan rencana inspeksi proyek dan kriteria penerimaan resmi tersedia.]
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat tabel sederhana dengan kolom “temuan”, “arti yang mungkin”, “bukti yang masih kurang”, dan “keputusan yang berwenang”. Lubang memanjang adalah temuan; bearing atau tear-out adalah interpretasi yang mungkin; arah gaya dan jarak tepi adalah bukti yang masih kurang; keputusan memperbaiki atau mengganti berada pada perancang/penanggung jawab yang ditunjuk. Format ini mencegah foto berubah menjadi diagnosis pasti.
+
+Jika beberapa titik menunjukkan pola sama, pertanyaan berikutnya adalah apakah penyebabnya seragam: setelan alat, posisi jig, jenis fastener, atau perubahan detail. Jika hanya satu titik yang berbeda, cari kerusakan lokal atau pemasangan yang menyimpang. Hasil “lulus” dari pemeriksaan tertentu hanya berarti memenuhi kriteria pemeriksaan itu; ia tidak menghapus mode kegagalan lain yang tidak diperiksa.
+
+Teman Besi.co.id, bedakan “belum ditemukan kerusakan” dari “terbukti memiliki kapasitas”. Yang kedua memerlukan data beban, geometri, material, metode sambungan, dan aturan desain yang berlaku. Rekaman publik tentang peraturan bangunan, seperti status PP 16/2021, membantu mengidentifikasi kerangka regulasi, tetapi tidak menggantikan gambar, perhitungan, dan persetujuan proyek ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)).
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Pull-Out, Pull-Over, Bearing, dan Tear-Out: Mode Sambungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara berfokus pada keselamatan: batasi beban dan akses, lindungi area, lalu dokumentasikan kondisi sebelum ada pembongkaran. Pemantauan hanya layak bila penanggung jawab teknik menetapkan titik ukur, frekuensi, ambang penghentian, dan siapa yang meninjau hasil. Perbaikan, penggantian fastener, atau penambahan pelat tidak boleh dipilih dari foto saja karena dapat memindahkan kegagalan ke mode lain.
 
-## Objection or shortcut to address
+Eskalasi wajib dilakukan bila robekan berada pada elemen utama, beberapa mode muncul bersamaan, sambungan telah berubah dari gambar, atau tidak ada data material dan fastener yang dapat dilacak. Minta keluaran tertulis: asumsi, bukti yang dipakai, batas berlaku, tindakan, dan pemeriksaan ulang setelah pekerjaan. Bila informasi inti belum tersedia, pertahankan penanda [NEEDS REVIEW: keputusan teknik dan persetujuan proyek belum tersedia.] daripada mengisi celah dengan perkiraan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering menyesatkan
 
-## Required conclusion
+Jalan pintas yang paling menggoda adalah “tambahkan dua sekrup di sebelahnya, lalu lanjutkan”. Tambahan itu mungkin tidak menggigit lapisan yang benar, terlalu dekat dengan lubang lama, atau justru memperlemah tepi yang sudah robek. Ia juga tidak menjawab mengapa sambungan pertama rusak. Cara yang lebih dapat dipertanggungjawabkan adalah mengamankan area, identifikasi mode dan urutannya, cocokkan dengan detail yang disetujui, lalu minta review profesional sebelum perubahan permanen.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan: empat nama, satu keputusan berbasis bukti
 
-## Draft completion checklist
+Pull-out berarti ulir tertarik dari material, pull-over berarti kepala menembus lembaran, bearing berarti tekanan lokal memperbesar atau mengubah lubang, dan tear-out berarti lembaran robek menuju tepi. Gejala dapat tumpang tindih, jadi arah gaya, geometri, material, dan riwayat pemasangan harus dibaca bersama.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: amankan titik yang dicurigai, buat catatan temuan dan dokumen fastener, kemudian minta perancang atau pemeriksa kompeten menetapkan pemeriksaan dan keputusan. Sederhananya, jangan mengubah sambungan hanya karena nama mode terdengar jelas; ubah setelah mekanisme, bukti, dan otoritas persetujuannya jelas.
+
+Untuk menyiapkan pertanyaan material dan profil yang akan diperiksa, Anda dapat mulai dari [beranda Besi.co.id](/) lalu menuju [informasi kanal C galvalum](/kanal-c-galvalum) bila elemen sambungan terkait profil tersebut. Tautan itu hanya titik awal informasi produk; keputusan kapasitas tetap berada pada dokumen dan review proyek.

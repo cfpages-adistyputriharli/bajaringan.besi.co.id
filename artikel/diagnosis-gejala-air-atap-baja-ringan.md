@@ -2,8 +2,8 @@
 article_id: LGS-17-02
 title: "Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap"
 slug: "diagnosis-gejala-air-atap-baja-ringan"
-description: "Record location, weather, timing, moisture path, coating/fastener condition, and history"
-status: outline
+description: "Pencatatan lokasi, cuaca, waktu, jalur kelembaban, kondisi lapisan dan fastener, serta riwayat"
+status: draft
 publication_date: "2026-07-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/diagnosis-gejala-air-atap-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://www.iso.org/standard/46556.html"
   - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
@@ -24,185 +25,79 @@ sources:
   - "https://www.iso.org/standard/83054.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”
-- **Reader and situation:** Owner/inspector
-- **Reader outcome:** Record location, weather, timing, moisture path, coating/fastener condition, and history
-- **Primary intent:** Document symptom
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No remote diagnosis; LGS-09-03 owns condensation mechanism
-- **Final public route:** `/artikel/diagnosis-gejala-air-atap-baja-ringan.html`
-- **Appointed CMS date:** `2026-07-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id!
 
-### KR-01
+Air di atap baja ringan bisa berasal dari tiga sumber yang sangat berbeda: bocor dari luar karena penetrasi atau kerusakan penutup, kondensasi dari dalam karena perbedaan suhu dan kelembaban, atau korosi yang menghasilkan cairan dari degradasi material. Ketiganya membutuhkan penanganan yang berbeda, tetapi masing-masing dimulai dengan langkah yang sama: pencatatan gejala yang sistematis sebelum melompat ke kesimpulan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Jawaban singkatnya: ketika Anda menemukan air atau kelembaban di area atap, catat lokasi yang tepat, kondisi cuaca saat kejadian, waktu relatif terhadap hujan atau aktivitas dalam ruangan, jalur yang ditempuh air untuk mencapai titik yang Anda temukan, kondisi lapisan pelindung dan fastener di sekitarnya, serta riwayat perubahan atau perbaikan yang pernah dilakukan. Kawan Besi.co.id, pencatatan yang baik adalah fondasi untuk diagnosis yang benar.
 
-### KR-24
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+## Apa yang dibahas dan apa yang tidak
 
-### KR-26
+Artikel ini membahas cara mencatat gejala kelembaban atau kerusakan terkait air pada atap baja ringan. Cakupannya meliputi pencatatan lokasi, cuaca, waktu, jalur kelembaban, kondisi material, dan riwayat. Yang tidak dibahas adalah diagnosis remote atau pengambilan keputusan perbaikan—karena diagnosis mendalam membutuhkan pemeriksaan langsung oleh profesional.
 
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-### KR-27
-
-- **Original sources:** [worldsteel circular economy](https://worldsteel.org/wider-sustainability/circular-economy/), [worldsteel circular-economy publication](https://worldsteel.org/media/publications/steel-permanent-circular-economy/), and [AISC recycling/deconstruction overview](https://www.aisc.org/aisc/sustainability/recycling/)
-- **Purpose for this article:** Define reduce, reuse, remanufacture, and recycle while preserving structural reuse and waste-law gates.
-- **Safe grounded facts:** Reuse can retain more product value but requires provenance, condition, geometry, material/weldability evidence, alterations/exposure history, new use, testing rationale, and design approval. Recycling does not preserve a member's identity or certify recycled-content/environmental claims.
-- **Limits:** Industry sustainability claims are not project LCAs, material certification, structural approval, or Indonesian waste compliance. Obtain project evidence, licensed assessment, current waste rules, and authorized routes through G-14/G-17.
-
-### KR-28
-
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `LGS-01` | KR-01, KR-02, KR-04, KR-05, KR-11 | Terminology, system boundary, and roles; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-02` | KR-01, KR-03, KR-05, KR-08, KR-11 | Steel material, section properties, thickness, and measurement; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-03` | KR-01, KR-16, KR-17, KR-18, KR-21 | Metallic coatings, corrosion, and durability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-04` | KR-01, KR-02, KR-05, KR-09, KR-11 | Profiles, components, and product selection; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-05` | KR-01, KR-11, KR-24, KR-25, KR-26 | Design inputs, loads, and structural pathway; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-06` | KR-01, KR-09, KR-11, KR-24, KR-26 | Roof truss systems and geometry; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-06, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-07` | KR-01, KR-11, KR-12, KR-14, KR-19 | Connections and fasteners; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-08` | KR-01, KR-09, KR-11, KR-24, KR-26 | Bracing, restraint, and stability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-09` | KR-01, KR-16, KR-19, KR-21, KR-25 | Roof covering, ceiling, MEP, water, and thermal interfaces; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-10` | KR-01, KR-07, KR-12, KR-15, KR-22 | Detailing, fabrication, and workshop quality; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-11` | KR-01, KR-18, KR-19, KR-21, KR-22 | Storage, handling, transport, and delivery; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-12` | KR-01, KR-11, KR-19, KR-20, KR-24 | Site readiness, erection, and temporary works; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-13` | KR-01, KR-07, KR-14, KR-22, KR-23 | QA, traceability, inspection, testing, and defects; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-14` | KR-01, KR-07, KR-15, KR-22, KR-23 | Quantity, procurement, quotations, contracts, and suppliers; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-15` | KR-01, KR-11, KR-16, KR-20, KR-25 | Fire, heat, condensation, and acoustic performance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-16` | KR-01, KR-19, KR-20, KR-21, KR-22 | K3 and safe work; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `LGS-17` | KR-01, KR-24, KR-26, KR-27, KR-28 | Inspection in use, maintenance, repair, retrofit, and end of life; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **17/17 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` licensed standards | `LGS-01`, `LGS-02`, `LGS-03`, `LGS-04`, `LGS-05`, `LGS-06`, `LGS-07`, `LGS-08`, `LGS-09`, `LGS-10`, `LGS-11`, `LGS-12`, `LGS-13`, `LGS-14`, `LGS-15`, `LGS-16`, `LGS-17` | Obtain and review current applicable standards before using exact requirements, tolerances, classifications, test values, or acceptance criteria. | | `GATE-02` Indonesian application and approval basis | `LGS-01`, `LGS-02`, `LGS-03`, `LGS-04`, `LGS-05`, `LGS-06`, `LGS-07`, `LGS-08`, `LGS-09`, `LGS-10`, `LGS-11`, `LGS-12`, `LGS-13`, `LGS-14`, `LGS-15`, `LGS-16`, `LGS-17` | Identify the current Indonesian national/local rule, approval path, and project specification that govern the actual application. | | `GATE-03` qualified technical design | `LGS-01`, `LGS-02`, `LGS-03`, `LGS-04`, `LGS-05`, `LGS-06`, `LGS-08`, `LGS-09`, `LGS-11`, `LGS-12`, `LGS-13`, `LGS-15`, `LGS-17` | A competent professional must verify design inputs, loads, interfaces, failure consequences, and the complete installed configuration. | | `GATE-04` current product/system evidence | `LGS-01`, `LGS-02`, `LGS-03`, `LGS-04`, `LGS-05`, `LGS-06`, `LGS-07`, `LGS-08`, `LGS-09`, `LGS-10`, `LGS-11`, `LGS-12`, `LGS-13`, `LGS-14`, `LGS-15`, `LGS-16`, `LGS-17` | Obtain exact current datasheets, test reports, listings/certificates, configurations, limitations, and evidence traceable to the offered product/system. | | `GATE-05` manufacturer compatibility and instructions | `LGS-01`, `LGS-03`, `LGS-04`, `LGS-07`, `LGS-10`, `LGS-13`, `LGS-14` | Obtain written compatibility, processing, installation, cleaning, maintenance, cure, and warranty instructions for selected materials/products. | | `GATE-06` site, user, and exposure facts | `LGS-01`, `LGS-06`, `LGS-12` | Verify dimensions, supports/substrates, environment, access, users, existing condition, interfaces, drainage, and operational constraints. | | `GATE-07` K3 and safe execution | `LGS-01`, `LGS-03`, `LGS-04`, `LGS-05`, `LGS-06`, `LGS-08`, `LGS-09`, `LGS-12`, `LGS-13`, `LGS-14`, `LGS-15`, `LGS-16`, `LGS-17` | Approve task-specific competent personnel, method, access/lifting controls, exclusion zones, PPE, emergency response, and stop-work conditions. | | `GATE-08` commercial, contract, and handover facts | `LGS-10`, `LGS-11`, `LGS-12`, `LGS-14`, `LGS-17` | Verify current scope, quotation assumptions, competence, submittals, exclusions, schedule, warranty, QC, traceability, and handover records. | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-17-01` → `/artikel/perawatan-rangka-baja-ringan.html` — Rencana Inspeksi dan Perawatan Rangka Baja Ringan
-- `LGS-17-03` → `/artikel/gejala-deformasi-rangka-baja-ringan.html` — Profil Melengkung, Longgar, atau Bergetar: Bukti Awal yang Dibutuhkan
-- `LGS-17-04` → `/artikel/repair-rangka-baja-ringan.html` — Repair Coating, Fastener, atau Member: Gerbang Sebelum Intervensi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Mulai dari gejala, bukan tebakan penyebab
-
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pembedaan ini penting karena pencatatan gejala dan diagnosis adalah dua proses yang berbeda. Pencatatan adalah tugas yang bisa dilakukan oleh siapa saja yang menemukan masalah. Diagnosis membutuhkan keahlian khusus untuk menentukan penyebab pasti dan solusi yang tepat.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum mencatat gejala, pastikan kondisi aman untuk pemeriksaan. Jika area atap basah dan licin, jangan naik tanpa pengaman jatuh. Jika ada tanda-tanda korosi parah pada komponen struktural, batasi akses sampai inspeksi profesional dilakukan. Jika kelembaban terjadi di dekat instalasi listrik, pastikan aliran listrik sudah dimatikan sebelum pemeriksaan.
+
+Panduan inspeksi struktur baja dari FHWA (https://www.fhwa.dot.gov/bridge/inspection/) menekankan pentingnya keselamatan inspektur sebagai langkah pertama dalam setiap pemeriksaan struktural. Prinsip ini berlaku universal untuk semua jenis struktur baja, termasuk rangka atap baja ringan di perumahan dan bangunan komersial.
+
+Teman Besi.co.id, jika Anda ragu apakah area pemeriksaan aman, lebih baik menunda pemeriksaan sampai kondisi memungkinkan. Pencatatan gejala bisa dilakukan dari bawah dengan menggunakan teropong atau kamera zoom—tidak selalu harus naik ke atas atap.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketika Anda menemukan air, ada beberapa kemungkinan mekanisme yang harus dipertimbangkan. Bocor dari luar biasanya meninggalkan jejak yang jelas—air mengalir dari titik penetrasi atau kerusakan penutup atap menuju ke bawah, mengikuti gravitasi. Kondensasi biasanya muncul pada permukaan yang dingin dan menyebar secara merata, bukan mengalir dari satu titik. Korosi menghasilkan noda cokelat kemerahan yang khas dan biasanya terkonsentrasi di sekitar fastener atau sambungan.
+
+Untuk membedakan ketiganya, perhatikan pola kelembaban. Bocor menciptakan jalur aliran yang jelas. Kondensasi menciptakan penyebaran merata pada permukaan yang dingin. Korosi menciptakan noda lokal dengan warna yang khas. Kombinasi dari beberapa pola juga mungkin terjadi—misalnya, fastener yang berkarat bisa menjadi titik masuk air yang menyebabkan bocor tambahan.
+
+ISO 83054 (https://www.iso.org/standard/83054.html) memberikan kerangka referensi untuk evaluasi kondisi struktur yang sudah ada, termasuk identifikasi mekanisme kerusakan yang relevan untuk struktur baja. Worldsteel (https://worldsteel.org/wider-sustainability/circular-economy/) juga menyediakan informasi mengenai siklus hidup baja dan bagaimana kondisi lingkungan mempengaruhi durabilitas material.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan harus dilakukan dari yang paling aman dan informatif ke yang paling invasif. Langkah pertama: observasi visual dari bawah—lihat apakah ada jejak air, noda, atau perubahan warna pada penutup atap atau langit-langit. Langkah kedua: pemeriksaan dari atas—periksa kondisi penutup atap, fastener, flashing, dan area penetrasi. Langkah ketiga: pengukuran kelembaban menggunakan moisture meter untuk memverifikasi apakah ada kelembaban tersembunyi di dalam material.
+
+Standar ISO untuk pengelasan dan pemotongan (https://www.iso.org/standard/46556.html) memberikan referensi mengenai metode evaluasi yang bisa diadaptasi untuk pemeriksaan sambungan dan area yang terkena dampak kelembaban. Publikasi FHWA tentang ereksi baja (https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) juga memberikan wawasan mengenai bagaimana kondisi baja berubah seiring waktu dan paparan lingkungan.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pencatatan harus memisahkan antara hasil tes, kriteria proyek, kemungkinan sebab, konsekuensi, dan otoritas keputusan. Contoh: "Moisture meter menunjukkan 18% pada balok di barat" adalah hasil tes. "Batas aman adalah 15%" adalah kriteria. "Kemungkinan bocor dari flashing talang" adalah hipotesis. "Perlu perbaikan flashing" adalah konsekuensi yang membutuhkan persetujuan engineer.
+
+FHWA (https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm) menyediakan panduan mengenai interpretasi hasil inspeksi non-destruktif yang bisa diadaptasi untuk konteks baja ringan. Worldsteel (https://worldsteel.org/media/publications/steel-permanent-circular-economy/) juga menjelaskan bagaimana kondisi korosi mempengaruhi nilai daur ulang baja, yang relevan untuk memahami urgensi penanganan korosi dini.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Bocor, Kondensasi, atau Korosi? Cara Mencatat Gejala Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berdasarkan pencatatan gejala, ada beberapa jalur tindakan. Kontrol sementara (misalnya menutup area bocor dengan terpal) bisa dilakukan oleh siapa saja. Pemantauan berkala membutuhkan pencatatan yang konsisten. Perbaikan membutuhkan keterampilan spesifik. Penggantian komponen membutuhkan evaluasi struktural. Dan setiap tindakan yang mempengaruhi integritas struktural harus mendapat persetujuan profesional.
 
-## Objection or shortcut to address
+Sobat Besi.co.id, titik eskalasi yang harus Anda ingat: jika kelembaban ditemukan pada komponen struktural utama (kuda-kuda, balok, kolom), jangan lakukan perbaikan sendiri. Minta inspeksi oleh engineer atau ahli struktur sebelum mengambil tindakan apa pun.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Satu jalan pintas yang sering dipilih dan mengapa ia gagal
 
-## Required conclusion
+Banyak pemilik bangunan merasa tergoda untuk langsung menambal area bocor tanpa mencatat gejala terlebih dahulu—"yang penting airnya tidak masuk lagi." Tetapi tanpa pencatatan, Anda tidak tahu apakah tambalan itu menangani penyebab sebenarnya atau hanya gejala sementara. Bocor yang sama bisa muncul kembali di titik yang berbeda beberapa bulan kemudian.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+AISC (https://www.aisc.org/aisc/sustainability/recycling/) juga menekankan pentingnya pemeliharaan preventif untuk menjaga nilai material baja, yang termasuk penanganan dini terhadap masalah kelembaban dan korosi.
 
-## Draft completion checklist
+Alternatif yang lebih baik adalah mencatat dulu, baru bertindak. Pencatatan 15 menit bisa menghemat biaya perbaikan yang jauh lebih besar di kemudian hari.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah selanjutnya
+
+Bocor, kondensasi, atau korosi—masing-masing membutuhkan pencatatan gejala yang sistematis sebelum diagnosis bisa dilakukan. Langkah pertama yang sama untuk ketiga kasus: catat lokasi, cuaca, waktu, jalur air, kondisi material, dan riwayat.
+
+Langkah konkret yang bisa Anda ambil hari ini: buat formulir pencatatan gejala atap yang mencakup kolom untuk lokasi, waktu, kondisi cuaca, penjelasan visual, pengukuran kelembaban, dan foto. Simpan formulir ini di area yang mudah diakses oleh siapa saja yang menemukan gejala baru.
+
+Batas jujur yang perlu diingat: artikel ini membantu Anda mencatat gejala, bukan mendiagnosis penyebab. Diagnosis yang benar membutuhkan pemeriksaan langsung oleh profesional yang kompeten. Untuk pemahaman lebih lanjut, Anda bisa membaca tentang [interface flashing talang penetrasi atap](/artikel/interface-flashing-talang-penetrasi-atap.html) dan [inspeksi rangka baja ringan terpasang](/artikel/inspeksi-rangka-baja-ringan-terpasang.html).

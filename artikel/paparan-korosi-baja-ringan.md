@@ -2,8 +2,8 @@
 article_id: LGS-03-04
 title: "Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas"
 slug: "paparan-korosi-baja-ringan"
-description: "Build exposure zones and evidence questions without city pages"
-status: outline
+description: "Panduan memetakan paparan pesisir, industri, lembap, dan kondensasi untuk menilai risiko korosi baja ringan berdasarkan kondisi lokasi."
+status: draft
 publication_date: "2025-08-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,206 +13,90 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/paparan-korosi-baja-ringan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/81435.html"
-  - "https://www.iso.org/standard/71136.html"
   - "https://www.iso.org/standard/79581.html"
   - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
   - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas
 
-## Assignment lock
+Halo, Teman Besi.co.id! Risiko korosi baja ringan tidak dapat ditentukan hanya dari nama kota atau jarak kasar ke pantai. Yang perlu dikumpulkan adalah apa yang benar-benar mengenai material: air asin, polutan, kelembapan yang menetap, kondensasi, genangan, celah, kontak logam lain, kerusakan lapisan, dan kemampuan inspeksi.
 
-- **Writer task:** Expand this file into one complete article answering: “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”
-- **Reader and situation:** Owner/designer
-- **Reader outcome:** Build exposure zones and evidence questions without city pages
-- **Primary intent:** Assess exposure
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No service-life/coating prescription; LGS-03-06 owns claim verification
-- **Final public route:** `/artikel/paparan-korosi-baja-ringan.html`
-- **Appointed CMS date:** `2025-08-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, buat peta zona paparan dari kondisi lokasi dan cara material dipakai, lalu hubungkan setiap zona dengan bukti dan rencana pemeriksaan. Klasifikasi lingkungan dapat membantu bahasa bersama, tetapi bukan resep umur layanan atau sistem pelapis. ISO 12944-2 dan ISO 12944-5 sendiri tercatat dalam proses revisi, sehingga kategori, persiapan, ketebalan, dan klaim durabilitas harus ditetapkan dari dokumen penuh dan fakta proyek ([ISO 12944-2](https://www.iso.org/standard/64834.html); [ISO 12944-5](https://www.iso.org/standard/77795.html)).
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-reng-galvalum-pesisir-selatan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-reng-galvalum-pesisir-barat` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-pesisir-selatan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-kanal-c-galvalum-pesisir-barat` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-hollow-galvalum-pesisir-selatan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-hollow-galvalum-pesisir-barat` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-03-02` → `/artikel/tepi-potong-goresan-korosi-baja.html` — Mengapa Tepi Potong dan Goresan Perlu Dikendalikan?
-- `LGS-03-03` → `/artikel/korosi-galvanik-baja-ringan.html` — Korosi Galvanik: Saat Baja Ringan Bertemu Logam Lain
-- `LGS-03-05` → `/artikel/wet-storage-stain-baja-ringan.html` — Wet Storage Stain: Mengapa Bundel Basah Bisa Bermasalah
-- `LGS-03-06` → `/artikel/klaim-antikarat-umur-layanan-baja-ringan.html` — Membaca Klaim Antikarat dan Umur Layanan Baja Ringan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<p><em>Aset lokal proyek; bukan dokumentasi proyek tertentu.</em></p>
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat apa yang terlihat atau terukur, bukan diagnosisnya. Tulis lokasi tepat, sisi yang menghadap luar, ketinggian, waktu muncul, pola basah-kering, dan perubahan sejak inspeksi sebelumnya. Foto berurutan, catatan cuaca, serta penandaan komponen membantu membedakan noda permukaan, lapisan tergores, endapan garam, dan korosi yang berkembang.
+
+Jangan menyimpulkan “karena pesisir” sebelum memeriksa sumber air lokal. Uap dari proses, kebocoran, kabut bahan kimia, debu higroskopis, atau air yang terperangkap di sambungan dapat menghasilkan kondisi lebih agresif daripada area terbuka. AMPP menjelaskan dasar mekanisme korosi sebagai interaksi material, lingkungan, dan kondisi permukaan; istilah “lembap” saja terlalu umum untuk keputusan teknis ([Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)).
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batasi akses dan hentikan pekerjaan yang dapat memperburuk keadaan bila komponen kehilangan kestabilan, lapisan mengelupas luas, terdapat cairan kimia tak dikenal, atau material basah terjebak dalam bundel. Jangan mengangkat atau menumpuk ulang sebelum massa, geometri, tumpuan, dan jalur angkat diperiksa. Panduan penyimpanan OSHA bersifat rujukan asing, bukan hukum Indonesia, tetapi mengingatkan perlunya tumpuan stabil, pencegahan bergulir, dan akses aman ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
+
+Material yang baru tiba perlu dipisahkan dari stok yang sudah diperiksa. Jaga label terlihat, catat kerusakan kemasan, sediakan ventilasi dan drainase, serta hindari kontak langsung dengan tanah atau air yang menggenang. Petunjuk perawatan produk LYSAGHT dapat menjadi pertanyaan awal kepada pemasok; rancangan penyimpanan dan pengangkatan tetap memerlukan persetujuan yang sesuai ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelompokkan paparan menjadi zona, bukan kota. Zona pesisir dapat menerima aerosol garam dan siklus basah-kering; zona industri dapat menerima gas atau debu kimia; zona lembap dapat menahan air pada permukaan; zona kondensasi muncul ketika permukaan lebih dingin dari udara lembap. Tambahkan zona terlindung yang jarang terkena hujan tetapi memiliki celah dan ventilasi buruk.
+
+Periksa geometri. Sambungan tumpang tindih, rongga tertutup, ujung potong, lubang drainase yang tidak memadai, dan titik kontak logam berbeda dapat menahan elektrolit atau mempercepat serangan. Pada komponen yang akan dilapisi celup panas setelah fabrikasi, panduan AGA menekankan jalur ventilasi dan drainase, orientasi pengangkatan, kebersihan permukaan, serta koordinasi dengan pelapis ([AGA venting and draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining)). Ukuran dan lokasi lubang tidak boleh diputuskan dari artikel umum; gambar serta dampak struktur harus ditinjau.
+
+Istilah galvanis juga perlu dipastikan. ISO 1461 berlaku untuk artikel fabrikasi yang dicelup panas, sedangkan lembaran kontinu, kawat, pipa, atau pengikat bisa memiliki jalur pelapisan dan standar berbeda. ISO 1460 adalah metode massa lapisan, bukan bukti bahwa satu barang memenuhi batas penerimaan ([ISO 1461](https://www.iso.org/standard/81435.html); [ISO 1460](https://www.iso.org/standard/79581.html)). [NEEDS GATE-01: identifikasi substrat, rute pelapisan, dan standar produk pada dokumen pembelian.]
+
+Untuk profil rangka yang terpapar dari sisi atap, [hub Reng Galvalum](/reng-galvalum) bisa menjadi titik awal mengenali produk yang sedang dibahas; tetap cocokkan dengan kode, lapisan, dan dokumen batch yang benar.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari dokumen dan observasi aman: gambar, spesifikasi lapisan, lokasi komponen, catatan penyimpanan, dan riwayat perbaikan. Lanjutkan dengan inspeksi visual terarah pada ujung, sambungan, titik air, dan area kontak. Tandai komponen, bukan hanya lokasi umum, agar setiap hasil dapat ditelusuri.
+
+Jika diperlukan pengukuran massa lapisan, profil permukaan, atau analisis kontaminan, tetapkan metode, titik, jumlah sampel, dan laboratorium sebelum mengambil benda uji. Jangan memilih angka ketebalan atau frekuensi tes dari ringkasan internet. [NEEDS GATE-02: rencana pengujian, kriteria, dan otoritas penerimaan harus berasal dari spesifikasi proyek serta review kompeten.]
+
+Pada pekerjaan pelapisan, minta pelapis memeriksa material, kimia baja, kontaminasi, detail las, dan ekspektasi tampilan. Panduan inspeksi AGA dapat membantu menyusun pertanyaan, tetapi nilai penerimaan dan metode perbaikan harus mengikuti standar serta spesifikasi yang disepakati ([AGA inspection guide](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)).
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan empat kolom: hasil observasi, kemungkinan mekanisme, konsekuensi, dan keputusan. Noda putih pada permukaan lembap, misalnya, adalah observasi; penyebabnya masih perlu konteks penyimpanan dan ventilasi. Tebal lapisan yang terukur adalah hasil; kelulusan memerlukan batas pembanding yang benar. [NEEDS GATE-03: jangan ubah gejala atau satu hasil uji menjadi klaim umur layanan tanpa data lingkungan, sistem, dan persetujuan profesional.]
+
+Klaim rantai pasok atau bahan berkelanjutan juga bukan bukti kondisi permukaan. Untuk klaim administratif, minta batas sistem, catatan perpindahan, dan pihak yang bertanggung jawab. Jangan menyamakan sertifikat bahan dengan bukti bahwa material telah disimpan atau dipasang dalam kondisi yang benar.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Paparan Pesisir, Industri, Lembap, dan Kondensasi: Input Durabilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara dapat berupa pengeringan aman, pemisahan bundel, perbaikan drainase, penutupan area kimia, atau penandaan karantina. Kontrol ini tidak sama dengan perbaikan permanen. Penggantian, pembersihan agresif, pengecatan ulang, atau perubahan detail harus menunggu penilaian kompatibilitas dan fungsi.
 
-## Objection or shortcut to address
+Jika korosi berada pada sambungan penting, mengurangi penampang, menyebar cepat, atau muncul bersama paparan kimia, eskalasikan ke peninjau material dan desain. [NEEDS GATE-04: tetapkan siapa yang berwenang memilih perbaikan, penggantian, atau pengujian tambahan.] Untuk kebutuhan paparan produk tertentu, Anda dapat menyampaikan kondisi lokasi dan dokumen melalui [halaman kontak](/kontak); jangan mengirim hanya label “pesisir”.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dicoba
 
-## Required conclusion
+Jalan pintasnya adalah memilih spesifikasi “anti karat untuk pesisir” dari brosur lalu menerapkannya ke semua komponen. Cara ini gagal karena paparan, substrat, geometri, kerusakan, dan pemeliharaan berbeda antar zona. Lapisan yang cocok di area terbuka belum tentu aman di rongga lembap atau dekat proses kimia.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah membuat peta zona, mencatat mekanisme yang mungkin, dan meminta bukti untuk setiap keputusan. Sobat Besi.co.id, bila data lokasi belum cukup, tulis “belum ditentukan” dan jadwalkan pemeriksaan; jangan mengisi kekosongan dengan kategori kota.
 
-## Draft completion checklist
+## Kesimpulan: paparan adalah input, bukan vonis
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Paparan pesisir, industri, lembap, dan kondensasi menjadi input durabilitas ketika diterjemahkan ke kondisi material, geometri, waktu basah, kontaminan, ventilasi, kerusakan, dan kemampuan perawatan. Peta itu membantu memilih pertanyaan dan pemeriksaan; ia tidak sendirian menentukan umur layanan atau resep lapisan.
+
+Langkah berikutnya, buat lembar zona untuk setiap komponen, lampirkan foto dan dokumen, lalu minta peninjau kompeten menyetujui metode pemeriksaan serta tindakan. [NEEDS GATE-05: verifikasi klaim pelapisan, perbaikan, atau umur layanan memakai data produk dan lokasi yang berlaku.] Kawan Besi.co.id, pegang aturan ini: tanpa bukti paparan dan identitas material yang cukup, keputusan durabilitas harus tetap bersyarat.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

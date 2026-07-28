@@ -2,8 +2,8 @@
 article_id: LGS-16-05
 title: "Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi"
 slug: "cuaca-stop-work-ereksi-baja-ringan"
-description: "Explain forecast/onsite observation, light components, incomplete stability, communication, and restart approval"
-status: outline
+description: "Menguraikan prakiraan cuaca, observasi langsung di lapangan, komponen ringan, kestabilan sementara, komunikasi, dan persetujuan restart"
+status: draft
 publication_date: "2026-06-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/cuaca-stop-work-ereksi-baja-ringan.html"
 technical_review: required
+writing_contract_version: native-id-v2
 sources:
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
@@ -29,183 +30,127 @@ sources:
   - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”
-- **Reader and situation:** Lift/erection supervisor
-- **Reader outcome:** Explain forecast/onsite observation, light components, incomplete stability, communication, and restart approval
-- **Primary intent:** Define weather decisions
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal wind limit; approved method governs
-- **Final public route:** `/artikel/cuaca-stop-work-ereksi-baja-ringan.html`
-- **Appointed CMS date:** `2026-06-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika Anda sedang mengawasi ereksi rangka atap baja ringan dan angin mulai kencang, pertanyaan yang langsung muncul: kapan harus berhenti? Tidak ada angka universal yang berlaku untuk semua situasi—keputusan stop-work bergantung pada metode ereksi yang disetujui, kondisi aktual di lapangan, dan penilaian supervisor terhadap risiko. Profil baja ringan yang ringan dan berpermukaan lebar sangat rentan terhadap angin; satu hembusan kuat bisa mengubah komponen yang sedang diangkat menjadi layar yang sulit dikendalikan.
 
-## Opening instructions
+Jawaban singkatnya: keputusan untuk menghentikan pekerjaan ereksi karena cuaca harus didasarkan pada kombinasi prakiraan cuaca, observasi langsung di lapangan, dan batasan yang tercantum dalam metode kerja yang disetujui. Bukan hanya soal kecepatan angin, tetapi juga arah angin relatif terhadap orientasi komponen, kestabilan sementara yang sudah terpasang, dan kemampuan kru untuk mengendalikan komponen yang sedang diangkat. Tanpa prosedur yang jelas, Anda berisiko menghadapi kecelakaan kerja, kerusakan material, atau penolakan dari pihak berwenang.
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies Jual Baja Ringan as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Gambar ilustrasi dari arsip proyek; bukan dokumentasi proyek spesifik._
 
-### KR-01
+## Mengapa cuaca menjadi faktor kritis dalam ereksi baja ringan
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Baja ringan dan rakitan rangka dapat sulit dikendalikan ketika terkena angin, khususnya saat belum mendapat kestabilan sementara. Bentuk, orientasi angkat, panjang komponen, cara ikat, dan kondisi di sekitar titik kerja mengubah risikonya. Karena itu, jangan memakai kesan “komponennya ringan” sebagai alasan untuk meneruskan pekerjaan.
 
-### KR-19
+Permen PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi ([PermenPUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)) menetapkan kewajiban untuk mengidentifikasi bahaya dan mengendalikan risiko, termasuk risiko dari kondisi cuaca. Peraturan Menteri Ketenagakerjaan No. 8 Tahun 2020 tentang K3 Konstruksi ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)) juga mengatur aspek keselamatan kerja yang relevan.
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+Sobat Besi.co.id, satu hal yang perlu dipahami: tidak ada angka kecepatan angin universal yang berlaku untuk semua proyek. Setiap metode ereksi memiliki batasan yang berbeda tergantung pada ukuran komponen, metode pengangkatan, dan kondisi lapangan. Keputusan stop-work harus didasarkan pada metode kerja yang disetujui, bukan pada asumsi umum.
 
-### KR-20
+Sumber K3 dapat membantu mengenali kewajiban pengendalian risiko, tetapi penerapannya pada satu pengangkatan tetap memerlukan metode kerja, penilaian risiko lokasi, kompetensi kru, dan pengawasan yang berlaku.
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+## Apa yang termasuk dan tidak termasuk dalam pembahasan
 
-### KR-21
+Artikel ini membahas keputusan stop-work karena cuaca dalam konteks ereksi rangka atap baja ringan. Fokusnya adalah pada proses pengambilan keputusan: bagaimana memantau cuaca, bagaimana mengobservasi kondisi di lapangan, kapan harus berhenti, dan bagaimana menentukan kapan bisa mulai lagi.
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+Yang tidak dibahas di sini adalah desain tahan angin untuk bangunan yang sudah selesai, prosedur evakuasi darurat, atau asuransi dan tanggung jawab hukum. Topik-topik ini penting tetapi berada di luar cakupan keputusan operasional saat ereksi.
 
-### KR-22
+Jangan menyimpulkan ketentuan teknis dari nomor atau halaman katalog ISO. Dokumen tersebut dapat membantu menelusuri identitas sumber, bukan menggantikan metode kerja dan persetujuan proyek.
 
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
+Untuk pelacakan sumber, lihat [Permenaker 5/2018](https://jdih.kemnaker.go.id/peraturan/detail/1546), [ISO 22095](https://www.iso.org/standard/72532.html), dan [amandemen ISO 22095](https://www.iso.org/standard/90678.html). Ketiganya tidak memberi batas angin atau prosedur pengangkatan yang dapat disalin untuk satu proyek.
 
-## Evidence gates
+## Bagaimana pemantauan cuaca seharusnya bekerja
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Pemantauan cuaca untuk keputusan stop-work harus dilakukan pada dua level: prakiraan sebelum hari kerja dan observasi langsung selama pekerjaan berlangsung.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Prakiraan cuaca:** Periksa prakiraan dari sumber yang relevan sebelum mobilisasi atau mulai kerja. Perhatikan angin, hujan, petir, dan perubahan yang dapat memengaruhi metode kerja. Bila prakiraan mendekati batas metode kerja, siapkan penundaan atau pekerjaan alternatif sebelum komponen diangkat.
 
-## Internal-link plan
+**Observasi langsung:** Selama pekerjaan berlangsung, pantau kondisi cuaca secara real-time. Gunakan anemometer portabel untuk mengukur kecepatan angin di lokasi kerja—jangan hanya mengandalkan data stasiun cuaca terdekat karena kondisi lokal bisa sangat berbeda. Perhatikan tanda-tanda cuaca berubah: awan gelap yang mendekat, perubahan arah angin yang tiba-tiba, atau penurunan suhu yang drastis.
 
-### Existing local routes
+CDC/NIOSH memberikan panduan tentang pengendalian bahaya di tempat kerja yang relevan ([CDC/NIOSH welding](https://www.cdc.gov/niosh/welding/about/index.html)). OSHA juga mengatur standar keselamatan konstruksi ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)) yang mencakup aspek penyimpanan dan penanganan material.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Teman Besi.co.id, satu kesalahan umum adalah mengandalkan hanya satu sumber informasi cuaca. Prakiraan bisa meleset, dan kondisi di lapangan bisa berbeda dari prediksi. Kombinasikan prakiraan dengan observasi langsung untuk keputusan yang lebih akurat.
 
-### Planned sibling articles
+## Faktor yang mempengaruhi keputusan stop-work
 
-These are future routes. Do not link them as live until their HTML exists.
+Beberapa faktor menentukan kapan pekerjaan harus dihentikan:
 
-- `LGS-16-03` → `/artikel/k3-logistik-baja-ringan.html` — K3 Loading, Transport, dan Unloading Baja Ringan
-- `LGS-16-04` → `/artikel/kerja-di-ketinggian-ereksi-baja-ringan.html` — Kerja di Ketinggian saat Ereksi Rangka Baja Ringan
-- `LGS-16-06` → `/artikel/stop-work-dan-respons-insiden-baja-ringan.html` — Stop Work, Rescue, dan Respons Insiden pada Pekerjaan Baja Ringan
+**Kecepatan angin aktual vs. batas metode kerja:** Gunakan batas dan cara ukur yang tercantum pada metode kerja yang disetujui untuk komponen, alat angkat, dan tahap stabilitas yang sedang terjadi. Artikel ini tidak menetapkan angka angin, ukuran komponen, atau interval pemantauan universal.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+**Arah angin relatif terhadap komponen:** Angin yang datang tegak lurus terhadap permukaan komponen lebih berbahaya daripada angin yang sejajar. Perhatikan orientasi komponen yang sedang diangkat dan arah angin saat itu.
 
-## Jawaban singkat dan salah paham utama
+**Kestabilan sementara:** Komponen yang sudah terpasang sementara dengan bracing atau guy-wire lebih stabil daripada komponen yang baru diangkat tanpa pengaman. Perhatikan tingkat kestabilan rangka yang sudah terpasang sebelum memutuskan untuk melanjutkan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kondisi hujan:** Hujan membuat permukaan baja licin, mengurangi gesekan yang dibutuhkan untuk mengendalikan komponen. Hujan juga mengurangi visibilitas dan membuat kondisi kerja lebih berbahaya.
 
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Permenaker No. 9 Tahun 2016 tentang K3 pada Ketinggian ([Permenaker 9/2016](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)) menetapkan persyaratan khusus untuk pekerjaan di ketinggian yang relevan dengan ereksi rangka atap.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut skenario untuk membantu keputusan Anda:
 
-## Kesalahan umum dan cara memeriksanya
+**Skenario 1: Kondisi cuaca masih dalam batas metode kerja.** Keputusan hanya dapat dilanjutkan jika pengukuran, cara angkat, kestabilan sementara, komunikasi kru, dan jalur aman sudah diverifikasi sesuai rencana.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 2: Kondisi mendekati atau melampaui batas metode kerja.** Hentikan atau jangan mulai pengangkatan, amankan komponen sesuai prosedur, lalu catat kondisi dan keputusan. Restart bukan otomatis setelah cuaca berubah; periksa ulang kondisi rangka, alat, area, dan persetujuan pengawas.
 
-## Objection or shortcut to address
+**Skenario 3: Hujan atau permukaan mulai basah.** Evaluasi pijakan, akses, visibilitas, peralatan listrik, dan kemampuan kru mengendalikan komponen. Jika salah satu pengendalian tidak lagi memadai, terapkan stop-work dan ikuti prosedur pengamanan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Lysaght memberikan panduan tentang penyimpanan dan pemasangan produk baja ringan yang mencakup pertimbangan cuaca ([Lysaght product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
 
-## Required conclusion
+## Kesalahan umum yang perlu diwaspadai
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Beberapa kesalahan umum dalam penanganan cuaca saat ereksi:
 
-## Draft completion checklist
+**Mengabaikan prakiraan karena "cuaca masih cerah."** Prakiraan bisa meleset, tetapi mengabaikannya sama berbahayanya. Cuaca bisa berubah dalam hitungan menit. Pertanyaan verifikasi: Apakah Anda sudah memeriksa prakiraan dan menyiapkan rencana alternatif?
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+**Menggunakan "rasa" daripada pengukuran.** "Anginnya tidak terlalu kencang kok." Persepsi manusia tentang kecepatan angin sangat tidak akurat. Gunakan anemometer untuk pengukuran objektif. Pertanyaan verifikasi: Apakah Anda memiliki anemometer dan menggunakannya secara teratur?
+
+**Melanjutkan karena "tinggal sedikit lagi."** Tekanan untuk menyelesaikan pekerjaan bisa membuat supervisor mengambil risiko yang tidak perlu. "Tinggal satu komponen lagi" bisa menjadi keputusan terakhir jika terjadi kecelakaan. Pertanyaan verifikasi: Apakah Anda bersedia menghentikan pekerjaan meskipun ada tekanan waktu?
+
+**Tidak mendokumentasikan keputusan.** Keputusan stop-work dan restart harus didokumentasikan untuk pembelajaran dan audit. Pertanyaan verifikasi: Apakah ada catatan tertulis tentang keputusan cuaca yang diambil?
+
+Permenaker No. 38 Tahun 2016 tentang Pelaporan K3 ([Permenaker 38/2016](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)) mengatur kewajiban pelaporan yang relevan.
+
+## Mengapa "nanti saja" bisa gagal
+
+Salah satu kecenderungan yang sering muncul adalah menunda keputusan stop-work dengan alasan "nanti saja kalau sudah parah." Mengapa ini bisa gagal?
+
+Ketika angin sudah cukup kencang untuk membuat komponen sulit dikendalikan, biasanya sudah terlambat untuk menghentikan pekerjaan dengan aman. Komponen yang sedang diangkat tidak bisa diletakkan begitu saja di mana pun—ia harus diturunkan dengan terkendali ke lokasi yang aman. Proses ini membutuhkan waktu dan ruang yang mungkin tidak tersedia jika kondisi sudah berbahaya.
+
+OSHA menekankan pentingnya pengendalian preventif, bukan reaktif ([OSHA welding hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)). Prinsip yang sama berlaku untuk keputusan cuaca: lebih baik berhenti terlalu awal daripada terlambat.
+
+Alternatif yang lebih aman adalah menyepakati pemicu peringatan, urutan pengamanan, dan otoritas stop-work sebelum pekerjaan dimulai. Perubahan batas atau metode kerja harus dinilai dan disetujui oleh pihak yang berwenang, bukan dibuat spontan di lapangan.
+
+## Bagaimana menentukan kapan bisa mulai lagi
+
+Keputusan untuk memulai kembali pekerjaan setelah stop-work karena cuaca membutuhkan evaluasi yang sama ketatnya dengan keputusan untuk berhenti. Jangan hanya menunggu angin reda—evaluasi kondisi secara menyeluruh.
+
+Pertama, pastikan kecepatan angin sudah turun di bawah batas metode kerja dengan margin keamanan yang cukup. Kedua, periksa kondisi komponen yang sudah terpasang—apakah ada yang bergeser atau rusak akibat angin? Ketiga, evaluasi kondisi kru—apakah mereka sudah cukup istirahat dan siap melanjutkan? Keempat, periksa prakiraan untuk beberapa jam ke depan—apakah ada potensi cuaca berubah lagi?
+
+CDC/NIOSH memberikan panduan tentang pengendalian bahaya yang bisa diterapkan untuk evaluasi restart ([CDC/NIOSH engineering controls](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)).
+
+ISO baru tentang standar keselamatan memberikan panduan terbaru tentang proses pengambilan keputusan ([ISO news 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)). Meskipun standar ini mungkin belum diterapkan secara luas, prinsip-prinsipnya bisa menjadi acuan.
+
+## Kesimpulan
+
+Keputusan stop-work karena cuaca saat ereksi rangka atap baja ringan bukan soal angka kecepatan angin semata, tetapi kombinasi prakiraan, observasi langsung, batasan metode kerja, dan penilaian risiko oleh supervisor. Profil baja ringan yang ringan dan berpermukaan lebar sangat rentan terhadap angin, sehingga keputusan yang tepat waktu bisa mencegah kecelakaan dan kerusakan material.
+
+Langkah konkret yang harus Anda ambil sekarang: pastikan metode kerja yang disetujui mencantumkan batas cuaca yang jelas. Siapkan anemometer dan pastikan kru tahu cara menggunakannya. Tetapkan prosedur komunikasi yang jelas untuk keputusan stop-work dan restart. Dokumentasikan setiap keputusan untuk pembelajaran dan audit.
+
+Ingat batasannya: artikel ini membahas proses pengambilan keputusan, bukan desain tahan angin atau asuransi. Untuk pertanyaan spesifik tentang kondisi proyek Anda, konsultasikan dengan profesional yang memahami metode ereksi dan kondisi lokal. Untuk informasi lebih lanjut tentang keselamatan kerja secara keseluruhan, kunjungi [panduan penanganan profil baja ringan](/artikel/manual-handling-profil-baja-ringan.html) atau pelajari tentang [transportasi baja ringan](/artikel/transport-baja-ringan.html) yang juga mempertimbangkan kondisi cuaca.

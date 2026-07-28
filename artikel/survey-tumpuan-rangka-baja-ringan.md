@@ -2,8 +2,9 @@
 article_id: LGS-12-02
 title: "Survey Tumpuan, Anchor, Elevasi, dan Alignment"
 slug: "survey-tumpuan-rangka-baja-ringan"
-description: "Define datums, records, deviations, interface ownership, and approval before erection"
-status: outline
+description: "Cara menetapkan datum, mencatat kondisi, mengelola deviasi, membagi tanggung jawab antarmuka, dan memperoleh persetujuan sebelum ereksi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,196 +20,100 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1210"
   - "https://www.iso.org/standard/46556.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # Survey Tumpuan, Anchor, Elevasi, dan Alignment
 
-## Assignment lock
+Halo, Teman Besi.co.id! Rangka baja ringan dapat dibuat sesuai gambar, tetapi tetap sulit dipasang bila tumpuan di lapangan bergeser, anchor tidak berada pada posisi yang diharapkan, elevasi berbeda, atau garis sumbu tidak bertemu. Karena itu, survey sebelum ereksi bukan formalitas ukur; ia adalah pemeriksaan apakah kondisi nyata siap menerima rangka.
 
-- **Writer task:** Expand this file into one complete article answering: “Survey Tumpuan, Anchor, Elevasi, dan Alignment”
-- **Reader and situation:** Surveyor/site QA
-- **Reader outcome:** Define datums, records, deviations, interface ownership, and approval before erection
-- **Primary intent:** Check supports
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No tolerance/anchor acceptance; LGS-13-06 owns NCR
-- **Final public route:** `/artikel/survey-tumpuan-rangka-baja-ringan.html`
-- **Appointed CMS date:** `2026-03-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tetapkan datum dan titik referensi, ukur tumpuan serta anchor, catat deviasi dengan bukti, tetapkan siapa pemilik antarmuka, lalu minta keputusan sebelum ereksi dimulai. Jangan menyembunyikan selisih dengan memaksa profil atau memperbesar lubang. [NEEDS KONFIRMASI PROYEK: nilai deviasi yang dapat diterima, metode ukur, dan kewenangan pelepasan tumpuan harus berasal dari gambar, spesifikasi, serta peninjauan teknis proyek.]
 
-## Opening instructions
+Temuan bisa mengubah keputusan. Perbedaan kecil mungkin hanya memerlukan penyesuaian detail yang disetujui, sementara pergeseran tumpuan atau anchor dapat mengubah jalur beban dan memerlukan koreksi pekerjaan sipil. Tanpa datum, revisi gambar, dan identitas alat ukur, angka deviasi tidak punya konteks.
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Survey Tumpuan, Anchor, Elevasi, dan Alignment**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `LGS-12-01` → `/artikel/kesiapan-site-ereksi-baja-ringan.html` — Checklist Kesiapan Site dan Tumpuan sebelum Ereksi
-- `LGS-12-03` → `/artikel/urutan-ereksi-rangka-baja-ringan.html` — Urutan Ereksi Rangka Baja Ringan dan Hold Point-nya
-- `LGS-12-04` → `/artikel/temporary-bracing-ereksi-baja-ringan.html` — Temporary Bracing dan Stabilitas selama Ereksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Survey Tumpuan, Anchor, Elevasi, dan Alignment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Survey tumpuan bukan sekadar mengukur jarak antar kolom. Tim perlu tahu titik nol atau datum yang dipakai, arah sumbu, elevasi desain, posisi anchor, kondisi permukaan tumpu, serta apakah hasil ukur merujuk pada gambar dan revisi yang sama. Dua tim dapat mengukur angka yang berbeda bila memakai patokan berbeda.
+
+Salah paham yang berbahaya adalah menganggap anchor sebagai benda terpisah dari struktur. Posisi, arah, panjang yang tersedia, ulir, pelat, grout, dan kondisi beton atau substrat memengaruhi bagaimana sambungan bekerja. Survey tidak membuktikan kapasitas anchor; ia memastikan identitas dan kondisi yang harus dinilai sebelum pemasangan.
+
+Kawan Besi.co.id, perlakukan alignment sebagai hubungan antartitik, bukan garis yang “terlihat lurus” dari satu sisi. Catat titik awal, titik akhir, metode, dan titik yang tidak dapat dilihat. Dengan begitu, perbedaan dapat dibahas berdasarkan data, bukan adu perkiraan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Survey Tumpuan, Anchor, Elevasi, dan Alignment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Datum adalah referensi posisi atau elevasi yang disepakati. Alignment berarti kesesuaian garis, sumbu, dan posisi komponen terhadap referensi tersebut. Tumpuan adalah bagian tempat rangka meneruskan reaksi ke struktur pendukung; anchor adalah elemen pengikat yang menghubungkan komponen, tetapi jenis dan kapasitasnya harus dibaca dari dokumen proyek.
+
+Artikel ini membahas persiapan survey, pencatatan deviasi, pembagian tanggung jawab, dan keputusan sebelum ereksi. Ia tidak menetapkan toleransi universal, ukuran anchor, kapasitas beton, metode koreksi, atau izin mengubah pelat dan profil. Catatan PP 16/2021 serta halaman BSN untuk SNI 1729:2020, SNI 8369:2020, dan SNI 7971:2013 menunjukkan lapisan regulasi dan standar yang perlu ditelusuri, tetapi halaman katalog bukan ketentuan desain. Lihat [PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) sebagai rujukan identitas.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Survey Tumpuan, Anchor, Elevasi, dan Alignment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum ke lapangan, kumpulkan gambar terbaru, daftar tumpuan, detail anchor, urutan ereksi, dan informasi perubahan sipil. Tandai mana yang merupakan desain, mana yang merupakan kondisi terbangun, dan mana yang masih berupa asumsi. Jika profil perlu dibedakan dari produk lain, [hub Kanal C Galvalum](/kanal-c-galvalum) dapat membantu menyamakan istilah, bukan menggantikan gambar kerja.
+
+Tetapkan datum dan sumbu bersama pemilik pekerjaan, surveyor, dan tim ereksi. Catat alat yang dipakai, identitasnya, status pemeriksaan atau kalibrasinya, operator, waktu, serta kondisi yang dapat memengaruhi pengukuran. Foto harus menunjukkan lokasi dan referensi, bukan hanya close-up baut.
+
+Ukur elevasi permukaan tumpu, posisi dan arah anchor, jarak antar titik, kemiringan yang relevan, serta kondisi permukaan seperti grout retak, beton terkelupas, atau genangan. Tulis hasil dalam tabel yang menghubungkan titik lapangan dengan koordinat atau elevasi desain. “Titik A bergeser” tidak cukup tanpa nilai, arah, dan referensi.
+
+Setelah data terkumpul, lakukan pemeriksaan silang. Bandingkan jarak antar tumpuan dengan panjang rangka, cek apakah garis sumbu bertemu, dan lihat apakah anchor dapat menerima detail sambungan tanpa modifikasi liar. Jika ada deviasi, beri status: menunggu keputusan, boleh diteruskan dengan syarat tertulis, atau harus dikoreksi sebelum ereksi.
+
+ISO 13822 menempatkan tujuan, dokumen, survey, identitas material, geometri, perubahan, kerusakan, pengujian, analisis, kontrol sementara, dan disposisi dalam pekerjaan kondisi eksisting. Baca [ISO 13822](https://www.iso.org/standard/46556.html) sebagai kerangka proses. Ia tidak memberikan angka penerimaan untuk tumpuan proyek Anda.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Survey Tumpuan, Anchor, Elevasi, dan Alignment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Substrat mengubah pertanyaan survey. Tumpuan beton baru mungkin menunggu kondisi atau verifikasi tertentu; struktur lama membawa riwayat perubahan, retak, penurunan, atau penambahan beban. Tumpuan baja, pelat, dan dinding memiliki detail antarmuka berbeda. Jangan menyalin checklist dari bangunan lain tanpa memeriksa kondisi ini.
+
+Urutan kerja juga penting. Pengukuran sebelum grout, setelah grout, dan setelah beban sementara dapat menghasilkan kondisi berbeda. Tandai kapan data diambil serta pekerjaan apa yang sudah berlangsung. Jika rangka sudah sebagian berdiri, survey harus mempertimbangkan kondisi sementara dan stabilitas saat pengukuran.
+
+Akses dan keselamatan membatasi metode. [Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) serta [aturan K3 kerja di ketinggian](https://jdih.kemnaker.go.id/peraturan/detail/1210) perlu dibaca bersama rencana kerja, akses, pengamanan area, dan kompetensi personel. [NEEDS REVIEW: metode survey, izin akses, perlindungan jatuh, serta pengaturan area harus disetujui dalam dokumen K3 proyek; sumber regulasi tidak otomatis menjadi prosedur lapangan.]
+
+Perubahan arsitektur atau mekanikal dapat memindahkan bukaan dan jalur kerja. Survey harus mengabarkan hambatan itu kepada pemilik antarmuka, bukan hanya mencatatnya sebagai catatan surveyor. Siapa yang memperbaiki tumpuan, siapa yang mengubah detail rangka, dan siapa yang menerima hasil harus jelas sebelum pekerjaan berjalan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Survey Tumpuan, Anchor, Elevasi, dan Alignment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya dua anchor pada satu tumpuan tidak berada di posisi seperti detail gambar. Ambil ukuran dan arah deviasi, foto seluruh tumpuan, cek revisi detail, dan tahan pemasangan. Jangan memperbesar lubang pelat agar baut masuk sebelum penanggung jawab menilai dampaknya pada sambungan dan kapasitas.
+
+Contoh lain: elevasi salah satu tumpuan lebih rendah dari yang diharapkan. Data itu belum menentukan solusi. Tim perlu tahu apakah selisih berasal dari datum, permukaan beton, grout, atau penurunan; kemudian meminta keputusan apakah koreksi dilakukan pada pekerjaan sipil, detail sambungan, atau metode pemasangan. Setiap pilihan harus memiliki gambar atau instruksi yang dapat ditelusuri.
+
+| Temuan | Bukti minimum | Keputusan sebelum ereksi |
+|---|---|---|
+| Anchor bergeser atau miring | Koordinat, arah, foto, revisi detail | Terima dengan syarat, koreksi, atau evaluasi sambungan |
+| Elevasi tumpuan berbeda | Datum, titik ukur, kondisi permukaan | Koreksi substrat, ubah detail, atau tahan pekerjaan |
+| Sumbu tidak bertemu | Pengukuran antar titik dan sketsa | Tetapkan garis rujukan baru melalui persetujuan |
+| Area tidak dapat diakses | Catatan keterbatasan dan rencana akses | Sediakan akses aman atau tunda pelepasan |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Survey Tumpuan, Anchor, Elevasi, dan Alignment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai satu titik acuan tanpa memeriksa apakah titik itu masih stabil atau benar untuk revisi terbaru. Periksa datum silang dan simpan bukti siapa yang menetapkannya. Kesalahan kedua adalah menulis “sesuai” tanpa angka atau foto. Tanda tangan tidak dapat menggantikan data yang hilang.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah membiarkan surveyor memutuskan perubahan desain. Surveyor menyampaikan kondisi dan deviasi; persetujuan koreksi datang dari kewenangan yang ditentukan proyek. Kesalahan keempat adalah mengukur setelah rangka dipaksa masuk. Kondisi yang sudah berubah membuat penyebab deviasi sulit dibuktikan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan menyamakan hasil survey dengan NCR. Survey menemukan dan mendokumentasikan kondisi; bila kondisi tidak memenuhi persyaratan, jalur ketidaksesuaian dan keputusan perbaikannya harus dibuka sesuai sistem mutu proyek. [NEEDS REVIEW: batas tanggung jawab surveyor, QA, kontraktor sipil, dan perancang perlu ditulis dalam matriks antarmuka proyek.]
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Kalau anchor tidak pas, lubang pelat tinggal dibesarkan.” Jalan pintas ini menghapus pertanyaan tentang jarak tepi, luas efektif, arah gaya, perlindungan korosi, dan pemeriksaan setelah perubahan. Ia juga dapat membuat gambar tidak lagi menggambarkan benda yang dipasang.
 
-## Draft completion checklist
+Alternatifnya adalah menghentikan langkah yang terdampak, mengunci data survey, lalu meminta keputusan tertulis. Jika perlu klarifikasi produk atau koordinasi pemasok, gunakan [halaman kontak Besi.co.id](/kontak), tetapi jangan menganggap jawaban komersial sebagai persetujuan struktur.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Survey tumpuan, anchor, elevasi, dan alignment memberi dasar objektif sebelum rangka diangkat. Tetapkan datum, ukur dengan alat dan metode yang dapat ditelusuri, catat deviasi beserta arah dan lokasinya, bagi tanggung jawab antarmuka, lalu minta keputusan sebelum koreksi atau ereksi.
+
+Langkah berikutnya adalah membuat lembar siap-ereksi yang memuat gambar revisi, datum, daftar titik, hasil ukur, foto, keterbatasan akses, deviasi terbuka, pemilik keputusan, dan status pelepasan. Teman Besi.co.id, jangan isi kolom “diterima” sebelum bukti dan kewenangannya lengkap.
+
+Aturan operasinya: data survey menjelaskan kondisi; hanya keputusan teknis yang berwenang yang boleh mengubah detail atau menyatakan tumpuan siap menerima rangka.

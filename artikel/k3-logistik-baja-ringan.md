@@ -3,7 +3,8 @@ article_id: LGS-16-03
 title: "K3 Loading, Transport, dan Unloading Baja Ringan"
 slug: "k3-logistik-baja-ringan"
 description: "Cover zones, stable load, restraint interface, visibility, communication, unloading, and incident controls"
-status: outline
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2026-06-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,24 @@ reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/k3-logistik-baja-ringan.html"
 technical_review: required
 sources:
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # K3 Loading, Transport, dan Unloading Baja Ringan
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Baja ringan yang sudah tiba di lokasi belum otomatis aman untuk dipakai. Risiko dapat muncul ketika paket diangkat ke kendaraan, selama perjalanan, dan saat dibuka kembali di area proyek. Keputusan yang paling aman bukan sekadar “cepat muat lalu cepat bongkar”, melainkan memastikan zona kerja, kondisi paket, komunikasi, dan cara kerja telah diperiksa sebelum orang berada dekat beban.
 
-- **Writer task:** Expand this file into one complete article answering: “K3 Loading, Transport, dan Unloading Baja Ringan”
-- **Reader and situation:** Driver/logistics/site team
-- **Reader outcome:** Cover zones, stable load, restraint interface, visibility, communication, unloading, and incident controls
-- **Primary intent:** Manage logistics safety
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No restraint/unloading method; LGS-11-04 owns logistics data
-- **Final public route:** `/artikel/k3-logistik-baja-ringan.html`
-- **Appointed CMS date:** `2026-06-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: perlakukan setiap paket sebagai beban yang identitas, massa, bentuk, titik tumpu, dan kondisi ikatannya harus diketahui sebelum dipindahkan. Bila data itu tidak tersedia, area bongkar tidak stabil, alat tidak sesuai, atau orang belum memahami aba-aba, pekerjaan perlu ditahan untuk penilaian dan persetujuan yang kompeten. Satu daftar cek umum tidak dapat menggantikan penilaian risiko lokasi, metode kerja, catatan peralatan, pengawasan, dan rencana darurat yang dibutuhkan pada pekerjaan angkat-angkut. [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020) adalah salah satu rujukan yang perlu dibaca bersama dokumen proyek yang berlaku.
 
-## Opening instructions
+![Ilustrasi Jual Baja Ringan](/wp-content/uploads/2025/04/Jual-Baja-Ringan.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **K3 Loading, Transport, dan Unloading Baja Ringan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi material baja ringan dari aset lokal situs, bukan dokumentasi proyek tertentu.*
 
+Gambar ini adalah aset pendukung, bukan dokumentasi proyek, lokasi, atau hasil pekerjaan tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,143 +43,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jual Baja Ringan` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud aman dalam loading, transport, dan unloading
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Loading adalah saat material dimasukkan ke kendaraan atau diposisikan untuk diangkat. Transport adalah perpindahan di kendaraan. Unloading adalah penurunan dan penempatan di titik penerimaan. Tiga tahap ini saling tersambung: keputusan buruk pada saat muat dapat baru terlihat ketika kendaraan berhenti atau ketika ikatan akan dilepas.
 
-### KR-01
+Fokus artikel ini adalah pengendalian risiko di antarmuka tersebut: siapa yang boleh berada di zona kerja, bagaimana informasi paket diteruskan, bagaimana area penerimaan disiapkan, dan kapan pekerjaan dihentikan. Artikel ini bukan metode rinci pengikatan beban maupun metode bongkar. Metode tersebut harus disusun untuk paket, kendaraan, alat, lokasi, dan kondisi kerja yang nyata oleh pihak yang berwenang.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bajaringan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+Penyimpanan sementara juga bukan soal menaruh material di tempat kosong. Rencana penyimpanan memerlukan pemeriksaan permukaan atau rak yang stabil, pencegahan gulir atau penyebaran, akses, jalur, drainase atau ventilasi, penandaan, perlindungan kontak, kondisi cuaca, inspeksi, dan area karantina. Prinsip seperti ini terlihat dalam panduan penyimpanan material dan perlu diterjemahkan ke kondisi proyek, bukan disalin mentah sebagai desain. [OSHA tentang penyimpanan material](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250) dan [panduan perawatan/penyimpanan LYSAGHT](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation) dapat dipakai sebagai bahan cek, dengan persetujuan teknis proyek.
 
-### KR-19
+## Urutan kendali sebelum beban bergerak
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+Mulailah dari informasi, bukan dari gerakan. Penerima perlu mencocokkan dokumen pengiriman dengan penandaan paket: jenis material, jumlah kemasan, kondisi kemasan, dan petunjuk penanganan dari pemasok bila tersedia. Jika label robek, paket berubah bentuk, atau informasi massa dan geometri tidak dapat diverifikasi, jangan menerka. Pisahkan paket tersebut dan minta klarifikasi sebelum metode perpindahan dipilih.
 
-### KR-20
+Berikutnya, tetapkan area. Orang yang tidak berkepentingan tidak perlu berada di jalur kendaraan, area ayun, atau dekat titik tempat paket bisa bergeser. Batas area harus mudah dipahami, bukan hanya dipasang lalu diabaikan. Pastikan juga ada jalur untuk operator, pemberi aba-aba, dan kendaraan tanpa orang harus berjalan mundur di antara tumpukan material.
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+Kawan Besi.co.id, komunikasi harus ditetapkan sebelum kendaraan bergerak atau ikatan diubah. Tentukan siapa yang memberi aba-aba, siapa yang mengawasi akses, dan kata atau isyarat apa yang berarti berhenti. Bila pandangan terhalang, suara tidak terdengar, atau ada dua orang memberi instruksi berbeda, berhenti adalah respons yang benar. Kecepatan tidak bernilai bila semua orang tidak melihat situasi yang sama.
 
-### KR-21
+Setelah paket ditempatkan, lakukan pemeriksaan kondisi akhir sebelum zona dibuka. Lihat apakah material berada pada tumpuan yang direncanakan, apakah jalur akses tetap terbuka, apakah penandaan masih terbaca, dan apakah ada tanda kerusakan yang perlu dicatat. Temuan yang belum dapat dinilai bukan alasan untuk melanjutkan pemasangan; tandai dan karantina sesuai prosedur proyek.
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+## Kondisi yang dapat mengubah keputusan
 
-### KR-22
+Geometri paket mengubah cara risiko muncul. Material panjang dapat menonjol, paket tidak seragam dapat sulit ditumpu, dan permukaan paket dapat membuat kontak antarpaket berbeda dari perkiraan. Massa dan pusat gravitasi juga bukan detail administrasi: keduanya diperlukan untuk menilai kesesuaian alat dan rencana pemindahan. Bila data ini belum diverifikasi, [NEEDS PROJECT REVIEW: data paket, alat, dan metode angkat belum tersedia].
 
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
+Kondisi tanah serta cuaca mengubah penerimaan beban. Permukaan yang tampak lapang belum tentu cukup stabil untuk kendaraan, alat, atau tumpukan. Hujan, genangan, angin, atau pencahayaan yang buruk dapat mengubah visibilitas, akses, dan kondisi material. Karena itu pemeriksaan area dilakukan kembali pada hari pekerjaan, bukan hanya saat rencana dibuat.
 
-## Evidence gates
+Kondisi kendaraan juga bukan urusan pengemudi seorang diri. Tim penerima perlu tahu titik berhenti yang aman, arah akses, ruang manuver, serta apakah paket dapat diturunkan tanpa memindahkan material lain secara tidak terkendali. Teman Besi.co.id, bila titik bongkar berubah di lapangan, metode dan zona harus ditinjau lagi; jangan memaksa rencana lama ke tempat baru.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+## Contoh keputusan praktis di titik penerimaan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Bayangkan kendaraan tiba ketika area penerimaan baru dipakai untuk menaruh material lain. Paket baja ringan masih utuh, tetapi jalur alat terhalang dan calon tumpuannya belum dipastikan. Keputusan yang tepat bukan mencari celah paling dekat. Hentikan proses bongkar, jaga orang di luar zona, lalu tentukan lokasi sementara atau jadwal ulang setelah akses dan tumpuan diperiksa.
 
-## Internal-link plan
+Gunakan pertanyaan berikut sebagai gerbang keputusan, bukan sebagai pengganti metode kerja:
 
-### Existing local routes
+- Apakah paket dapat dikenali dan kondisinya dicatat?
+- Apakah massa, geometri, titik berat, dan instruksi pemasok telah tersedia untuk rencana yang dipakai?
+- Apakah alat, operator, dan pengawasan telah disetujui sesuai dokumen proyek?
+- Apakah zona orang, jalur kendaraan, serta komunikasi aba-aba sudah jelas?
+- Apakah tempat akhir stabil, terlindungi dari kontak atau kelembapan yang merugikan, dan tetap menyisakan akses?
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jika jawaban atas satu pertanyaan penting masih “tidak tahu”, statusnya bukan “aman asal hati-hati”. Statusnya adalah perlu verifikasi. Catat siapa yang akan memberi jawaban, dokumen apa yang diperiksa, dan kapan pekerjaan boleh dimulai kembali.
 
-### Planned sibling articles
+Catatan serah-terima membantu menjaga keputusan itu tidak hilang saat giliran kerja berganti. Catatan minimum dapat memuat waktu tiba, identitas pengiriman, kondisi paket yang terlihat, lokasi penyimpanan, temuan, dan nama pihak yang menerima atau menahan material. Catatan bukan bukti bahwa paket sudah laik dipasang. Fungsinya adalah membuat pertanyaan berikutnya dapat ditelusuri ke paket dan kondisi yang benar, bukan ke ingatan orang yang sudah pulang.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesalahan umum yang perlu dihentikan
 
-- `LGS-16-01` → `/artikel/bahaya-k3-baja-ringan.html` — Peta Bahaya K3 Baja Ringan dari Workshop hingga Atap
-- `LGS-16-02` → `/artikel/k3-cutting-drilling-baja-ringan.html` — K3 Cutting, Drilling, dan Power Tools untuk Profil Tipis
-- `LGS-16-04` → `/artikel/kerja-di-ketinggian-ereksi-baja-ringan.html` — Kerja di Ketinggian saat Ereksi Rangka Baja Ringan
-- `LGS-16-05` → `/artikel/cuaca-stop-work-ereksi-baja-ringan.html` — Angin dan Cuaca sebagai Stop-Work Condition saat Ereksi
+Kesalahan pertama adalah menganggap ikatan yang masih terpasang membuktikan beban aman dibuka. Ikatan berfungsi dalam konteks perjalanan; perubahan posisi kendaraan, tanah, alat, dan orang di sekitar beban dapat mengubah situasi. Jangan mendekat atau melepas apa pun sebelum zona, kestabilan paket, dan urutan kerja diperiksa oleh tim yang bertanggung jawab.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan kedua adalah menjadikan orang terdekat sebagai pemberi aba-aba. Dua sumber instruksi membuat operator dan pekerja lain menebak. Tetapkan satu pengarah, satu cara menghentikan pekerjaan, dan satu jalur eskalasi bila kondisi berubah. Jika pengarah harus pindah posisi atau tidak lagi melihat beban, proses dihentikan sampai komunikasi pulih.
 
-## Jawaban singkat dan salah paham utama
+Kesalahan ketiga adalah menyimpan paket yang diragukan bersama stok yang siap digunakan. Keraguan pada identitas atau kondisi akan menyebar menjadi salah ambil material. Buat area karantina yang jelas, catat temuan, dan jangan lepaskan material sampai keputusan teknis tersedia. Untuk konteks pengenalan layanan dan jalur awal pembaca, kunjungi [Besi.co.id](/).
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “K3 Loading, Transport, dan Unloading Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan berikutnya adalah memakai pemeriksaan visual singkat sebagai pengganti pemeriksaan penerimaan. Kemasan yang tampak rapi tidak menjawab apakah isi paket, jumlah, atau riwayat penanganannya sesuai dokumen. Sebaliknya, goresan atau deformasi yang terlihat tidak boleh diputuskan sendiri sebagai kerusakan ringan atau berat. Foto, penandaan, dan pemisahan sementara dapat mencegah temuan itu terlupakan sambil menunggu pihak yang tepat menilai.
 
-## Definisi dan batas objek
+## Jalan pintas: “sebentar saja, tidak perlu persiapan”
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Loading, Transport, dan Unloading Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas ini gagal karena fase paling singkat pun dapat memindahkan energi, beban, dan orang ke posisi yang sulit dikoreksi. Ketika paket mulai bergeser atau pandangan tertutup, waktu untuk menyiapkan zona sudah terlambat. Persiapan yang berguna tidak harus panjang, tetapi harus nyata: cek informasi paket, cek area, tunjuk pengarah, batasi akses, lalu sepakati kondisi berhenti.
 
-## Cara kerjanya
+Sobat Besi.co.id, jangan gunakan artikel ini untuk menetapkan kapasitas alat, jenis ikatan, urutan pelepasan, atau kelayakan lokasi. Semua itu memerlukan data proyek dan peninjauan orang yang kompeten. Ketentuan aktual juga dapat bergantung pada dokumen kontrak, prosedur pemberi kerja, peralatan, serta kondisi di lokasi.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “K3 Loading, Transport, dan Unloading Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk memastikan titik kontak dan informasi awal tetap mudah ditemukan oleh tim, pembaca juga dapat kembali ke [halaman utama Besi.co.id](/). Namun keputusan di lapangan tetap berada pada dokumen proyek dan pemeriksaan aktual, bukan pada halaman informasi umum.
 
-## Faktor yang mengubah hasil
+Untuk pembaca yang sedang menyusun materi internal, dua topik lanjutan ini masih berstatus rencana dan tidak boleh diperlakukan sebagai rujukan kerja lapangan sampai halaman serta peninjauannya tersedia: [peta bahaya K3 baja ringan](/artikel/bahaya-k3-baja-ringan.html) dan [kerja di ketinggian saat ereksi rangka](/artikel/kerja-di-ketinggian-ereksi-baja-ringan.html). Keduanya tidak menggantikan penilaian risiko untuk kegiatan bongkar yang sedang berlangsung.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Loading, Transport, dan Unloading Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya sebelum kendaraan dibongkar
 
-## Contoh keputusan praktis
+K3 loading, transport, dan unloading baja ringan berarti menjaga kendali dari paket belum bergerak sampai tersimpan atau diterima dengan jelas. Sebelum kendaraan datang, minta dokumen dan data paket yang diperlukan, tunjuk titik penerimaan, periksa akses serta tumpuan, dan siapkan siapa yang memberi aba-aba dan siapa yang menutup zona.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “K3 Loading, Transport, dan Unloading Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “K3 Loading, Transport, dan Unloading Baja Ringan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: bila identitas beban, area, komunikasi, atau metode yang disetujui belum jelas, jangan mulai atau lanjutkan pemindahan. Minta penilaian risiko dan persetujuan kompeten berdasarkan kondisi proyek yang aktual.
